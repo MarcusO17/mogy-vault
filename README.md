@@ -1,0 +1,2 @@
+# mogy-vault
+Vault
