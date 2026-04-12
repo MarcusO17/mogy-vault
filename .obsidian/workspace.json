@@ -6,7 +6,7 @@
       {
         "id": "ec9245e8bde4e975",
         "type": "tabs",
-        "dimension": 55.489260143198095,
+        "dimension": 66.09808102345416,
         "children": [
           {
             "id": "fdf61d635b3e5357",
@@ -14,14 +14,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "assets/docs/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper (2).pdf",
-                "page": 7,
-                "left": -14,
-                "top": 689,
-                "zoom": 1.0612745098039218
+                "file": "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
+                "page": 1,
+                "left": -4,
+                "top": 23,
+                "zoom": 1.5
               },
               "icon": "lucide-file-text",
-              "title": "NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper (2)"
+              "title": "NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper"
             }
           }
         ]
@@ -29,7 +29,7 @@
       {
         "id": "5cc8ece9a31acd29",
         "type": "tabs",
-        "dimension": 44.51073985680191,
+        "dimension": 33.90191897654584,
         "children": [
           {
             "id": "e8f298020e3cdd08",
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6fef7dc35113cb44",
@@ -208,12 +209,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cebf8682254e1130",
+  "active": "fdf61d635b3e5357",
   "lastOpenFiles": [
     "literature-notes/papers",
     "literature-notes/papers/AlexNet.md",
     "Untitled.canvas",
-    "assets/docs/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper (2).pdf",
+    "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
     "2026-04-12.md",
     "assets/templates/Paper.md",
     "assets/docs",
