@@ -24,8 +24,10 @@ tags:
 > > However, on this dataset the primary concern is preventing overfitting, so the effect they are observing is different from the accelerated ability to fit the training set which we report when using ReLUs. 
 > 
 > 
-2. Utilise ReLU for It's non-linearity.
-3. 
+	1. Utilise ReLU for It's non-linearity.
+
+2. 
+
 
 
 ## Architecture
