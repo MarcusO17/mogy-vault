@@ -18,7 +18,7 @@
                 "page": 1,
                 "left": -15,
                 "top": 796,
-                "zoom": 1.0073529411764706
+                "zoom": 0.9926470588235294
               },
               "icon": "lucide-file-text",
               "title": "NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper (2)"
@@ -208,10 +208,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fdf61d635b3e5357",
+  "active": "e8f298020e3cdd08",
   "lastOpenFiles": [
-    "literature-notes/AlexNet.md",
+    "Untitled.canvas",
     "assets/docs/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper (2).pdf",
+    "2026-04-12.md",
+    "literature-notes/AlexNet.md",
     "assets/templates/Paper.md",
     "assets/docs",
     "assets/templates",
