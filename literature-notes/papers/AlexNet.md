@@ -18,6 +18,10 @@ tags:
 
 1. Crop by Long Side, Resize to 256x256 and Normalize
 
+## Key Points
+
+1. Utilise ReLU for It's non-linearity.
+
 
 ## Architecture
 
