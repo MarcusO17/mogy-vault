@@ -28,10 +28,6 @@ tags:
 	1. Utilise ReLU for It's non-linearity.
 
 
-> [!PDF|yellow] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=3&selection=141,0,148,1&color=yellow|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.3]]
-> > The resultant architecture is somewhat similar to that of the “columnar” CNN employed by Cire¸san et al. [5], except that our columns are not independent (see Figure 2). This scheme reduces our top-1 and top-5 error rates by 1.7% and 1.2%, respectively, as compared with a net with half as many kernels in each convolutional layer trained on one GPU. The two-GPU net takes slightly less time to train than the one-GPU net2.
-
-
 
 
 
