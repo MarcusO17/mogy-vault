@@ -16,9 +16,9 @@
               "state": {
                 "file": "assets/docs/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper (2).pdf",
                 "page": 1,
-                "left": -13,
+                "left": -15,
                 "top": 796,
-                "zoom": 1.1348039215686274
+                "zoom": 1.0073529411764706
               },
               "icon": "lucide-file-text",
               "title": "NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper (2)"
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6fef7dc35113cb44",
