@@ -6,7 +6,7 @@
       {
         "id": "ec9245e8bde4e975",
         "type": "tabs",
-        "dimension": 52.13219616204691,
+        "dimension": 55.489260143198095,
         "children": [
           {
             "id": "fdf61d635b3e5357",
@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "assets/docs/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper (2).pdf",
-                "page": 1,
-                "left": -15,
-                "top": 796,
-                "zoom": 0.9926470588235294
+                "page": 7,
+                "left": -14,
+                "top": 689,
+                "zoom": 1.0612745098039218
               },
               "icon": "lucide-file-text",
               "title": "NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper (2)"
@@ -29,7 +29,7 @@
       {
         "id": "5cc8ece9a31acd29",
         "type": "tabs",
-        "dimension": 47.86780383795309,
+        "dimension": 44.51073985680191,
         "children": [
           {
             "id": "e8f298020e3cdd08",
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature-notes/AlexNet.md",
+                "file": "literature-notes/papers/AlexNet.md",
                 "mode": "source",
                 "source": false
               },
@@ -208,12 +208,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e8f298020e3cdd08",
+  "active": "cebf8682254e1130",
   "lastOpenFiles": [
+    "literature-notes/papers",
+    "literature-notes/papers/AlexNet.md",
     "Untitled.canvas",
     "assets/docs/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper (2).pdf",
     "2026-04-12.md",
-    "literature-notes/AlexNet.md",
     "assets/templates/Paper.md",
     "assets/docs",
     "assets/templates",
