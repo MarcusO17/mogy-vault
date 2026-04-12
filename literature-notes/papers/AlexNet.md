@@ -21,5 +21,5 @@ tags:
 
 ## Architecture
 
-]\
+
 
