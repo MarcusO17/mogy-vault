@@ -26,6 +26,7 @@ tags:
 > 
 > 
 	1. Utilise ReLU for It's non-linearity.
+	2. 
 
 
 
