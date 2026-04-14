@@ -27,7 +27,19 @@ tags:
 > 
 	1. We are focused on it's training acceleration property rather than the prevention of overfitting.
 
-
+> [!PDF|yellow] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=4&selection=6,23,7,14&color=yellow|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.4]]
+> > However, we still find that the following local normalization scheme aids generalization
+> 
+> 1. LocalResponseNorm
+> 2. > [!PDF|yellow] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=4&selection=105,0,127,2&color=yellow|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.4]]
+> >  k = 2, n = 5, α = 10−4, and β = 0.75
+> 3. > [!PDF|yellow] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=4&selection=128,3,129,82&color=yellow|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.4]]
+> > We applied this normalization after applying the ReLU nonlinearity in certain layers 
+> 
+> 
+> 
+> 
+> 
 
 
 
