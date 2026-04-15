@@ -1,10 +1,4 @@
 {
-	"nodes":[
-		{"id":"ca262d14cb3c3fbc","x":-312,"y":-124,"width":400,"height":400,"type":"file","file":"literature-notes/papers/AlexNet.md"},
-		{"id":"7a6b81298f41ae5e","x":180,"y":-480,"width":400,"height":400,"type":"file","file":"assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf","subpath":"#page=2&selection=46,10,65,70&color=yellow"}
-	],
-	"edges":[
-		{"id":"dc2cb1f3076b6dfe","fromNode":"ca262d14cb3c3fbc","fromSide":"right","toNode":"7a6b81298f41ae5e","toSide":"left"},
-		{"id":"fb36092487205b30","fromNode":"7a6b81298f41ae5e","fromSide":"right","toNode":"ca262d14cb3c3fbc","toSide":"right"}
-	]
+	"nodes":[],
+	"edges":[]
 }
