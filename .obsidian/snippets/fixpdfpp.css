@@ -1,0 +1,4 @@
+.pdf-viewer .annotationLayer .highlight {
+  opacity: 0.4 !important;
+  mix-blend-mode: multiply !important;
+}
