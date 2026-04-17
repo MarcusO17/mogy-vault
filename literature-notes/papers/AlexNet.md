@@ -21,12 +21,14 @@ tags:
 ## Key Points
 
 
+###  ReLU Usage
 > [!PDF|yellow] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=3&selection=119,21,123,11&color=yellow|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.3]]
 > > However, on this dataset the primary concern is preventing overfitting, so the effect they are observing is different from the accelerated ability to fit the training set which we report when using ReLUs. 
 > 
 > 
 	1. We are focused on it's training acceleration property rather than the prevention of overfitting.
 
+### Local Response Normalisation
 > [!PDF|yellow] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=4&selection=6,23,7,14&color=yellow|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.4]]
 > > However, we still find that the following local normalization scheme aids generalization
 > 
@@ -40,6 +42,7 @@ tags:
 > 
 
 
+### Overlapping 
 
 
 
