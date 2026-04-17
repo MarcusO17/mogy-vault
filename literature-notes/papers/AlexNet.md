@@ -41,8 +41,17 @@ tags:
 > 
 > 
 
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=4&selection=130,0,132,14|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.4]]
+> > This scheme bears some resemblance to the local contrast normalization scheme of Jarrett et al. [11], but ours would be more correctly termed “brightness normalization”, since we do not subtract the mean activity.
+> 
+> > [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=9&selection=64,5,68,29|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.9]]
+> > K. Jarrett, K. Kavukcuoglu, M. A. Ranzato, and Y. LeCun. What is the best multi-stage architecture for object recognition? In International Conference on Computer Vision, pages 2146–2153. IEEE, 2009
+> 
+> 
 
-### Overlapping 
+
+### Overlapping Pooling
+
 
 
 
