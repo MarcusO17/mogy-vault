@@ -48,6 +48,15 @@ tags:
 
 
 ### Overlapping Pooling
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=4&selection=166,8,191,32|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.4]]
+> >  If we set s < z, we obtain overlapping pooling. This is what we use throughout our network, with s = 2 and z = 3. This scheme reduces the top-1 and top-5 error rates by 0.4% and 0.3%, respectively, as compared with the non-overlapping scheme s = 2, z = 2, which produces output of equivalent dimensions.
+> >  
+> >  > [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=4&selection=191,33,192,48|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.4]]
+> > We generally observe during training that models with overlapping pooling find it slightly more difficult to overfit.
+> 
+> 
+
+### Data Augmentation
 
 
 
