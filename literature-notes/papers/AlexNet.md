@@ -73,11 +73,17 @@ tags:
 
 > [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=0,0,1,52|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
 > 
-> >To each training image, we add multiples of the found principal components,
+> >To each training image, we add multiples of the found principal components, with magnitudes proportional to the corresponding eigenvalues times a random variable drawn from a Gaussian with mean zero and standard deviation 0.1
 > 
->with magnitudes proportional to the corresponding eigenvalues times a random variable drawn from a Gaussian with mean zero and standard deviation 0.1
+> > [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=1,54,79,38|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > Therefore to each RGB image pixel Ixy = [IR xy , IG xy , IB xy ]T we add the following quantity: [p1, p2, p3][α1λ1, α2λ2, α3λ3]T where pi and λi are ith eigenvector and eigenvalue of the 3 × 3 covariance matrix of RGB pixel values, respectively, and αi is the aforementioned random variable.
+
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=86,22,87,100|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > This scheme approximately captures an important property of natural images, namely, that object identity is invariant to changes in the intensity and color of the illumination.
 > 
 > 
+
+### 
 
 
 ## Architecture
