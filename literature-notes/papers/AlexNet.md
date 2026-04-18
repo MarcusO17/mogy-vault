@@ -71,7 +71,13 @@ tags:
 > 
 > 
 
-
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=0,0,1,52|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> 
+> >To each training image, we add multiples of the found principal components,
+> 
+>with magnitudes proportional to the corresponding eigenvalues times a random variable drawn from a Gaussian with mean zero and standard deviation 0.1
+> 
+> 
 
 
 ## Architecture
