@@ -101,3 +101,25 @@ tags:
 
 ## Training Details
 
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=140,0,142,22|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > We trained our models using stochastic gradient descent with a batch size of 128 examples, momentum of 0.9, and weight decay of 0.0005
+
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=145,39,145,54|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > The update rule
+
+
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=264,0,265,13|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > We initialized the weights in each layer from a zero-mean Gaussian distribution with standard deviation 0.01.
+
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=265,14,266,68|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > We initialized the neuron biases in the second, fourth, and fifth convolutional layers, as well as in the fully-connected hidden layers, with the constant 1
+> 
+> > [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=266,70,267,73|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > This initialization accelerates the early stages of learning by providing the ReLUs with positive inputs.
+> 
+> 
+
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=267,74,268,51|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > We initialized the neuron biases in the remaining layers with the constant 0.
+> 
+> 
