@@ -85,12 +85,19 @@ tags:
 
 ### Dropout
 
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=103,43,106,13|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > This technique reduces complex co-adaptations of neurons, since a neuron cannot rely on the presence of particular other neurons. It is, therefore, forced to learn more robust features that are useful in conjunction with many different random subsets of the other neurons
 
-
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=106,13,108,40|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > . At test time, we use all the neurons but multiply their outputs by 0.5, which is a reasonable approximation to taking the geometric mean of the predictive distributions produced by the exponentially-many dropout networks.
+> 
+> 
 
 
 ## Architecture
 
 
 
+
+## Training Details
 
