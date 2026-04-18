@@ -16,9 +16,9 @@
               "state": {
                 "file": "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
                 "page": 3,
-                "left": -12,
-                "top": 200,
-                "zoom": 1.25
+                "left": -19,
+                "top": 204,
+                "zoom": 0.7818627450980393
               },
               "icon": "lucide-file-text",
               "title": "NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper"
@@ -44,8 +44,23 @@
               "icon": "lucide-file",
               "title": "AlexNet"
             }
+          },
+          {
+            "id": "86434f96a7e8f503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature-notes/papers/AlexNet.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AlexNet"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -208,10 +223,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d72a1c2caa1e9f71",
+  "active": "86434f96a7e8f503",
   "lastOpenFiles": [
-    "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
     "literature-notes/papers/AlexNet.md",
+    "conflict-files-obsidian-git.md",
+    "literature-notes/mechanisms/Local Response Normalisation.md",
+    "literature-notes/mechanisms",
+    "assets/templates/Mechanism.md",
+    "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
     "2026-04-12.md",
     "Untitled.canvas",
     "literature-notes/papers",
