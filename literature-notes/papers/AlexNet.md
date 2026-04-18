@@ -59,7 +59,10 @@ tags:
 ### Data Augmentation
 
 
-
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=5&selection=84,6,100,32|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.5]]
+> >  We do this by extracting random 224 × 224 patches (and their horizontal reflections) from the 256×256 images and training our network on these extracted patches4
+> 
+> 
 
 ## Architecture
 
