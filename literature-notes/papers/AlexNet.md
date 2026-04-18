@@ -59,10 +59,20 @@ tags:
 ### Data Augmentation
 
 
-> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=5&selection=84,6,100,32|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.5]]
-> >  We do this by extracting random 224 × 224 patches (and their horizontal reflections) from the 256×256 images and training our network on these extracted patches4
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=5&selection=84,7,98,58|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.5]]
+> > We do this by extracting random 224 × 224 patches (and their horizontal reflections) from the 256×256 images and training our network on these extracted patches
+> 
+> > [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=5&selection=102,11,103,38|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.5]]
+> > Without this scheme, our network suffers from substantial overfitting, which would have forced us to use much smaller networks
+
+
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=5&selection=103,40,114,25|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.5]]
+> > At test time, the network makes a prediction by extracting five 224 × 224 patches (the four corner patches and the center patch) as well as their horizontal reflections (hence ten patches in all), and averaging the predictions made by the network’s softmax layer on the ten patches.
 > 
 > 
+
+
+
 
 ## Architecture
 
