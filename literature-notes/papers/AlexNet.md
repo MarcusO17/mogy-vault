@@ -99,6 +99,7 @@ tags:
 
 
 
+
 ## Training Details
 
 > [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=138,0,138,19|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
