@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "literature-notes/papers/AlexNet.md",
+                "file": "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AlexNet"
+              "title": "Backlinks for NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper"
             }
           },
           {
@@ -208,10 +208,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d72a1c2caa1e9f71",
+  "active": "fdf61d635b3e5357",
   "lastOpenFiles": [
-    "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
     "literature-notes/papers/AlexNet.md",
+    "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
     "conflict-files-obsidian-git.md",
     "literature-notes/mechanisms/Local Response Normalisation.md",
     "literature-notes/mechanisms",
