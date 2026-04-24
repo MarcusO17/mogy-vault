@@ -24,7 +24,7 @@
             }
           },
           {
-            "id": "355bcc0d00c606fb",
+            "id": "68da27bf04aaeebd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -216,10 +216,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "355bcc0d00c606fb",
+  "active": "68da27bf04aaeebd",
   "lastOpenFiles": [
     "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
     "conflict-files-obsidian-git.md",
+    "literature-notes/papers/LeNet-5.md",
+    "assets/docs/Lecun98.pdf",
     "literature-notes/papers/AlexNet.md",
     "literature-notes/mechanisms/Local Response Normalisation.md",
     "assets/templates/Paper.md",
