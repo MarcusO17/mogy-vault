@@ -4,6 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "35486a595c1da712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d9e2bbfba3adad3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
+                "page": 5,
+                "left": -20,
+                "top": 28,
+                "zoom": 0.7647058823529413
+              },
+              "icon": "lucide-file-text",
+              "title": "NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper"
+            }
+          }
+        ]
+      },
+      {
         "id": "ec9245e8bde4e975",
         "type": "tabs",
         "children": [
@@ -11,16 +33,14 @@
             "id": "fdf61d635b3e5357",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
-                "page": 5,
-                "left": -9,
-                "top": 191,
-                "zoom": 1.7598039215686276
+                "file": "literature-notes/papers/LeNet-5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper"
+              "icon": "lucide-file",
+              "title": "LeNet-5"
             }
           }
         ]
@@ -55,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#normalisation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,11 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper"
             }
           },
           {
@@ -135,20 +156,6 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "d72a1c2caa1e9f71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "literature-notes/papers/AlexNet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AlexNet"
             }
           },
           {
@@ -171,20 +178,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,13 +209,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fdf61d635b3e5357",
+  "active": "8d9e2bbfba3adad3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
     "literature-notes/papers/LeNet-5.md",
-    "assets/docs/Lecun98.pdf",
     "literature-notes/papers/AlexNet.md",
+    "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
+    "conflict-files-obsidian-git.md",
+    "assets/docs/Lecun98.pdf",
     "literature-notes/mechanisms/Local Response Normalisation.md",
     "assets/templates/Paper.md",
     "assets/templates/Mechanism.md",
