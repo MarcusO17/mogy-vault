@@ -15,9 +15,9 @@
               "state": {
                 "file": "assets/docs/Lecun98.pdf",
                 "page": 7,
-                "left": -20,
-                "top": 506,
-                "zoom": 0.7647058823529411
+                "left": 236,
+                "top": 589,
+                "zoom": 1.9
               },
               "icon": "lucide-file-text",
               "title": "Lecun98"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/docs/Lecun98.pdf",
+                "file": "literature-notes/papers/LeNet-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecun98"
+              "title": "Backlinks for LeNet-5"
             }
           },
           {
@@ -135,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/docs/Lecun98.pdf",
+                "file": "literature-notes/papers/LeNet-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecun98"
+              "title": "Outgoing links from LeNet-5"
             }
           },
           {
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/docs/Lecun98.pdf",
+                "file": "literature-notes/papers/LeNet-5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecun98"
+              "title": "Outline of LeNet-5"
             }
           }
         ],
@@ -209,10 +209,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "573758a6a2ca6a3e",
+  "active": "fdf61d635b3e5357",
   "lastOpenFiles": [
-    "literature-notes/papers/LeNet-5.md",
     "assets/docs/Lecun98.pdf",
+    "literature-notes/papers/LeNet-5.md",
     "assets/docs/Lecun98_repaired.pdf",
     "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
     "literature-notes/papers/AlexNet.md",
