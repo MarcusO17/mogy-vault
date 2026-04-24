@@ -1,8 +1,12 @@
 ---
-title: "Gradient\x02Based Learning Applied to Do cument Recognition"
-authors:
+title: Gradient-Based Learning Applied to Document Recognition
+authors: Yann LeCun, Leon Bottou, Yoshua Bengio, Patrick Haffner
 publication date:
-pdf:
+pdf: "[[Lecun98.pdf]]"
 url:
 tags:
 ---
+# Architecture
+
+## Layers
+
