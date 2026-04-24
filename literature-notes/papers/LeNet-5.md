@@ -10,3 +10,7 @@ tags:
 
 ## Layers
 
+> [!PDF|] [[Lecun98.pdf#page=7&selection=1387,0,1507,12|Lecun98, p.7]]
+> >
+> 
+> 
