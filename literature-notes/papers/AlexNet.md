@@ -59,10 +59,49 @@ tags:
 ### Data Augmentation
 
 
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=5&selection=84,7,98,58|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.5]]
+> > We do this by extracting random 224 × 224 patches (and their horizontal reflections) from the 256×256 images and training our network on these extracted patches
+> 
+> > [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=5&selection=102,11,103,38|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.5]]
+> > Without this scheme, our network suffers from substantial overfitting, which would have forced us to use much smaller networks
+
+
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=5&selection=103,40,114,25|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.5]]
+> > At test time, the network makes a prediction by extracting five 224 × 224 patches (the four corner patches and the center patch) as well as their horizontal reflections (hence ten patches in all), and averaging the predictions made by the network’s softmax layer on the ten patches.
+> 
+> 
+
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=0,0,1,52|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> 
+> >To each training image, we add multiples of the found principal components, with magnitudes proportional to the corresponding eigenvalues times a random variable drawn from a Gaussian with mean zero and standard deviation 0.1
+> 
+> > [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=1,54,79,38|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > Therefore to each RGB image pixel Ixy = [IR xy , IG xy , IB xy ]T we add the following quantity: [p1, p2, p3][α1λ1, α2λ2, α3λ3]T where pi and λi are ith eigenvector and eigenvalue of the 3 × 3 covariance matrix of RGB pixel values, respectively, and αi is the aforementioned random variable.
+
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=86,22,87,100|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > This scheme approximately captures an important property of natural images, namely, that object identity is invariant to changes in the intensity and color of the illumination.
+> 
+> 
+
+### Dropout
+
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=103,43,106,13|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > This technique reduces complex co-adaptations of neurons, since a neuron cannot rely on the presence of particular other neurons. It is, therefore, forced to learn more robust features that are useful in conjunction with many different random subsets of the other neurons
+
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=106,13,108,40|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > . At test time, we use all the neurons but multiply their outputs by 0.5, which is a reasonable approximation to taking the geometric mean of the predictive distributions produced by the exponentially-many dropout networks.
+> 
+> 
 
 
 ## Architecture
 
 
 
+
+
+## Training Details
+
+> [!PDF|] [[NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf#page=6&selection=138,0,138,19|NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper, p.6]]
+> > Details of learning
 
