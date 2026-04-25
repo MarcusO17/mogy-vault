@@ -16,7 +16,7 @@
                 "file": "assets/docs/Lecun98.pdf",
                 "page": 7,
                 "left": -13,
-                "top": 596,
+                "top": 604,
                 "zoom": 1.1813725490196079
               },
               "icon": "lucide-file-text",
@@ -208,10 +208,10 @@
   },
   "active": "5d95f24c32eb0cb0",
   "lastOpenFiles": [
-    "assets/docs/Lecun98.pdf",
-    "literature-notes/papers/LeNet-5.md",
-    "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
     "literature-notes/papers/AlexNet.md",
+    "literature-notes/papers/LeNet-5.md",
+    "assets/docs/Lecun98.pdf",
+    "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
     "conflict-files-obsidian-git.md",
     "literature-notes/mechanisms/Local Response Normalisation.md",
     "literature-notes/mechanisms",
