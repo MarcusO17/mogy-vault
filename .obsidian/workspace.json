@@ -11,26 +11,14 @@
             "id": "fdf61d635b3e5357",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "literature-notes/bignotes/the PyTorch Process.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "969c67a8f93a7624",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5d95f24c32eb0cb0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "the PyTorch Process"
             }
           }
         ]
@@ -106,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "literature-notes/bignotes/the PyTorch Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for the PyTorch Process"
             }
           },
           {
@@ -178,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +185,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cebf8682254e1130",
+  "active": "fdf61d635b3e5357",
   "lastOpenFiles": [
+    "literature-notes/mechanisms/Local Response Normalisation.md",
+    "literature-notes/bignotes/the PyTorch Process.md",
+    "literature-notes/bignotes",
     "literature-notes/papers/LeNet-5.md",
     "conflict-files-obsidian-git.md",
     "literature-notes/papers/AlexNet.md",
     "assets/docs/Lecun98.pdf",
     "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
-    "literature-notes/mechanisms/Local Response Normalisation.md",
     "literature-notes/mechanisms",
     "assets/templates/Mechanism.md",
     "2026-04-12.md",
