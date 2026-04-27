@@ -6,5 +6,9 @@ There is somewhat of a ML/PyTorch process.
 2. Set Globals
 	1. BATCH_SIZE, RANDOM_SEED, NUM_EPOCHS, DEVICE
 
+# Loading Data
+1.  Load in datasets
+	1. Use datasets library, pandas etc.
+	2. Add in tran
 
-3. 
+2. Place in Dataloaders, 
