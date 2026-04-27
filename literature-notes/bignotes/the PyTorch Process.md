@@ -9,6 +9,9 @@ There is somewhat of a ML/PyTorch process.
 # Loading Data
 1.  Load in datasets
 	1. Use datasets library, pandas etc.
-	2. Add in tran
+	2. Add in transforms as needed, transform.Compose()
 
-2. Place in Dataloaders, 
+2. Place in Data Loaders,
+
+
+# Model
