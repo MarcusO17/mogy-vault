@@ -26,9 +26,9 @@ There is somewhat of a ML/PyTorch process.
 		1. add in architecture
 		2. weight init if needed.
 	2. forward
-		1. forward pass, return logits (before threshold) / probas (after threshold)
-2. model init + model.to(DEVICE)
-3. Loss and Optimizer
+		1. forward pass, return logits (before output functions) / probas (after output function)
+3. model init + model.to(DEVICE)
+4. Loss and Optimizer
 	1. Can try NLL/MAE/MSE and SGD/Adam if unsure
 ## Model Training
 1. Loop through Epoch
