@@ -15,8 +15,7 @@ There is somewhat of a ML/PyTorch process.
 
 2. Place in Data Loaders
 	1. Train and Test loaders
-	2. in batch
-
+	2. Set Batch Size if needed
 
 # Model
 ## Model Init
