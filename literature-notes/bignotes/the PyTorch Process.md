@@ -19,6 +19,7 @@ There is somewhat of a ML/PyTorch process.
 
 
 # Model
+## Model Init
 1. Class Model(torch.nn.Module)
 	1. init func 
 		1. add in architecture
@@ -26,4 +27,7 @@ There is somewhat of a ML/PyTorch process.
 	2. forward
 		1. forward pass, return logits (before threshold) / probas (after threshold)
 2. model init + model.to(DEVICE)
-	
+3. Loss and Optimizer
+	1. Can try NLL/MAE/MSE and SGD/Adam if unsure
+## Model Training
+1. 
