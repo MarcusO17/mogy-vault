@@ -38,4 +38,5 @@ There is somewhat of a ML/PyTorch process.
 		4. backward pass 
 		5. optim.step to update weights.
 
+		6. OPTIONAL: Logging, print Epoch, Batch and cost count
 		
