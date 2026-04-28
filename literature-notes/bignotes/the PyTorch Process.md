@@ -40,8 +40,10 @@ There is somewhat of a ML/PyTorch process.
 
 		6. OPTIONAL: Logging, print Epoch, Batch and cost count
 
-## Evaluation
+### Evaluation
 1. Evaluation
 	1. Disable grad tracking (model.eval() and with torch.inference_mode())
 	2. Loop through test loader
-		1.  forward pass on 
+		1.  forward pass 
+		2. argmax on probas 
+		3. accumulate num_examples and pred_labels == targets. divide for acc.
