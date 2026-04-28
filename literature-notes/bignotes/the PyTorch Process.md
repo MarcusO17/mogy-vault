@@ -34,13 +34,14 @@ There is somewhat of a ML/PyTorch process.
 1. Loop through Epoch
 	1. model.train()
 	2. Loop through Batches (enum loader)
-		1.  forward pass
-		2. compute loss of pred to targets
-		3. zero gradients of the optimizer
-		4. backward pass 
-		5. optim.step to update weights.
+		1. Send features and targets to DEVICE
+		2.  forward pass
+		3. compute loss of pred to targets
+		4. zero gradients of the optimizer
+		5. backward pass 
+		6. optim.step to update weights.
 
-		6. OPTIONAL: Logging, print Epoch, Batch and cost count
+		7. OPTIONAL: Logging, print Epoch, Batch and cost count
 
 ### Evaluation
 1. Evaluation
