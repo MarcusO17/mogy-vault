@@ -31,3 +31,4 @@ There is somewhat of a ML/PyTorch process.
 ## Model Training
 1. Loop through Epoch
 	1. Loop through Batches (enum loader)
+	2. 
