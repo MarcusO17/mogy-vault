@@ -28,7 +28,7 @@ There is somewhat of a ML/PyTorch process.
 	2. forward
 		1. forward pass, return logits (before output functions) / probas (after output function)
 3. model init + model.to(DEVICE)
-4. Loss and Optimizer
+4. Loss and Optimizer (Loss can be done later)
 	1. Can try NLL/MAE/MSE and SGD/Adam if unsure
 ## Model Training
 1. Loop through Epoch
