@@ -36,7 +36,7 @@ There is somewhat of a ML/PyTorch process.
 	2. Loop through Batches (enum loader)
 		1. Send features and targets to DEVICE
 		2.  forward pass
-		3. compute loss of pred to targets
+		3. compute COST/loss of pred to targets
 		4. zero gradients of the optimizer
 		5. backward pass 
 		6. optim.step to update weights.
