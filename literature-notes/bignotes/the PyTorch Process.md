@@ -20,6 +20,10 @@ There is somewhat of a ML/PyTorch process.
 
 # Model
 1. Class Model(torch.nn.Module)
-	1. init func
+	1. init func 
 		1. add in architecture
 		2. weight init if needed.
+	2. forward
+		1. forward pass, return logits (before threshold) / probas (after threshold)
+2. model init + model.to(DEVICE)
+	
