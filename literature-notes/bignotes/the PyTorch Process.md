@@ -20,7 +20,8 @@ There is somewhat of a ML/PyTorch process.
 
 # Model
 ## Model Init
-1. Class Model(torch.nn.Module)
+1. torch.manual_seed(RANDOM_SEED) #Fix
+2. Class Model(torch.nn.Module)
 	1. init func 
 		1. add in architecture
 		2. weight init if needed.
