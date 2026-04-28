@@ -40,4 +40,4 @@ There is somewhat of a ML/PyTorch process.
 
 		6. OPTIONAL: Logging, print Epoch, Batch and cost count
 
-	3.   Disable grad tracking, w
+	3.   Disable grad tracking, with model.inference_mode()
