@@ -46,4 +46,5 @@ There is somewhat of a ML/PyTorch process.
 	2. Loop through test loader
 		1.  forward pass 
 		2. argmax on probas 
-		3. accumulate num_examples and pred_labels == targets. divide for acc.
+		3. 4. num_correct += (predicted == targets).sum().item() 5. num_examples += targets.size(0)
+		4. accumulate num_examples and pred_labels == targets. divide for acc.
