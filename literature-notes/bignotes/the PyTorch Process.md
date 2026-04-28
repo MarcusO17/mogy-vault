@@ -39,4 +39,5 @@ There is somewhat of a ML/PyTorch process.
 		5. optim.step to update weights.
 
 		6. OPTIONAL: Logging, print Epoch, Batch and cost count
-		
+
+	3.   Disable grad tracking, w
