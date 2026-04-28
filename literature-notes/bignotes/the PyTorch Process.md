@@ -30,4 +30,4 @@ There is somewhat of a ML/PyTorch process.
 	1. Can try NLL/MAE/MSE and SGD/Adam if unsure
 ## Model Training
 1. Loop through Epoch
-	1. Loop through Batches (enum loader ())
+	1. Loop through Batches (enum loader)
