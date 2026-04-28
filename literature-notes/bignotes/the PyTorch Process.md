@@ -44,3 +44,4 @@ There is somewhat of a ML/PyTorch process.
 1. Evaluation
 	1. Disable grad tracking (model.eval() and with torch.inference_mode())
 	2. Loop through test loader
+		1.  forward pass on 
