@@ -6,6 +6,7 @@ There is somewhat of a ML/PyTorch process.
 2. Set Globals
 	1. BATCH_SIZE, RANDOM_SEED, NUM_EPOCHS, DEVICE
 	2. LEARNING_RATE
+	3. NUM_CLASSES/
 
 
 # Loading Data
