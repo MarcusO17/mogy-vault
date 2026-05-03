@@ -26,14 +26,14 @@
             "id": "c2edde4c4d3a67c0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "literature-notes/bignotes/Convolutional Neural Network.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper"
+              "icon": "lucide-file",
+              "title": "Convolutional Neural Network"
             }
           }
         ],
@@ -224,9 +224,10 @@
   },
   "active": "c2edde4c4d3a67c0",
   "lastOpenFiles": [
+    "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
+    "literature-notes/bignotes/Convolutional Neural Network.md",
     "assets/docs/1409.1556v6.pdf",
     "literature-notes/papers/AlexNet.md",
-    "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
     "literature-notes/bignotes/the PyTorch Process.md",
     "literature-notes/mechanisms/Local Response Normalisation.md",
     "literature-notes/bignotes",
