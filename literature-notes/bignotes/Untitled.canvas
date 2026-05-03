@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"c427ab63fafef704","x":-340,"y":-320,"width":250,"height":60,"type":"text","text":"Le-Net5"},
-		{"id":"cb39a6b4546e0d89","x":-500,"y":-160,"width":250,"height":60,"type":"text","text":""}
+		{"id":"c427ab63fafef704","x":-340,"y":-320,"width":250,"height":60,"type":"text","text":"Le-Net 5"},
+		{"id":"cb39a6b4546e0d89","x":60,"y":-327,"width":250,"height":75,"type":"text","text":"AlexNet"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"4cb1ec3ceae9cb95","fromNode":"c427ab63fafef704","fromSide":"right","toNode":"cb39a6b4546e0d89","toSide":"left"}
+	]
 }
