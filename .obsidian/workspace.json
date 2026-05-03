@@ -29,10 +29,8 @@
               "type": "pdf",
               "state": {
                 "file": "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
-                "page": 5,
-                "left": 95,
-                "top": 793,
-                "zoom": 1.8
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper"
