@@ -25,16 +25,13 @@
             "id": "c2edde4c4d3a67c0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "literature-notes/bignotes/Untitled.canvas",
-                "viewState": {
-                  "x": 5,
-                  "y": -399.5,
-                  "zoom": 0
-                }
+                "file": "literature-notes/papers/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "Untitled"
             }
           }
@@ -205,6 +202,8 @@
   },
   "active": "c2edde4c4d3a67c0",
   "lastOpenFiles": [
+    "literature-notes/papers/VGG-16.md",
+    "literature-notes/papers/Untitled.md",
     "literature-notes/bignotes/Untitled.md",
     "literature-notes/bignotes/Untitled.canvas",
     "literature-notes/bignotes/Convolutional Neural Network.md",
