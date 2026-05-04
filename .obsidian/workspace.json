@@ -25,6 +25,29 @@
             "id": "c2edde4c4d3a67c0",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "assets/docs/1409.1556v6.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 796,
+                "zoom": 1.3651960784313726
+              },
+              "icon": "lucide-file-text",
+              "title": "1409.1556v6"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "366c5d372d7d5875",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd5cdb0832e75d15",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "literature-notes/papers/VGG-16.md",
@@ -35,8 +58,7 @@
               "title": "VGG-16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,15 +222,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c2edde4c4d3a67c0",
+  "active": "fd5cdb0832e75d15",
   "lastOpenFiles": [
-    "literature-notes/papers/VGG-16.md",
+    "assets/docs/1409.1556v6.pdf",
+    "assets/docs/1409.1556v6 1.pdf",
     "literature-notes/papers/VGG-16.md",
     "literature-notes/bignotes/Untitled.md",
     "literature-notes/bignotes/Untitled.canvas",
     "literature-notes/bignotes/Convolutional Neural Network.md",
     "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
-    "assets/docs/1409.1556v6.pdf",
     "literature-notes/papers/AlexNet.md",
     "literature-notes/bignotes/the PyTorch Process.md",
     "literature-notes/mechanisms/Local Response Normalisation.md",
@@ -224,7 +246,6 @@
     "assets/templates/Paper.md",
     "assets/docs",
     "assets/templates",
-    "literature-notes",
-    "assets"
+    "literature-notes"
   ]
 }
