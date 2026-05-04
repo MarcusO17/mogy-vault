@@ -25,5 +25,4 @@ tags:
 
 > [!PDF|] [[1409.1556v6.pdf#page=2&selection=47,8,74,14|1409.1556v6, p.2]]
 > >  In one of the configurations we also utilise 1 × 1 convolution filters, which can be seen as a linear transformation of the input channels (followed by non-linearity). The convolution stride is fixed to 1 pixel; the spatial padding of conv. layer input is such that the spatial resolution is preserved after convolution, i.e. the padding is 1 pixel for 3 × 3 conv. layers. 
-> 
-> 
+
