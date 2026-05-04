@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature-notes/papers/Untitled.md",
+                "file": "literature-notes/papers/VGG-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "VGG-16"
             }
           }
         ],
@@ -203,7 +203,7 @@
   "active": "c2edde4c4d3a67c0",
   "lastOpenFiles": [
     "literature-notes/papers/VGG-16.md",
-    "literature-notes/papers/Untitled.md",
+    "literature-notes/papers/VGG-16.md",
     "literature-notes/bignotes/Untitled.md",
     "literature-notes/bignotes/Untitled.canvas",
     "literature-notes/bignotes/Convolutional Neural Network.md",
