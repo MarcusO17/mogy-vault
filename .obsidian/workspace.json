@@ -29,9 +29,9 @@
               "state": {
                 "file": "assets/docs/1409.1556v6.pdf",
                 "page": 1,
-                "left": -11,
-                "top": 796,
-                "zoom": 1.3651960784313726
+                "left": 52,
+                "top": 793,
+                "zoom": 1.9
               },
               "icon": "lucide-file-text",
               "title": "1409.1556v6"
@@ -225,8 +225,8 @@
   "active": "fd5cdb0832e75d15",
   "lastOpenFiles": [
     "assets/docs/1409.1556v6.pdf",
-    "assets/docs/1409.1556v6 1.pdf",
     "literature-notes/papers/VGG-16.md",
+    "assets/docs/1409.1556v6 1.pdf",
     "literature-notes/bignotes/Untitled.md",
     "literature-notes/bignotes/Untitled.canvas",
     "literature-notes/bignotes/Convolutional Neural Network.md",
