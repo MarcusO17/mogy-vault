@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "90652ce099bb63ce",
+        "id": "6fd6c8b2d4658132",
         "type": "tabs",
-        "dimension": 49.88066825775656,
         "children": [
           {
-            "id": "4327b9f0cb2285ac",
+            "id": "a7460a8530d28d7e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 496,
-                "zoom": 1
+                "page": 2,
+                "left": -16,
+                "top": 553,
+                "zoom": 0.9632352941176471
               },
               "icon": "lucide-file-text",
               "title": "NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper"
@@ -29,7 +28,6 @@
       {
         "id": "39a49dd1ba9e508b",
         "type": "tabs",
-        "dimension": 50.11933174224343,
         "children": [
           {
             "id": "be51a9cdc4e7ecb2",
@@ -209,10 +207,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4327b9f0cb2285ac",
+  "active": "be51a9cdc4e7ecb2",
   "lastOpenFiles": [
-    "literature-notes/papers/Paper Notes.md",
     "assets/docs/NIPS-20120-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
+    "literature-notes/papers/Paper Notes.md",
     "assets/templates/Paper.md",
     "assets/templates/Mechanism.md",
     "literature-notes/papers/VGG-16.md",
