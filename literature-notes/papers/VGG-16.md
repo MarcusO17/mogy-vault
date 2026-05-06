@@ -19,8 +19,18 @@ tags:
 Primary approach
 > [!PDF|] [[1409.1556v6.pdf#page=2&selection=158,31,170,2|1409.1556v6, p.2]]
 > > we use very small 3 × 3 receptive fields throughout the whole net, which are convolved with the input at every pixel (with stride 1).
+> 
+> Why?
+> 	1. > [!PDF|] [[1409.1556v6.pdf#page=3&selection=278,51,278,99|1409.1556v6, p.3]]
+> > makes the decision function more discriminative
+> > 2. > [!PDF|] [[1409.1556v6.pdf#page=3&selection=279,7,279,43|1409.1556v6, p.3]]
+> >  we decrease the number of parameter
+> 
+> 
+> 
+> 
 
-1. Wh
+
 
 
 ### Takeaways
