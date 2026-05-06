@@ -13,7 +13,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "assets/docs/1409.1556v6.pdf"
+                "file": "assets/docs/1409.1556v6.pdf",
+                "page": 2,
+                "left": -4,
+                "top": 612,
+                "zoom": 1.7
               },
               "icon": "lucide-file-text",
               "title": "1409.1556v6"
@@ -96,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6fef7dc35113cb44",
