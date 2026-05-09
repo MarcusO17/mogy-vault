@@ -209,6 +209,8 @@
   },
   "active": "cebf8682254e1130",
   "lastOpenFiles": [
+    "Map of Content.md",
+    "Map of Content.md.tmp.26012.b8e69bc6efa8",
     "assets/templates/Concept.md",
     "assets/templates/Concept.md.tmp.26012.935e503560bd",
     "README.md.tmp.26012.9211c8189b29",
@@ -236,7 +238,6 @@
     "concepts/deep-learning/regularization/Early Stopping.md",
     "concepts/deep-learning/regularization/L1 L2 Regularization.md",
     "concepts/deep-learning/regularization/Dropout.md",
-    "concepts/deep-learning/regularization/Regularization.md",
     "projects",
     "concepts/generative",
     "concepts/deep-learning/weight-init",
@@ -244,7 +245,6 @@
     "concepts/deep-learning/normalization",
     "concepts/foundations/math",
     "concepts/foundations/classical-ml",
-    "concepts/deep-learning/training",
     "literature-notes/bignotes/Untitled.canvas",
     "Untitled.canvas"
   ]
