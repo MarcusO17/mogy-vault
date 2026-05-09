@@ -209,6 +209,9 @@
   },
   "active": "cebf8682254e1130",
   "lastOpenFiles": [
+    "assets/templates/Concept.md",
+    "assets/templates/Concept.md.tmp.26012.935e503560bd",
+    "README.md.tmp.26012.9211c8189b29",
     "projects/Receipt Detector.md",
     "projects/Penang HokkienFineTune.md",
     "projects/LLM Anonymizer QLoRa.md",
@@ -234,7 +237,6 @@
     "concepts/deep-learning/regularization/L1 L2 Regularization.md",
     "concepts/deep-learning/regularization/Dropout.md",
     "concepts/deep-learning/regularization/Regularization.md",
-    "concepts/deep-learning/optimization/Learning Rate Decay.md",
     "projects",
     "concepts/generative",
     "concepts/deep-learning/weight-init",
@@ -243,8 +245,6 @@
     "concepts/foundations/math",
     "concepts/foundations/classical-ml",
     "concepts/deep-learning/training",
-    "concepts/deep-learning/regularization",
-    "concepts/deep-learning/optimization",
     "literature-notes/bignotes/Untitled.canvas",
     "Untitled.canvas"
   ]
