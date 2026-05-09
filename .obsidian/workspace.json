@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/deep-learning/architectures/Deep Learning.md",
+                "file": "concepts/deep-learning/optimization/Momentum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deep Learning"
+              "title": "Momentum"
             }
           }
         ],
@@ -218,6 +218,7 @@
   },
   "active": "a38e4c1f4b1f38f4",
   "lastOpenFiles": [
+    "concepts/deep-learning/architectures/Deep Learning.md",
     "Map of Content.md",
     "concepts/deep-learning/optimization/RMSProp.md",
     "concepts/deep-learning/optimization/Momentum.md",
@@ -240,7 +241,6 @@
     "concepts/deep-learning/weight-init/Kaiming He Initialization.md",
     "concepts/foundations/math/Norm.md",
     "concepts/deep-learning/architectures/Multilayer Networks.md",
-    "concepts/deep-learning/architectures/Deep Learning.md",
     "assets/templates/Concept.md",
     "assets/docs/1409.1556v6.pdf",
     "Map of Content.md.tmp.26012.b8e69bc6efa8",
