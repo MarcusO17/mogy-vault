@@ -14,8 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "assets/docs/1409.1556v6.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 4,
+                "left": -16,
+                "top": 344,
+                "zoom": 0.9730392156862745
               },
               "icon": "lucide-file-text",
               "title": "1409.1556v6"
