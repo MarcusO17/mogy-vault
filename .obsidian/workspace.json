@@ -11,16 +11,14 @@
             "id": "17b6b827cb83294d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "assets/docs/1409.1556v6.pdf",
-                "page": 3,
-                "left": 79,
-                "top": 786,
-                "zoom": 1.9
+                "file": "concepts/deep-learning/weight-init/Xiaver Glorot Initialization.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1409.1556v6"
+              "icon": "lucide-file",
+              "title": "Xiaver Glorot Initialization"
             }
           }
         ]
@@ -33,14 +31,10 @@
             "id": "a8acc2110c08f4e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "literature-notes/bignotes/the PyTorch Process.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "the PyTorch Process"
+              "title": "New tab"
             }
           }
         ]
@@ -207,11 +201,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cebf8682254e1130",
+  "active": "17b6b827cb83294d",
   "lastOpenFiles": [
+    "concepts/deep-learning/weight-init/Kaiming He Initialization.md",
+    "concepts/foundations/math/Norm.md",
+    "concepts/deep-learning/architectures/Multilayer Networks.md",
+    "concepts/deep-learning/architectures/Deep Learning.md",
+    "assets/templates/Concept.md",
+    "assets/docs/1409.1556v6.pdf",
     "Map of Content.md",
     "Map of Content.md.tmp.26012.b8e69bc6efa8",
-    "assets/templates/Concept.md",
     "assets/templates/Concept.md.tmp.26012.935e503560bd",
     "README.md.tmp.26012.9211c8189b29",
     "projects/Receipt Detector.md",
@@ -226,7 +225,6 @@
     "concepts/deep-learning/training/Loss Functions.md",
     "concepts/deep-learning/training/Cross Entropy.md",
     "concepts/deep-learning/weight-init/Xiaver Glorot Initialization.md",
-    "concepts/deep-learning/weight-init/Kaiming He Initialization.md",
     "concepts/deep-learning/weight-init/Weight Initialization.md",
     "concepts/deep-learning/activations/Dead Neurons.md",
     "concepts/deep-learning/activations/ReLU Function.md",
@@ -235,16 +233,12 @@
     "concepts/deep-learning/regularization/Improving Generalization.md",
     "concepts/deep-learning/regularization/Overfitting and Underfitting.md",
     "concepts/deep-learning/regularization/Overfitting.md",
-    "concepts/deep-learning/regularization/Early Stopping.md",
-    "concepts/deep-learning/regularization/L1 L2 Regularization.md",
-    "concepts/deep-learning/regularization/Dropout.md",
     "projects",
     "concepts/generative",
     "concepts/deep-learning/weight-init",
     "concepts/deep-learning/activations",
     "concepts/deep-learning/normalization",
     "concepts/foundations/math",
-    "concepts/foundations/classical-ml",
     "literature-notes/bignotes/Untitled.canvas",
     "Untitled.canvas"
   ]
