@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/deep-learning/weight-init/Xiaver Glorot Initialization.md",
+                "file": "concepts/deep-learning/normalization/Normalization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xiaver Glorot Initialization"
+              "title": "Normalization"
             }
           }
         ]
@@ -203,6 +203,20 @@
   },
   "active": "17b6b827cb83294d",
   "lastOpenFiles": [
+    "concepts/deep-learning/architectures/Wide vs. Deep Architectures.md",
+    "concepts/deep-learning/weight-init/Xiaver Glorot Initialization.md",
+    "assets/images/Neko-Jo-Nakashima.pdf",
+    "assets/images/Pasted image 20251206162527.png",
+    "assets/images/Pasted image 20260505192713.png",
+    "assets/images/Pasted image 20251206170744.png",
+    "assets/images/Pasted image 20251206155015.png",
+    "assets/images/Pasted image 20251206162532.png",
+    "assets/images/paste-9.png",
+    "assets/images/paste-8.png",
+    "assets/images/paste-6.png",
+    "assets/images/paste-5.png",
+    "assets/images/paste-4.png",
+    "assets/images",
     "concepts/deep-learning/weight-init/Kaiming He Initialization.md",
     "concepts/foundations/math/Norm.md",
     "concepts/deep-learning/architectures/Multilayer Networks.md",
@@ -224,7 +238,6 @@
     "concepts/deep-learning/training/Bias-Variance Decomposition.md",
     "concepts/deep-learning/training/Loss Functions.md",
     "concepts/deep-learning/training/Cross Entropy.md",
-    "concepts/deep-learning/weight-init/Xiaver Glorot Initialization.md",
     "concepts/deep-learning/weight-init/Weight Initialization.md",
     "concepts/deep-learning/activations/Dead Neurons.md",
     "concepts/deep-learning/activations/ReLU Function.md",
@@ -232,13 +245,10 @@
     "concepts/deep-learning/normalization/Normalization.md",
     "concepts/deep-learning/regularization/Improving Generalization.md",
     "concepts/deep-learning/regularization/Overfitting and Underfitting.md",
-    "concepts/deep-learning/regularization/Overfitting.md",
     "projects",
     "concepts/generative",
     "concepts/deep-learning/weight-init",
     "concepts/deep-learning/activations",
-    "concepts/deep-learning/normalization",
-    "concepts/foundations/math",
     "literature-notes/bignotes/Untitled.canvas",
     "Untitled.canvas"
   ]
