@@ -19,6 +19,7 @@ tags:
 	1. CS Fundamentals
 3. CS at Stanford
 	1. CS229, CS230, CS129
+	2. May take 229, 230.
 
 ## Key Takeaways
 
