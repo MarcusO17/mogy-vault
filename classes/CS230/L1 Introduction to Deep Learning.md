@@ -16,7 +16,6 @@ tags: []
 
 2. It's very important to have
 	1. CS Fundamentals
-	2. Machine Learning Skills
 
 ## Key Takeaways
 
