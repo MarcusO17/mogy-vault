@@ -218,6 +218,8 @@
   },
   "active": "a38e4c1f4b1f38f4",
   "lastOpenFiles": [
+    "assets/templates/Class Notes.md",
+    "assets/templates/Class Notes.md.tmp.23992.72e869a0150a",
     "concepts/deep-learning/optimization/Momentum.md",
     "classes/CS230/Untitled.md",
     "classes/CS230",
@@ -261,9 +263,7 @@
     "concepts/deep-learning/training/Loss Functions.md",
     "concepts/deep-learning/training/Cross Entropy.md",
     "concepts/deep-learning/weight-init/Weight Initialization.md",
-    "concepts/deep-learning/activations/Dead Neurons.md",
     "projects",
-    "concepts/generative",
     "literature-notes/bignotes/Untitled.canvas",
     "Untitled.canvas"
   ]
