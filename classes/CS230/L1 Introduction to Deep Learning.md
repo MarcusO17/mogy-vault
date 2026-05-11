@@ -16,6 +16,8 @@ tags: []
 
 2. It's very important to have
 	1. CS Fundamentals
+3. CS at Stanford
+	1. CS229, CS230, CS129
 
 ## Key Takeaways
 
