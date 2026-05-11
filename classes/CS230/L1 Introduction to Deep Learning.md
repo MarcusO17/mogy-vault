@@ -22,6 +22,7 @@ tags:
 	2. May take 229, 230 at the same time
 4. Gen AI is great at Text
 5. Deep Learning is great at Audio, Image and Structured Data
+	1. Also helps at reducing cost of LLMs
 
 ## Key Takeaways
 
