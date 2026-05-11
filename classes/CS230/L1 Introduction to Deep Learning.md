@@ -19,7 +19,9 @@ tags:
 	1. CS Fundamentals
 3. CS at Stanford
 	1. CS229, CS230, CS129
-	2. May take 229, 230.
+	2. May take 229, 230 at the same time
+4. Gen AI is great at Text
+5. Deep Learning is great at Audio, Image and Structured Data
 
 ## Key Takeaways
 
