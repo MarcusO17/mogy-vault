@@ -16,7 +16,8 @@ tags: []
 1. Thing about Deep Learning is Scaling.
 	1. Traditional ML would plateau with more data.
 	2. The performance to data ingested scaling is phenomenal.
-	3. 
+	3. We are able to forecast the GPU to performance ratio.
+
 
 ## Key Takeaways
 
