@@ -26,7 +26,9 @@ tags:
 
 6. COURSE OVERVIEW
 	1. Basic of NN's and DL
-	2. 
+	2. Improve NNs
+	3. Strategies for an ML Projects
+	4. 
 
 ## Questions
 
