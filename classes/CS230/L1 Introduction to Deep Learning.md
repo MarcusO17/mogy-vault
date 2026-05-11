@@ -31,6 +31,13 @@ tags:
 	4. Conv Nets
 	5. Sequence Models
 
+
+
+### AI Trends
+1. AI Assisted Coding
+2. 
+
+
 ## Questions
 
 
