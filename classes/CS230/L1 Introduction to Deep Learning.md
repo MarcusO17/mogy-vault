@@ -30,7 +30,6 @@ tags:
 	3. Strategies for an ML Projects
 	4. Conv Nets
 	5. Sequence Models
-	6. 
 
 ## Questions
 
