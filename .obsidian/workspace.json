@@ -216,8 +216,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a38e4c1f4b1f38f4",
+  "active": "cebf8682254e1130",
   "lastOpenFiles": [
+    "CS230 -",
+    "classes",
     "concepts/deep-learning/architectures/Deep Learning.md",
     "Map of Content.md",
     "concepts/deep-learning/optimization/RMSProp.md",
@@ -259,11 +261,9 @@
     "concepts/deep-learning/training/Cross Entropy.md",
     "concepts/deep-learning/weight-init/Weight Initialization.md",
     "concepts/deep-learning/activations/Dead Neurons.md",
-    "concepts/deep-learning/activations/ReLU Function.md",
     "projects",
     "concepts/generative",
     "concepts/deep-learning/weight-init",
-    "concepts/deep-learning/activations",
     "literature-notes/bignotes/Untitled.canvas",
     "Untitled.canvas"
   ]
