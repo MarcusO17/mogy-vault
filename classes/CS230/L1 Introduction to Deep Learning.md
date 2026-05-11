@@ -6,11 +6,7 @@ date: 11/5/2026
 tags: []
 ---
 
-# Untitled
-
-## Topics Covered
-
-
+# Introduction to Deep Learning
 ## Notes
 
 1. Thing about Deep Learning is Scaling.
@@ -18,6 +14,9 @@ tags: []
 	2. The performance to data ingested scaling is phenomenal.
 	3. We are able to forecast the GPU to performance ratio.
 
+2. It's very important to have
+	1. CS Fundamentals
+	2. Machine Learning Skills
 
 ## Key Takeaways
 
