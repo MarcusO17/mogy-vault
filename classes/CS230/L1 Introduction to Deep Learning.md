@@ -13,6 +13,8 @@ tags: []
 
 ## Notes
 
+1. Thing about Deep Learning is Scaling.
+	1. Traditional ML would plateau with more data.
 
 ## Key Takeaways
 
