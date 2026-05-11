@@ -12,6 +12,7 @@
   "knownTags": {
     "classification": 3,
     "classifier": 4,
+    "cs230": 19,
     "fix": 2,
     "generalization": 5,
     "linearalgebra": 6,

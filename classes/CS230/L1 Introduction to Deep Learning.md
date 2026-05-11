@@ -1,9 +1,10 @@
 ---
 title: Introduction to Deep Learning
-course: "#CS230"
+course:
 lecture:
 date: 11/5/2026
-tags: []
+tags:
+  - "#CS230"
 ---
 
 # Introduction to Deep Learning
