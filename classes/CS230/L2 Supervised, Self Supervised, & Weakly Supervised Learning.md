@@ -11,7 +11,9 @@ tags: []
 
 ### Supervised Learning
 
-1. 
+1. What we mean by model is
+	1. Architecture + Parameters
+2. 
 
 
 ## Questions
