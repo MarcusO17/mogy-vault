@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/CS230/L1 Introduction to Deep Learning.md",
+                "file": "classes/CS230/L2 Supervised, Self Supervised, & Weakly Supervised Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L1 Introduction to Deep Learning"
+              "title": "L2 Supervised, Self Supervised, & Weakly Supervised Learning"
             }
           }
         ],
@@ -202,8 +202,9 @@
   },
   "active": "a38e4c1f4b1f38f4",
   "lastOpenFiles": [
-    "concepts/foundations/math/Distance.md",
     "classes/CS230/L1 Introduction to Deep Learning.md",
+    "classes/CS230/L2 Supervised, Self Supervised, & Weakly Supervised Learning.md",
+    "concepts/foundations/math/Distance.md",
     "assets/templates/Class Notes.md",
     "concepts/foundations/math/Linear Functions.md",
     "concepts/foundations/classical-ml/History of Artificial Neurons.md",
@@ -246,7 +247,6 @@
     "projects/LLM Anonymizer QLoRa.md",
     "projects/LeNet-5.md",
     "concepts/generative/Different Way to Model Text.md",
-    "concepts/generative/Long Short-Term Memory.md",
     "projects",
     "literature-notes/bignotes/Untitled.canvas",
     "Untitled.canvas"
