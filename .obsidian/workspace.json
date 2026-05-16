@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/CS230/L2 Supervised, Self Supervised, & Weakly Supervised Learning.md",
+                "file": "concepts/deep-learning/training/Gradient Descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2 Supervised, Self Supervised, & Weakly Supervised Learning"
+              "title": "Gradient Descent"
             }
           }
         ],
@@ -202,8 +202,9 @@
   },
   "active": "a38e4c1f4b1f38f4",
   "lastOpenFiles": [
-    "classes/CS230/L1 Introduction to Deep Learning.md",
+    "concepts/deep-learning/training/Cross Entropy.md",
     "classes/CS230/L2 Supervised, Self Supervised, & Weakly Supervised Learning.md",
+    "classes/CS230/L1 Introduction to Deep Learning.md",
     "concepts/foundations/math/Distance.md",
     "assets/templates/Class Notes.md",
     "concepts/foundations/math/Linear Functions.md",
@@ -246,7 +247,6 @@
     "projects/Penang HokkienFineTune.md",
     "projects/LLM Anonymizer QLoRa.md",
     "projects/LeNet-5.md",
-    "concepts/generative/Different Way to Model Text.md",
     "projects",
     "literature-notes/bignotes/Untitled.canvas",
     "Untitled.canvas"
