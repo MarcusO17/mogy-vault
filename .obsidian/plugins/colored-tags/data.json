@@ -10,7 +10,26 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "normalisation": 1
+    "classification": 2,
+    "classifier": 3,
+    "cs230": 4,
+    "fix": 5,
+    "generalization": 6,
+    "linearalgebra": 7,
+    "linearregression": 8,
+    "logisticregression": 9,
+    "lossfunctions": 10,
+    "math": 11,
+    "matrices": 12,
+    "model": 13,
+    "modelevaluation": 14,
+    "neuralnetwork": 15,
+    "nmi": 16,
+    "normalisation": 1,
+    "notations": 17,
+    "supervisedlearning": 18,
+    "vectors": 19,
+    "linearalgebra/vectors": 1
   },
   "tagColors": {},
   "_version": 4
