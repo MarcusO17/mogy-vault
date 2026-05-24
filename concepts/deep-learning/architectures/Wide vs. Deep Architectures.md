@@ -1,7 +1,7 @@
-Created : 2025-09-24 20:18
+﻿Created : 2025-09-24 20:18
 Tags :
 Type :
-Lecture : L09
+Lecture : #L09
 Video : https://www.youtube.com/watch?v=jD6IKpqSJM4
 
 ---

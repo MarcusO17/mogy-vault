@@ -1,7 +1,7 @@
-Created : 2025-08-24 00:00
+﻿Created : 2025-08-24 00:00
 Tags :
 Type :
-Lecture : L06
+Lecture : #L06
 Video : https://www.youtube.com/watch?v=j1-r1vO2a_o
 
 ---

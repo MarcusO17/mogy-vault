@@ -1,7 +1,7 @@
-Created : 2025-10-22 19:43
+﻿Created : 2025-10-22 19:43
 Tags :
 Type :
-Lecture : L12
+Lecture : #L12
 Video : https://www.youtube.com/watch?v=7RhNXYqDBfU
 
 ---

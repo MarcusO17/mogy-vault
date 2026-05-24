@@ -1,7 +1,7 @@
-Created : 2025-12-06 16:11
+﻿Created : 2025-12-06 16:11
 Tags :
 Type :
-Lecture : L15
+Lecture : #L15
 Video : https://www.youtube.com/watch?v=q5YxK17tRm0
 
 ---

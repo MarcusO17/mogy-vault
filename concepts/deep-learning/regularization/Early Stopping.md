@@ -1,7 +1,7 @@
-Created : 2025-10-11 15:47
+﻿Created : 2025-10-11 15:47
 Tags :
 Type :
-Lecture : L10
+Lecture : #L10
 Video : https://www.youtube.com/watch?v=Va4K-wYh_p8
 
 ---

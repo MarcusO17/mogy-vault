@@ -1,7 +1,7 @@
-Created : 2025-03-26 14:51
+﻿Created : 2025-03-26 14:51
 Tags : #LinearAlgebra #LinearAlgebra/Vectors
 Type :
-Lecture : L04
+Lecture : #L04
 Video : https://www.youtube.com/watch?v=3mjJxu3B0zA
 
 ---

@@ -1,7 +1,7 @@
-Created : 2025-09-25 13:46
+﻿Created : 2025-09-25 13:46
 Tags :
 Type :
-Lecture : L08
+Lecture : #L08
 Video : https://www.youtube.com/watch?v=10PTpRRpRk0
 
 ---

@@ -1,7 +1,7 @@
-Created : 2025-10-17 10:23
+﻿Created : 2025-10-17 10:23
 Tags :
 Type :
-Lecture : L11
+Lecture : #L11
 Video : https://www.youtube.com/watch?v=xk6qb2IePaE
 
 ---

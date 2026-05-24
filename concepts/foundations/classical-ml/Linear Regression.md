@@ -1,7 +1,7 @@
-Created : 2025-08-15 19:06
+﻿Created : 2025-08-15 19:06
 Tags :
 Type :
-Lecture : L05
+Lecture : #L05
 Video : https://www.youtube.com/watch?v=VBOxg62CwCg
 
 ---

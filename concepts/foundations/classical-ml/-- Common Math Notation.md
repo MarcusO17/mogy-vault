@@ -1,7 +1,7 @@
-Created : 2025-08-09 14:51
+﻿Created : 2025-08-09 14:51
 Tags : #Math #Notations #SupervisedLearning #Vectors #Matrices 
 Type : Concept
-Lecture : L01
+Lecture : #L01
 Video : https://www.youtube.com/watch?v=1nqCZqDYPp0
 
 ---

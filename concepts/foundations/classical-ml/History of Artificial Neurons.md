@@ -1,7 +1,7 @@
-Created : 2025-08-09 14:57
+﻿Created : 2025-08-09 14:57
 Tags :
 Type :
-Lecture : L02
+Lecture : #L02
 Video : https://www.youtube.com/watch?v=Ezig00nypvU
 
 ---

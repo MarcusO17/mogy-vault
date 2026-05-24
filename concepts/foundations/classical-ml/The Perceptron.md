@@ -1,7 +1,7 @@
-Created : 2025-08-10 17:13
+﻿Created : 2025-08-10 17:13
 Tags :
 Type :
-Lecture : L03
+Lecture : #L03
 Video : https://www.youtube.com/watch?v=cm_wv2QpTgc
 
 ---
