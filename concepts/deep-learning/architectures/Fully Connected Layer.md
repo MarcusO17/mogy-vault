@@ -1,6 +1,8 @@
 Created : 2025-08-14 22:17
 Tags :
 Type :
+Lecture : L09
+Video : https://www.youtube.com/watch?v=jD6IKpqSJM4
 
 ---
 # Fully Connected Layer

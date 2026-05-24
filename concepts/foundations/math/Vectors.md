@@ -1,6 +1,8 @@
 Created : 2025-02-24 20:57
 Tags : #LinearAlgebra #LinearAlgebra/Vectors
 Concepts :
+Lecture : L04
+Video : https://www.youtube.com/watch?v=3mjJxu3B0zA
 
 ---
 # Vectors

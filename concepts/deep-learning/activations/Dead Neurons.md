@@ -1,6 +1,8 @@
 Created : 2025-09-24 19:53
 Tags :
 Type :
+Lecture : L09
+Video : https://www.youtube.com/watch?v=jD6IKpqSJM4
 
 ---
 # Dead Neurons

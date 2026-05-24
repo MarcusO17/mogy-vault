@@ -1,6 +1,8 @@
 Created : 2025-08-14 16:54
 Tags :
 Type :
+Lecture : L01
+Video : https://www.youtube.com/watch?v=1nqCZqDYPp0
 
 ---
 # Notational Conventions in Deep Learning

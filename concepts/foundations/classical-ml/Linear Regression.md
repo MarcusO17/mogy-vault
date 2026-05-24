@@ -1,6 +1,8 @@
 Created : 2025-08-15 19:06
 Tags :
 Type :
+Lecture : L05
+Video : https://www.youtube.com/watch?v=VBOxg62CwCg
 
 ---
 ## Linear Regression as a Single-Layer NN

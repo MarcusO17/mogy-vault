@@ -1,6 +1,8 @@
 Created : 2025-08-09 14:57
 Tags :
 Type :
+Lecture : L02
+Video : https://www.youtube.com/watch?v=Ezig00nypvU
 
 ---
 ## History of Artificial Neurons

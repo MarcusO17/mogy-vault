@@ -1,6 +1,8 @@
 Created : 2025-09-09 15:42
 Tags : #LossFunctions #Classification #LogisticRegression 
 Type : Concept
+Lecture : L08
+Video : https://www.youtube.com/watch?v=10PTpRRpRk0
 
 ---
 # Cross Entropy

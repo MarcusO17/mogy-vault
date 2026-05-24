@@ -1,6 +1,8 @@
 Created : 2025-08-24 10:42
 Tags :
 Type :
+Lecture : L06
+Video : https://www.youtube.com/watch?v=j1-r1vO2a_o
 
 ---
 # Computation Graphs
