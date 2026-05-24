@@ -1,4 +1,4 @@
-.markdown-rendered .math-block,
-.HyperMD-math-display {
-    font-size: 1.4em;
+/* All MathJax rendered math */
+mjx-container {
+  font-size: 1.4em !important;
 }
