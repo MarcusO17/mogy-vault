@@ -1,6 +1,8 @@
 Created : 2025-10-24 11:16
 Tags :
 Type :
+Lecture : L13
+Video : https://www.youtube.com/watch?v=i-Ngb6tn_KM
 
 ---
 # Convolutional Neural Networks

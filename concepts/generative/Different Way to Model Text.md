@@ -1,6 +1,8 @@
 Created : 2025-11-28 11:54
 Tags :
 Type :
+Lecture : L15
+Video : https://www.youtube.com/watch?v=q5YxK17tRm0
 
 ---
 # Different Way to Model Text

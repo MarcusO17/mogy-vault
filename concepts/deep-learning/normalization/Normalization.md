@@ -1,6 +1,8 @@
 Created : 2025-10-15 12:10
 Tags :
 Type :
+Lecture : L11
+Video : https://www.youtube.com/watch?v=xk6qb2IePaE
 
 ---
 # Normalization

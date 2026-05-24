@@ -1,6 +1,8 @@
   Created : 2025-09-14 12:22
 Tags :
 Type :
+Lecture : L09
+Video : https://www.youtube.com/watch?v=jD6IKpqSJM4
 
 ---
 # Multilayer Perceptron

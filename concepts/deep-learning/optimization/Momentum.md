@@ -1,6 +1,8 @@
 Created : 2025-10-22 15:37
 Tags :
 Type :
+Lecture : L12
+Video : https://www.youtube.com/watch?v=7RhNXYqDBfU
 
 ---
 # Momentum

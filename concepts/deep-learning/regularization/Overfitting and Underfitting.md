@@ -1,6 +1,8 @@
 Created : 2025-10-01 11:17
 Tags :
 Type :
+Lecture : L10
+Video : https://www.youtube.com/watch?v=Va4K-wYh_p8
 
 ---
 # Overfitting and Underfitting

@@ -1,3 +1,10 @@
+Created : 2025-08-24 00:00
+Tags :
+Type :
+Lecture : L06
+Video : https://www.youtube.com/watch?v=j1-r1vO2a_o
+
+---
 The PyTorch Boilerplate.
 
 1.  Import Libraries
@@ -38,6 +45,5 @@ The PyTorch Boilerplate.
 			- 2. then to a calssifier activation
 			- 3. return logits and probas or depending on the classifier activation
 		- 
-
 
 

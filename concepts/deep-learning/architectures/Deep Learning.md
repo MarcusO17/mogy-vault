@@ -1,6 +1,8 @@
  Created : 2025-08-10 17:09
 Tags :
 Type :
+Lecture : L01
+Video : https://www.youtube.com/watch?v=1nqCZqDYPp0
 
 ---
 # Deep Learning
