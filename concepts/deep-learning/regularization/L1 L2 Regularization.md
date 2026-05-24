@@ -22,6 +22,7 @@ $$
 \end{align}
 $$
 
+
 The $L_{2}\text{-Regularized-Loss}$ would then be calculated as:
 $$
 \text{Loss}_{\mathbf{w,b}}=\frac{1}{n}\sum^n_{i=1}\mathcal{L}(y^{[i]},\hat{y}^{[i]}) + \frac{\lambda}{n}\sum_{j}w^2_{j}

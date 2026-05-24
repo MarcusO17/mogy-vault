@@ -1,5 +1,4 @@
-.markdown-rendered .math-block {
-    font-size: 1.6em;
-    overflow-x: auto;
-    padding: 0.5em 0;
+.markdown-rendered .math-block,
+.HyperMD-math-display {
+    font-size: 1.4em;
 }
