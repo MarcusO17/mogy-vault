@@ -1,8 +1,10 @@
 {
   "cssTheme": "Typomagical",
-  "accentColor": "#9b70ff",
+  "accentColor": "",
   "enabledCssSnippets": [
     "latexsize",
     "fixpdfpp"
-  ]
+  ],
+  "baseFontSize": 16,
+  "showViewHeader": true
 }
