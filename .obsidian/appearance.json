@@ -1,4 +1,8 @@
 {
   "cssTheme": "Willemstad",
-  "accentColor": "#9b70ff"
+  "accentColor": "#9b70ff",
+  "enabledCssSnippets": [
+    "latexsize",
+    "fixpdfpp"
+  ]
 }
