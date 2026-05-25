@@ -34,6 +34,7 @@
     "lossfunctions": 10,
     "math": 11,
     "matrices": 12,
+    "moc": 33,
     "model": 13,
     "modelevaluation": 14,
     "neuralnetwork": 15,
