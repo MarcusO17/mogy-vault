@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/deep-learning/architectures/Wide vs. Deep Architectures.md",
+                "file": "concepts/deep-learning/optimization/Learning Rate Decay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wide vs. Deep Architectures"
+              "title": "Learning Rate Decay"
             }
           }
         ]
@@ -187,6 +187,8 @@
   },
   "active": "ec5adcf3a7789ad9",
   "lastOpenFiles": [
+    "Backpropagation.md",
+    "concepts/deep-learning/architectures/Wide vs. Deep Architectures.md",
     "concepts/deep-learning/architectures/Fully Connected Layer.md",
     "concepts/deep-learning/architectures/Convolutional Neural Networks.md",
     "concepts/deep-learning/architectures/Deep Learning.md",
@@ -226,8 +228,6 @@
     "assets/templates/Class Notes.md",
     "concepts/foundations/math/Linear Functions.md",
     "concepts/foundations/classical-ml/History of Artificial Neurons.md",
-    "concepts/foundations/classical-ml/Logistic Regression.md",
-    "concepts/foundations/classical-ml/Maximum Log-Likelihood.md",
     "assets/images/Pasted image 20251206162527.png",
     "assets/images/Pasted image 20260505192713.png",
     "assets/images/Pasted image 20251206170744.png",
