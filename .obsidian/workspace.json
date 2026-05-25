@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture MOC.md",
+                "file": "classes/Lecture MOC.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,12 +185,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cebf8682254e1130",
+  "active": "ec5adcf3a7789ad9",
   "lastOpenFiles": [
+    "concepts/foundations/classical-ml/-- Common Math Notation.md",
+    "classes/Lecture MOC.md",
+    "concepts/generative/Sequence Modelling.md",
+    "concepts/foundations/classical-ml/History of Artificial Neurons.md",
     "concepts/deep-learning/weight-init/Xiaver Glorot Initialization.md",
     "concepts/deep-learning/weight-init/Weight Initialization.md",
     "concepts/deep-learning/architectures/Deep Learning.md",
-    "Lecture MOC.md",
     "Lecture MOC.md.tmp.22772.c7d258df04e9",
     "concepts/deep-learning/architectures/Fully Connected Layer.md",
     "concepts/deep-learning/architectures/Multilayer Networks.md",
@@ -225,9 +228,6 @@
     "assets/images/Pasted image 20250810171854.png",
     "assets/images/paste-5.png",
     "assets/templates/Concept.md",
-    "assets/templates/Paper.md",
-    "concepts/deep-learning/training/Computation Graphs.md",
-    "concepts/deep-learning/training/Gradient Descent.md",
     "assets/images/Pasted image 20251206162527.png",
     "assets/images/Pasted image 20260505192713.png",
     "assets/images/Pasted image 20251206170744.png",
