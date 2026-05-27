@@ -13,5 +13,5 @@
 - $x \in \mathbb{R}^n$
 - For this course we shall be assuming that, 
 	- $x \in \mathbb{R}^{n \times 1}$
-- 
+- $x = \begin{}  \end{}$
 - 
