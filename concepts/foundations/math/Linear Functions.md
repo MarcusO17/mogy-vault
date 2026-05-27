@@ -1,4 +1,4 @@
-﻿Created : 2025-03-05 13:37
+Created : 2025-03-05 13:37
 Tags : #LinearAlgebra #LinearAlgebra/Vectors
 Concepts : 
 Lecture : #L04
