@@ -17,3 +17,6 @@
 - and that would make $x^T = \begin{bmatrix} x_{1} & x_{2} & x_{3} \dots & x_{n} \end{bmatrix}$, where $x^T \in \mathbb{R}^{1\times n}$
 
 ## Matrix
+-  rank-2 tensor
+- $X \in \mathbb{R}^{m \times n}$
+- 
