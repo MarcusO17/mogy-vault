@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/foundations/math/Linear Functions.md",
+                "file": "classes/RasBt - Intro to DL/L04 - 1 Linear Algebra Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Functions"
+              "title": "L04 - 1 Linear Algebra Basics"
             }
           }
         ]
@@ -185,11 +185,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cebf8682254e1130",
+  "active": "ec5adcf3a7789ad9",
   "lastOpenFiles": [
-    "classes/Untitled",
-    "concepts/foundations/classical-ml/-- Common Math Notation.md",
     "concepts/foundations/math/Linear Functions.md",
+    "classes/RasBt - Intro to DL/L04 - 1 Linear Algebra Basics.md",
+    "classes/RasBt - Intro to DL",
+    "concepts/foundations/classical-ml/-- Common Math Notation.md",
     "concepts/foundations/math/Vectors.md",
     "classes/Lecture MOC.md",
     "Map of Content.md",
@@ -204,7 +205,6 @@
     "concepts/generative/Sequence Modelling.md.tmp.12588.4b984baab3de",
     "concepts/generative/Recurrent Neural Networks.md.tmp.12588.b71b17ea200a",
     "concepts/generative/Long Short-Term Memory.md.tmp.12588.0f85b8861714",
-    "concepts/deep-learning/architectures/Convolutional Neural Networks.md.tmp.12588.469fd8091c57",
     "literature-notes/papers/VGG-16.md",
     "literature-notes/papers/AlexNet.md",
     "projects/LeNet-5.md",
