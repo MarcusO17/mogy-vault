@@ -1,5 +1,5 @@
 {
-  "typomagical-colour@@theme-variant": "catppuccin-macchiato",
-  "typomagical-text@@body-ligatures": true,
-  "typomagical-text@@mjx-font": "mathjax-font-typomagical"
+  "typomagical-colour@@theme-variant": "coherence",
+  "typomagical-images@@ss-image-caption": true,
+  "typomagical-title@@title-gradient": "ss-title-gradient"
 }
