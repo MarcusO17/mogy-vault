@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Lecture MOC.md",
+                "file": "concepts/foundations/math/Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture MOC"
+              "title": "Vectors"
             }
           }
         ]
@@ -187,8 +187,8 @@
   },
   "active": "ec5adcf3a7789ad9",
   "lastOpenFiles": [
-    "Map of Content.md",
     "classes/Lecture MOC.md",
+    "Map of Content.md",
     "Backpropagation.md",
     "concepts/deep-learning/architectures/Fully Connected Layer.md",
     "concepts/deep-learning/training/Loss Functions.md.tmp.12588.a5f1a61b5e58",
