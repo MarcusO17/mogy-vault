@@ -20,3 +20,7 @@
 -  rank-2 tensor
 - $X \in \mathbb{R}^{m \times n}$
 - 
+  $$
+  	\mathbf{X} = \begin{bmatrix} x_{1,1} & x_{1,2} & \cdots & x_{1,n} \\ x_{2,1} & x_{2,2} & \cdots & x_{2,n} \\ \vdots & \vdots & \ddots & \vdots \\ x_{m,1} & x_{m,2} & \cdots & x_{m,n} \end{bmatrix}
+  $$
+- We will be u
