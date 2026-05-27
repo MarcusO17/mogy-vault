@@ -7,4 +7,7 @@
 
 
 ## Vector
-- rank 
+- aka rank-1 tensor
+- $x \in \mathbb{R}^n$
+- For this course we shall be assuming 
+- 
