@@ -2,5 +2,9 @@
 
 ## Scalars
 - aka rank-0 tensor
-- $x \in \mathbf{R}$
-- 
+- $x \in \mathbb{R}$
+- for e.g, $x = 1.23$
+
+
+## Vector
+- rank 
