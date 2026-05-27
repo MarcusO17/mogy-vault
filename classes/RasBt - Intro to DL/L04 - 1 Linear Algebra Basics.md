@@ -5,6 +5,8 @@
 - $x \in \mathbb{R}$
 - for e.g, $x = 1.23$
 
+>[!info]-
+> ps. $\mathbb{R}$ represents the set of all REAL numbers
 
 ## Vector
 - aka rank-1 tensor
