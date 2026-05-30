@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Lecture MOC.md",
+                "file": "classes/RasBt - Intro to DL/L04 - 1 Linear Algebra Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture MOC"
+              "title": "L04 - 1 Linear Algebra Basics"
             }
           }
         ]
@@ -187,10 +187,10 @@
   },
   "active": "ec5adcf3a7789ad9",
   "lastOpenFiles": [
+    "classes/Lecture MOC.md",
     "classes/RasBt - Intro to DL/L04 - 1 Linear Algebra Basics.md",
     "classes/RasBt - Intro to DL",
     "concepts/foundations/classical-ml/-- Common Math Notation.md",
-    "classes/Lecture MOC.md",
     "concepts/generative/Sequence Modelling.md",
     "concepts/foundations/classical-ml/History of Artificial Neurons.md",
     "concepts/deep-learning/weight-init/Xiaver Glorot Initialization.md",
