@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/RasBt - Intro to DL/L04 - 1 Linear Algebra Basics.md",
+                "file": "literature-notes/papers/VGG-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L04 - 1 Linear Algebra Basics"
+              "title": "VGG-16"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "ec5adcf3a7789ad9",
   "lastOpenFiles": [
-    "classes/Lecture MOC.md",
+    "literature-notes/papers/AlexNet.md",
     "classes/RasBt - Intro to DL/L04 - 1 Linear Algebra Basics.md",
+    "classes/Lecture MOC.md",
     "classes/RasBt - Intro to DL",
     "concepts/foundations/classical-ml/-- Common Math Notation.md",
     "concepts/generative/Sequence Modelling.md",
@@ -214,7 +215,6 @@
     "concepts/generative/Sequence Modelling.md.tmp.12588.4b984baab3de",
     "concepts/generative/Recurrent Neural Networks.md.tmp.12588.b71b17ea200a",
     "literature-notes/papers/VGG-16.md",
-    "literature-notes/papers/AlexNet.md",
     "projects/LeNet-5.md",
     "concepts/deep-learning/regularization/Early Stopping.md",
     "concepts/deep-learning/regularization/Dropout.md",
