@@ -1,4 +1,4 @@
-﻿Created : 2025-08-15 19:06
+Created : 2025-08-15 19:06
 Tags :
 Type :
 Lecture : #L05
