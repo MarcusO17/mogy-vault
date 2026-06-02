@@ -19,6 +19,10 @@ Video : https://www.youtube.com/watch?v=4pnoymfFiYM&list=PLTKMiZHVd_2KJtIXOW0zFh
 
 Our input matrix is also known as the design matrix. Denoted as $\textbf{X}$.
 
+## Inference
+
+Later on as we perform inference, we would generally have 1 $\vec{x}$ feature vector going through a forward pass through multiple
+
 If we have n training examples,
 	$$ \textbf{X}\textbf{w} + b = \textbf{z}$$
 	where:
