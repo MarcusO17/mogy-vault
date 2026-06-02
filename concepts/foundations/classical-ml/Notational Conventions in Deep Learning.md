@@ -23,7 +23,7 @@ If we have n training examples,
 	$$ \textbf{X}\textbf{w} + b = \textbf{z}$$
 	where:
 		- $\textbf{X} \in \mathbb{R}^{n\times{m}}$
-			- n is usually the number of examples, and m
+			- n is usually the number of examples, and m, is the number of features.
 		- $\textbf{w}\in\mathbb{R}^{m\times{1}}$
 		- b $\in 1$
 		- $\textbf{z} \in \mathbb{R}^{n\times{1}}$
