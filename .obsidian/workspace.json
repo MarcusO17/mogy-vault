@@ -35,8 +35,7 @@
               "title": "Fully Connected Layer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,8 +200,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f017c7ed14bef84f",
+  "active": "ec5adcf3a7789ad9",
   "lastOpenFiles": [
+    "concepts/deep-learning/architectures/Fully Connected Layer.md",
     "concepts/deep-learning/architectures/Multilayer Networks.md",
     "concepts/foundations/classical-ml/Notational Conventions in Deep Learning.md",
     "Pasted image 20260602164416.png",
@@ -223,7 +223,6 @@
     "concepts/deep-learning/weight-init/Weight Initialization.md",
     "concepts/deep-learning/architectures/Deep Learning.md",
     "Lecture MOC.md.tmp.22772.c7d258df04e9",
-    "concepts/deep-learning/architectures/Fully Connected Layer.md",
     "concepts/deep-learning/architectures/Multilayer Perceptron.md",
     "concepts/deep-learning/architectures/Wide vs. Deep Architectures.md",
     "concepts/deep-learning/optimization/Learning Rate Decay.md",
