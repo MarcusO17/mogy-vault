@@ -21,7 +21,7 @@ Our input matrix is also known as the design matrix. Denoted as $\textbf{X}$.
 
 ## Inference
 
-Later on as we perform inference, we would generally have 1 $\vec{x}$ feature vector going through a forward pass through multiple
+Later on as we perform inference, we would generally have 1 $\vec{x}$ feature vector going through a forward pass through multiple hidden layers with multiple outputs. In this case we would need a weight matrix $\mathbf{W}$ to hold all weights to each neuron 
 
 If we have n training examples,
 	$$ \textbf{X}\textbf{w} + b = \textbf{z}$$
