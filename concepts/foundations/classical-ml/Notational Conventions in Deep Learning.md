@@ -27,7 +27,7 @@ Later on as we perform inference, we would generally have 1 $\vec{x}$ feature ve
 
 and we would then represent the inference pass as, 
 $$
-	\begin{align}
+	\begin{align} \\
 	\sigma(\mathbf{W}\mathbf{x} + b) = a \\
 	a \in \mathbb{R}^{h \times 1}
 	\end{align}
