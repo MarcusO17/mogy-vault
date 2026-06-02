@@ -2,7 +2,7 @@ Created : 2025-08-14 16:54
 Tags :
 Type :
 Lecture : #L4
-Video : https://www.youtube.com/watch?v=1nqCZqDYPp0
+Video : https://www.youtube.com/watch?v=4pnoymfFiYM&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51
 
 ---
 # Notational Conventions in Deep Learning
