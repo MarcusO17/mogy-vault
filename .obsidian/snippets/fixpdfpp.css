@@ -2,3 +2,17 @@
   opacity: 0.4 !important;
   mix-blend-mode: multiply !important;
 }
+
+/* Centers images in both Live Preview and Reading Mode */
+.markdown-rendered img,
+.cm-embed-block:has(.image-embed) {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* Ensures the container holding the image centers it as well */
+.image-embed {
+    display: block;
+    text-align: center;
+}
