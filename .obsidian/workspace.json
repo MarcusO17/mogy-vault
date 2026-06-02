@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "literature-notes/papers/AlexNet.md",
+                "file": "concepts/deep-learning/regularization/L1 L2 Regularization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AlexNet"
+              "title": "L1 L2 Regularization"
             }
           }
         ]
@@ -185,10 +185,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cebf8682254e1130",
+  "active": "ec5adcf3a7789ad9",
   "lastOpenFiles": [
-    "literature-notes/papers/VGG-16.md",
     "literature-notes/papers/AlexNet.md",
+    "literature-notes/papers/VGG-16.md",
     "classes/RasBt - Intro to DL/L04 - 1 Linear Algebra Basics.md",
     "classes/Lecture MOC.md",
     "classes/RasBt - Intro to DL",
