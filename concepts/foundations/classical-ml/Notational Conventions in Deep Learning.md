@@ -1,4 +1,4 @@
-﻿Created : 2025-08-14 16:54
+Created : 2025-08-14 16:54
 Tags :
 Type :
 Lecture : #L01
@@ -23,6 +23,7 @@ If we have n training examples,
 	$$ \textbf{X}\textbf{w} + b = \textbf{z}$$
 	where:
 		- $\textbf{X} \in \mathbb{R}^{n\times{m}}$
+			- n is usually the number of examples, and m
 		- $\textbf{w}\in\mathbb{R}^{m\times{1}}$
 		- b $\in 1$
 		- $\textbf{z} \in \mathbb{R}^{n\times{1}}$
