@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/deep-learning/architectures/Multilayer Networks.md",
+                "file": "concepts/deep-learning/architectures/Fully Connected Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multilayer Networks"
+              "title": "Fully Connected Layer"
             }
           }
         ],
@@ -203,6 +203,7 @@
   },
   "active": "f017c7ed14bef84f",
   "lastOpenFiles": [
+    "concepts/deep-learning/architectures/Multilayer Networks.md",
     "concepts/foundations/classical-ml/Notational Conventions in Deep Learning.md",
     "Pasted image 20260602164416.png",
     "Map of Content.md",
@@ -223,7 +224,6 @@
     "concepts/deep-learning/architectures/Deep Learning.md",
     "Lecture MOC.md.tmp.22772.c7d258df04e9",
     "concepts/deep-learning/architectures/Fully Connected Layer.md",
-    "concepts/deep-learning/architectures/Multilayer Networks.md",
     "concepts/deep-learning/architectures/Multilayer Perceptron.md",
     "concepts/deep-learning/architectures/Wide vs. Deep Architectures.md",
     "concepts/deep-learning/optimization/Learning Rate Decay.md",
