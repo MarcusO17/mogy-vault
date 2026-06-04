@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/deep-learning/training/Gradient Descent.md",
+                "file": "concepts/deep-learning/training/Understanding Gradient Descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gradient Descent"
+              "title": "Understanding Gradient Descent"
             }
           }
         ],
@@ -233,7 +233,7 @@
     "concepts/foundations/classical-ml/Notational Conventions in Deep Learning.md",
     "Pasted image 20260602164416.png",
     "concepts/deep-learning/training/PyTorch Quick Reference.md",
-    "concepts/deep-learning/training/Gradient Descent.md",
+    "concepts/deep-learning/training/Understanding Gradient Descent.md",
     "concepts/deep-learning/training/the PyTorch Process.md",
     "concepts/deep-learning/regularization/L1 L2 Regularization.md",
     "literature-notes/papers/AlexNet.md",

@@ -20,7 +20,7 @@ The derivative and[[Online, Batch, and Minibatch Mode|training procedure]]] are 
 
 - For ADALINE under the hood, refer to https://github.com/rasbt/stat453-deep-learning-ss21/blob/main/L06/code/adaline-with-autograd.ipynb.
 
-This implementation will fully utilise PyTorch's API. For gradient computation theory, see [[Gradient Descent]].
+This implementation will fully utilise PyTorch's API. For gradient computation theory, see[[Understanding Gradient Descent]]].
 
 ```python
 import torch

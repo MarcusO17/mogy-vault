@@ -14,7 +14,7 @@ The multilayer perceptron are [[Fully Connected Layer|fully connected]] feedforw
 
 ---
 
-In Multilayer Perceptrons, Loss is NO LONGER convex. This is why [[Gradient Descent|gradient-based optimization]] can find different solutions. In [[Linear Regression]], [[ADALINE]], [[Logistic Regression]], and [[Softmax|Softmax Regression]] , their loss functions are usually convex, but that is no longer the case with MLPs.
+In Multilayer Perceptrons, Loss is NO LONGER convex. This is why[[Understanding Gradient Descent|gradient-based optimization]]] can find different solutions. In [[Linear Regression]], [[ADALINE]], [[Logistic Regression]], and [[Softmax|Softmax Regression]] , their loss functions are usually convex, but that is no longer the case with MLPs.
 
 ![[Pasted image 20250914123843.png]]
 
@@ -27,7 +27,7 @@ By starting with random weights, we can reach different local minima, hence it's
 
 ### Flat Gradients
 
-During [[Gradient Descent|gradient descent]], updates to weights happen via $\Delta w = -\eta \cdot \frac{\partial L}{\partial w}$. The chain rule breaks this down: $\frac{\partial L}{\partial w} = \frac{\partial L}{\partial \hat{y}} \cdot \frac{\partial \hat{y}}{\partial z} \cdot \frac{\partial z}{\partial w}$, where $z = w \cdot x + b$ is the pre-activation. 
+During[[Understanding Gradient Descent|gradient descent]]], updates to weights happen via $\Delta w = -\eta \cdot \frac{\partial L}{\partial w}$. The chain rule breaks this down: $\frac{\partial L}{\partial w} = \frac{\partial L}{\partial \hat{y}} \cdot \frac{\partial \hat{y}}{\partial z} \cdot \frac{\partial z}{\partial w}$, where $z = w \cdot x + b$ is the pre-activation. 
 
 - For MSE loss, $\frac{\partial L}{\partial \hat{y}} = (\hat{y} - y)$, which can be large if the prediction is very wrong (e.g., $\hat{y} \approx 0$ and $y=1$). 
 

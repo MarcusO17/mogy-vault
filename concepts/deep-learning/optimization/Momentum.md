@@ -8,7 +8,7 @@ Video : https://www.youtube.com/watch?v=7RhNXYqDBfU
 # Momentum
 In deep learning, momentum learning, is where the convergence is accelerated by dampening oscillations using "velocity".
 
-Unlike regular [[Gradient Descent]], where we move the opposite direction of the gradient. In momentum learning, gradient descent is done by also moving in the 'averaged' direction of the last few updates.
+Unlike regular[[Understanding Gradient Descent]]], where we move the opposite direction of the gradient. In momentum learning, gradient descent is done by also moving in the 'averaged' direction of the last few updates.
 
 ![[Pasted image 20251022153837.png]]
 

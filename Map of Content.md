@@ -51,7 +51,7 @@ Central index for mogy-vault. Every note is reachable from here.
 
 ### Training
 - [[Online, Batch, and Minibatch Mode]]
-- [[Gradient Descent]]
+- [[Understanding Gradient Descent]]
 - [[Batch Gradient Descent]]
 - [[Stochastic Gradient Descent]]
 - [[Computation Graphs]]

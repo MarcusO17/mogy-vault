@@ -44,7 +44,7 @@ Revision index organised by lecture tag. Each lecture groups all concept notes c
 
 - [[ADALINE]]
 - [[Linear Regression]]
-- [[Gradient Descent]]
+- [[Understanding Gradient Descent]]
 - [[Batch Gradient Descent]]
 - [[Stochastic Gradient Descent]]
 
