@@ -1,14 +1,15 @@
 ---
-title: 
-course: 
-lecture: 
-date: 
-tags: []
+title: An Iterative Training Algorithm for Linear Regression
+course: rasbt-Introduction to Deep Learning
+lecture: L5.3
+date:
+tags:
+  - "#L05"
 ---
 
-# Training Algorithm for Linear Regression
+# An Iterative Training Algorithm for Linear Regression
 
-To train a linear regression model, We could start by initializing the parameters to 0 or (any random small value) then.
+To naivelyt train a linear regression model, We could start by initializing the parameters to 0 or (any random small value) then.
 - Every $k$ rounds/ epoch:
 	- Analyze what effect a change of parameter has on the loss of the model
 	- Change the weight/bias (parameters) a little bit in the direction which improves the performance (minimizes loss)
