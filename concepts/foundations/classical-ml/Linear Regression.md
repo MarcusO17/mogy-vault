@@ -5,13 +5,13 @@ Lecture : #L05
 Video : [L5.2 Relation Between Perceptron and Linear Regression](https://www.youtube.com/watch?v=4JB1j8eIGzI&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51&index=34) 
 
 ---
-## Linear Regression as a Single-Layer NN
+# Relation Between Perceptron and Linear Regression
 
 - Unlike the [[The Perceptron|perceptron]], the activation function is the [[Identity Function|activation function]] where $\sigma(x) = x$
 - The output is a real number $\hat{y} \in \mathbb{R}$
 
 
-## (Least-Squares) LR
+# (Least-Squares) LR
 
 Using statistics, the weights of Linear Regression can be calculated using the least-squares method. $$\mathbf{w} = (\mathbf{X}^\top \mathbf{X})^{-1}\mathbf{X}^\top  y$$
 * Generally, this is the best method for linear regression
@@ -31,10 +31,7 @@ Rather similar to the [[The Perceptron#Perceptron Learning Algorithm|perceptron 
 
 
 
-### Stochastic Gradient Descent
-
-^0981ee
-
+# Stochastic Gradient Descent
 1. Initialize $\mathbf{w} := \mathbf{0} \in \mathbb{R}^m, \, \mathbf{b} := 0$
 2. For every training epoch: ^6b359c
 	1. For every $\langle \mathbf{x}^{[i]},y^{[i]}\rangle \in D$
