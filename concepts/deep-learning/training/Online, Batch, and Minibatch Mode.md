@@ -7,11 +7,11 @@ Video : https://www.youtube.com/watch?v=b4DXHd3RwqA&list=PLTKMiZHVd_2KJtIXOW0zFh
 ---
 # Online, Batch, and Minibatch Mode
 
-### **General Learning Principle**
+## **General Learning Principle**
 
 $$Let: \quad D=(\langle\mathbf{x}^{[1]},y^{[1]}\rangle,\langle\mathbf{x}^{[2]},y^{[2]}\rangle,\dots,\langle\mathbf{x}^{[n]},y^{[n]}\rangle) \in (\mathbb{R}^m \times{\{ 0,1 \})^n}$$
 
-### "On-line" mode
+# "On-line" mode
 
 1. Initialize $\textbf{w} := \mathbf{0} \in \mathbb{R}^m, \mathbf{b} := 0$
 2. For every training epoch:
@@ -27,6 +27,8 @@ Usually the dataset is shuffled prior to each epoch to prevent cycles. This is p
 
 So we can see that it's rather similar to the [[The Perceptron#Perceptron Learning Algorithm]] 
 Making the [[The Perceptron|Perceptron]] learning an "On-line" mode method!! But it is important to know that other neural nets are also On-Line.
+
+---
 
 ### Batch Mode
 
