@@ -44,7 +44,7 @@ Making the [[The Perceptron|Perceptron]] learning an "On-line" mode method!! But
 	3. Update $\mathbf{w},b$ :
 	   $\mathbf{w} := \mathbf{w} + \Delta{w}, \, b := +\Delta b$
 
-   TLDR, we update weights and biases after every BATCH
+   TLDR, we update weights and biases after every BATCH which in this case is the WHOLE training set, $$
    
 - We collect what's to be updated, some information before we update.
 	- We can see the batch mode initialises $\Delta \mathbf{w} := 0$ and $\Delta b := 0$
