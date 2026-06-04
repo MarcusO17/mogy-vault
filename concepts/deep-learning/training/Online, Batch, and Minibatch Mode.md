@@ -25,7 +25,7 @@ Usually the dataset is shuffled prior to each epoch to prevent cycles. This is p
 > [!NOTE]- Side Note
 > 1. := means "assigned", So both weight and biases are assigned zero vector and zero.
 
-So we can see that it's rather similar to the ![[The Perceptron#Perceptron Learning Algorithm]] 
+So we can see that it's rather similar to the [[The Perceptron#Perceptron Learning Algorithm]] 
 Making the [[The Perceptron|Perceptron]] learning an "On-line" mode method!! But it is important to know that other neural nets are also On-Line.
 
 ### Batch Mode
