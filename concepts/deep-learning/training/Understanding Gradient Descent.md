@@ -28,7 +28,8 @@ The loss function will look like this with respect to w.
 
 ---
 ## Finding the Gradients of LR parameters.
-Recap to [[Stochastic Gradient Descent]]
+Recap to [[An Iterative Training Algorithm for Linear Regression#Stochastic Gradient Descent|Stochastic Gradient Descent]]
+
 Step 2. requires finding out the gradients of the loss in respect to w and b.
 #### Finding $\nabla_{w}\mathcal{L}$
 
