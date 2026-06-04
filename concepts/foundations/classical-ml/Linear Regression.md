@@ -1,7 +1,7 @@
 Created : 2025-08-15 19:06
 Tags :
 Type :
-Lecture : #L05
+Lecture : #L05 
 Video : [L5.2 Relation Between Perceptron and Linear Regression](https://www.youtube.com/watch?v=4JB1j8eIGzI&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51&index=34) 
 
 ---
@@ -31,9 +31,10 @@ Rather similar to the [[The Perceptron#Perceptron Learning Algorithm|perceptron 
 
 
 
-# Stochastic Gradient Descent
+### Stochastic Gradient Descent
+
 1. Initialize $\mathbf{w} := \mathbf{0} \in \mathbb{R}^m, \, \mathbf{b} := 0$
-2. For every training epoch: ^6b359c
+2. For every training epoch: 
 	1. For every $\langle \mathbf{x}^{[i]},y^{[i]}\rangle \in D$
 		1. $\hat{y}^{[i]} := \sigma(\mathbf{x}^{[i]T}\mathbf{w}+b)$
 		2. $\nabla_\mathbf{w}\mathcal{L} = ( y^{[i]} - \hat{y}^{[i]})\mathbf{x}^{[i]}$
@@ -47,7 +48,7 @@ Rather similar to the [[The Perceptron#Perceptron Learning Algorithm|perceptron 
  * For each training example
 	 * We run a forward pass, alike the perceptron. 
 		 * The $\sigma$ / activation function is an identity function in the case of Linear Regression
-	* The gradients of the loss respect to the weights and bias are then calculated #NMI
+	* The gradients of the loss respect to the weights and bias are then calculated 
 	* The weight vector and bias are updated by using the learning rate as a "nudge factor" which is multiplied by the negative gradient.
 	
 ##### Non-Vectorized Stochastic Gradient Descent
