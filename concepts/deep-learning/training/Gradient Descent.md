@@ -1,8 +1,8 @@
-﻿Created : 2025-08-18 14:05
+Created : 2025-08-18 14:05
 Tags :
 Type :
 Lecture : #L05
-Video : https://www.youtube.com/watch?v=VBOxg62CwCg
+Video : [](https://www.youtube.com/watch?v=L4xzybIa-bo&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51&index=38)
 
 ---
 # Gradient Descent
