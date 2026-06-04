@@ -2,10 +2,10 @@ Created : 2025-08-15 13:43
 Tags :
 Type :
 Lecture : #L05 
-Video : 
+Video : https://www.youtube.com/watch?v=b4DXHd3RwqA&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51&index=33
 
 ---
-# Training a Neural Net
+# Online, Batch, and Minibatch Mode
 
 ### **General Learning Principle**
 

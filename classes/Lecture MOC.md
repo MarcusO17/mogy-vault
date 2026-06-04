@@ -79,7 +79,7 @@ Revision index organised by lecture tag. Each lecture groups all concept notes c
 - [[Non-Linear Activation Functions]]
 - [[ReLU Function]]
 - [[Dead Neurons]]
-- [[Training a Neural Net]]
+- [[Online, Batch, and Minibatch Mode]]
 
 ---
 

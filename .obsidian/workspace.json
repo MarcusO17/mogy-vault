@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/deep-learning/training/Training a Neural Net.md",
+                "file": "concepts/deep-learning/training/Online, Batch, and Minibatch Mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Training a Neural Net"
+              "title": "Online, Batch, and Minibatch Mode"
             }
           },
           {

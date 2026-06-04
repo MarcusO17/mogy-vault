@@ -50,7 +50,7 @@ Central index for mogy-vault. Every note is reachable from here.
 - [[Dead Neurons]]
 
 ### Training
-- [[Training a Neural Net]]
+- [[Online, Batch, and Minibatch Mode]]
 - [[Gradient Descent]]
 - [[Batch Gradient Descent]]
 - [[Stochastic Gradient Descent]]
