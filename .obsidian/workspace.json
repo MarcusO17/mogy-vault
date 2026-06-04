@@ -67,8 +67,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fully Conne",
-                "matchingCase": false,
+                "query": "ibn",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -200,7 +200,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ec5adcf3a7789ad9",
+  "active": "b675be9b37549bdc",
   "lastOpenFiles": [
     "concepts/deep-learning/architectures/Fully Connected Layer.md",
     "concepts/deep-learning/architectures/Multilayer Networks.md",
