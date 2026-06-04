@@ -2,7 +2,7 @@ Created : 2025-08-15 19:06
 Tags :
 Type :
 Lecture : #L05
-Video : https://www.youtube.com/watch?v=VBOxg62CwCg
+Video : [L5.2 Relation Between Perceptron and Linear Regression](https://www.youtube.com/watch?v=4JB1j8eIGzI&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51&index=34) 
 
 ---
 ## Linear Regression as a Single-Layer NN
