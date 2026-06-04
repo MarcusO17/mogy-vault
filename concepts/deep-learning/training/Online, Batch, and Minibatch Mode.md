@@ -20,6 +20,8 @@ $$Let: \quad D=(\langle\mathbf{x}^{[1]},y^{[1]}\rangle,\langle\mathbf{x}^{[2]},y
 		2. Calculate error (backward)
 		3. Update $\vec{w},b$
 
+Online Mode essentially shows that the model weights are update after each training data point.
+
 Usually the dataset is shuffled prior to each epoch to prevent cycles. This is part of [[Stochastic Gradient Descent|SGD]] best practices.
 
 > [!NOTE]- Side Note
