@@ -44,7 +44,8 @@ Making the [[The Perceptron|Perceptron]] learning an "On-line" mode method!! But
 	3. Update $\mathbf{w},b$ :
 	   $\mathbf{w} := \mathbf{w} + \Delta{w}, \, b := +\Delta b$
 
-	T
+   TLDR, we update weights and biases after every BATCH
+   
 - We collect what's to be updated, some information before we update.
 	- We can see the batch mode initialises $\Delta \mathbf{w} := 0$ and $\Delta b := 0$
 		- $\Delta \mathbf{w}$ is not Difference! but just a placeholder to store what's to be updated to the weights.
