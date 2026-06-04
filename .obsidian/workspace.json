@@ -202,10 +202,10 @@
   },
   "active": "f017c7ed14bef84f",
   "lastOpenFiles": [
-    "concepts/foundations/classical-ml/The Perceptron.md",
-    "concepts/deep-learning/training/An Iterative Training Algorithm for Linear Regression.md",
-    "concepts/foundations/classical-ml/Linear Regression.md",
     "concepts/deep-learning/training/Online, Batch, and Minibatch Mode.md",
+    "concepts/deep-learning/training/An Iterative Training Algorithm for Linear Regression.md",
+    "concepts/foundations/classical-ml/The Perceptron.md",
+    "concepts/foundations/classical-ml/Linear Regression.md",
     "concepts/deep-learning/training/Loss Functions.md",
     "concepts/deep-learning/training/Cross Entropy.md",
     "concepts/deep-learning/training/Batch Gradient Descent.md",
