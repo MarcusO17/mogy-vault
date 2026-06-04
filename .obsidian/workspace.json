@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/deep-learning/training/Online, Batch, and Minibatch Mode.md",
+                "file": "concepts/foundations/classical-ml/Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Online, Batch, and Minibatch Mode"
+              "title": "Linear Regression"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#L05",
+                "query": "linear reg",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,

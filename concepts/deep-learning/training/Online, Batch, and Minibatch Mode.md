@@ -58,7 +58,7 @@ Making the [[The Perceptron|Perceptron]] learning an "On-line" mode method!! But
 
 1. Initialize $\textbf{w} := \mathbf{0} \in \mathbb{R}^m, \mathbf{b} := 0$
 2. For every training epoch:
-	1. For every minibatch of size *k*:
+	1. For every minibatch of size *k* initiated:
 		1. Initialize $\Delta\mathbf{w} := 0, \, \Delta b := 0$
 		2. For every $\{\langle \mathbf{x}^{[i]},y^{[i]}\rangle,\dots,\langle\mathbf{x}^{[i+k]},y^{[i+k]}\rangle\} \subset D$ aka *minibatch*.
 			1. Compute output (predict/forward pass)
