@@ -60,7 +60,10 @@ For logistic regression, we want to maximise the $\dots$ ($\downarrow$, is the M
 $$
 P(y^{[i]},\dots,y^{[n]}|\mathbf{x}^{[i]},\dots,\mathbf{x}^{[n]}) = \prod^n_{i=1}P(y^{[i]}|\mathbf{x}^{[i]}).
 $$
-MLE here shows us that for each inferred set, we compute 
+MLE here shows us that for each inferred set, we compute the product of all probabilities across a certain class label, almost like:
+$$
+	P(\text{all three outcomes} = P(\text{flip1}))
+$$
 
 In practice, we can also try to maximise the natural log of that equation which is known as the log-likelihood function.
 
