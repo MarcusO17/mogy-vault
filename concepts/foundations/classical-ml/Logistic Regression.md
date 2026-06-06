@@ -82,7 +82,11 @@ We would achieve a $\mathcal{L}(\mathbf{w})$ that is $\approx$ 1, the Likelihood
 $$
 	w←w+η∇L(w)
 $$
-that would mean we are looking for **gradient ascent**, and it's weird and unconventional, so instead we just negate the 
+that would mean we are looking for **gradient ascent**, and it's weird and unconventional, so instead we just negate the formula to, 
+$$
+-\mathcal{L}(\mathbf{w}) = -\prod^n_{i=1} P(y^{[i]}|\mathbf{x}^{[i]})
+$$
+
 
 but a issue pops up if we observe a bad batch where, 
 $$
