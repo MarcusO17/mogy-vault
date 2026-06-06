@@ -42,7 +42,7 @@ This effectively uses the perceptron? (I am not too sure what to call the earlie
 
 Logistic Regression uses the Likelihood Loss Function.
 
-For logistic regression, we want to maximise the $\dots$
+For logistic regression, we want to maximise the $\dots$ ($\downarrow$, is the Maximum Likelihood Estimation)
 $$
 P(y^{[i]},\dots,y^{[n]}|\mathbf{x}^{[i]},\dots,\mathbf{x}^{[n]}) = \prod^n_{i=1}P(y^{[i]}|\mathbf{x}^{[i]}).
 $$
