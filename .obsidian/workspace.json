@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/deep-learning/architectures/Convolutional Neural Networks.md",
+                "file": "concepts/foundations/classical-ml/Logistic Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convolutional Neural Networks"
+              "title": "Logistic Regression"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Gradient",
+                "query": "logistic",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/deep-learning/architectures/Convolutional Neural Networks.md",
+                "file": "concepts/foundations/classical-ml/Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Convolutional Neural Networks"
+              "title": "Backlinks for Logistic Regression"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concepts/deep-learning/architectures/Convolutional Neural Networks.md",
+                "file": "concepts/foundations/classical-ml/Logistic Regression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Convolutional Neural Networks"
+              "title": "Outline of Logistic Regression"
             }
           }
         ],
@@ -216,8 +216,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3aabf73bbf447044",
+  "active": "385eb4cd3e642742",
   "lastOpenFiles": [
+    "concepts/deep-learning/architectures/Convolutional Neural Networks.md",
     "Untitled.canvas",
     "concepts/deep-learning/training/Understanding Gradient Descent.md",
     "concepts/foundations/classical-ml/ADALINE.md",
