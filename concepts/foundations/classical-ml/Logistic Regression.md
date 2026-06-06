@@ -40,10 +40,11 @@ For a binary class problem, we want these probas to be:
 
 $$
 	\begin{align}
-	P(y=0|\mathbf{x}) \approx 1 \quad \text{if } y= 1 \\
-	P(y=1|\mathbf{x}) = 1- P(y=0|\mathbf{x}) \quad \text{if } y = 1
+	P(y=0|\mathbf{x})  &\approx 1 \quad \text{if } y= 0 \\
+	P(y=1|\mathbf{x})  &= 1- P(y=0|\mathbf{x}) \quad \text{if } y = 1
 	\end{align}
 $$
+Simply means, if the true answer, $y$ is 0 
 
 
 ---
