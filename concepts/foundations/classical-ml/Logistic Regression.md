@@ -52,10 +52,11 @@ So when y is 1, we kinda wanna see $P \approx 0.99$ or smtg, while y is 0, $P \a
 
 ---
 ## Logistic Regression Loss Function
+### Likelihood Loss Function
 
 Logistic Regression uses the Likelihood Loss Function.
 
-For logistic regression, we want to maximise the $\dots$ ($\downarrow$, is the Maximum Likelihood Estimation)
+For logistic regression, we want to maximise the $\dots$ ($\downarrow$, is the Maximum Likelihood Estimation) by finding good/optimal parameters
 $$
 P(y^{[i]},\dots,y^{[n]}|\mathbf{x}^{[i]},\dots,\mathbf{x}^{[n]}) = \prod^n_{i=1}P(y^{[i]}|\mathbf{x}^{[i]}).
 $$
