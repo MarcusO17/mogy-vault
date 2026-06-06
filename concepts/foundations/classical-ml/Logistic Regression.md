@@ -46,7 +46,7 @@ $$
 $$
 Simply means, if the true label, $y$ is 0 then probability of the true answer, where $y$ is 0 should be very high $(\approx / \to 1)$ , vice versa. 
 
-We use 1 - P as one of Bernoulli's principles on prob
+We use 1 - P as the sum rule of probabilities states that probabilities and their complement case must sum to 1.
 
 
 ---
