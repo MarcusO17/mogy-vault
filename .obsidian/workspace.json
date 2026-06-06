@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "201503e997fe3a6c",
+        "id": "319bac0ff3812a07",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5adcf3a7789ad9",
+            "id": "a83a75560ab44284",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "concepts/deep-learning/activations/Non-Linear Activation Functions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Non-Linear Activation Functions"
             }
           }
         ]
@@ -77,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,10 +195,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ec5adcf3a7789ad9",
+  "active": "a83a75560ab44284",
   "lastOpenFiles": [
-    "concepts/foundations/classical-ml/Notational Conventions in Deep Learning.md",
+    "concepts/deep-learning/architectures/Deep Learning.md",
+    "concepts/deep-learning/activations/Dead Neurons.md",
+    "concepts/deep-learning/regularization/Dropout.md",
     "Untitled.canvas",
+    "concepts/foundations/classical-ml/Notational Conventions in Deep Learning.md",
     "concepts/foundations/math/Derivatives Refresher.md",
     "concepts/deep-learning/training/Understanding Gradient Descent.md",
     "concepts/deep-learning/training/Online, Batch, and Minibatch Mode.md",
@@ -233,12 +232,9 @@
     "literature-notes/papers/AlexNet.md",
     "projects/LeNet-5.md",
     "concepts/deep-learning/regularization/Early Stopping.md",
-    "concepts/deep-learning/regularization/Dropout.md",
     "concepts/deep-learning/regularization/L1 L2 Regularization.md",
     "concepts/deep-learning/regularization/Overfitting.md",
     "concepts/deep-learning/regularization/Overfitting and Underfitting.md",
-    "concepts/deep-learning/regularization/Improving Generalization.md",
-    "classes/CS230/L2 Supervised, Self Supervised, & Weakly Supervised Learning.md",
     "assets/images/Pasted image 20250818153843.png",
     "assets/images/Pasted image 20250818143705.png",
     "assets/images/Pasted image 20250816201906.png",
