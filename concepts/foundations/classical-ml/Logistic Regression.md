@@ -81,9 +81,9 @@ We would achieve a $\mathcal{L}(\mathbf{w})$ that is $\approx$ 1, we have usuall
 
 Another issue pops up if we observe a bad batch where, 
 $$
-	
+	loss = 0.01 \times 0.3 \times 0.09 \times \dots
 $$
-
+The loss of the batch would be tiny, perhaps $0.00003$ and over a dataset where, $n \geq 100000$ we can see the opportunity of a numerical underflow.
 
 
 
