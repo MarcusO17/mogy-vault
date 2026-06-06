@@ -122,7 +122,8 @@ It's literally $\downarrow$ rewritten (defined not derived) as 1 liner using exp
 $$
 	P(y \mid \mathbf{x}) = \begin{cases} h(\mathbf{x}) & \text{if } y = 1 \\ 1 - h(\mathbf{x}) & \text{if } y = 0 \end{cases}
 $$
-when $y$ is 0 or 1, it would turn the former or the latter 1 or 0 and since 1-a  is well defined within, it would just cancel the former as a
+when $y$ is 0 or 1, it would turn the former or the latter 1 or 0 and since 1-a  is well defined within, it would just cancel the former as $a^{y} = 1 \text{ if } y = 0 .$
+
 
 
 
