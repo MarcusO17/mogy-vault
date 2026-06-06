@@ -71,7 +71,7 @@ The Maximum Likelihood Estimation is also represented by:
 $$
 	\mathcal{L}(\mathbf{w}) = \prod^n_{i=1} P(y^{[i]}|\mathbf{x}^{[i]})
 $$
-
+The loss of the model can be computed by MLE 
 
 
 
