@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/deep-learning/training/Understanding Gradient Descent.md",
+                "file": "concepts/deep-learning/architectures/Convolutional Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Gradient Descent"
+              "title": "Convolutional Neural Networks"
             }
           }
         ],
@@ -217,6 +217,7 @@
   },
   "active": "385eb4cd3e642742",
   "lastOpenFiles": [
+    "concepts/deep-learning/training/Understanding Gradient Descent.md",
     "concepts/foundations/classical-ml/ADALINE.md",
     "concepts/foundations/math/Derivatives Refresher.md",
     "concepts/deep-learning/training/An Iterative Training Algorithm for Linear Regression.md",
@@ -233,7 +234,6 @@
     "concepts/foundations/classical-ml/Notational Conventions in Deep Learning.md",
     "Pasted image 20260602164416.png",
     "concepts/deep-learning/training/PyTorch Quick Reference.md",
-    "concepts/deep-learning/training/Understanding Gradient Descent.md",
     "concepts/deep-learning/training/the PyTorch Process.md",
     "concepts/deep-learning/regularization/L1 L2 Regularization.md",
     "literature-notes/papers/AlexNet.md",
