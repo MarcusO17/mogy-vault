@@ -75,13 +75,21 @@ The ~~**LIKELIHOOD** (not loss..)~~  error of the weights of the model can be co
 
 MLE would appreciate a maximum. (A higher value) $\approx 1$ would indicate a better result. Let's assume that the individual probabilities of the observed dataset points are high.. 
 $$
-	\text{loss} = 0.9 \times 0.89 \times 0.9
+	\text{error} = 0.9 \times 0.89 \times 0.9
 9 \times \dots$$
 We would achieve a $\mathcal{L}(\mathbf{w})$ that is $\approx$ 1, but a issue pops up if we observe a bad batch where, 
 $$
-	loss = 0.01 \times 0.3 \times 0.09 \times \dots
+	\text{error} = 0.01 \times 0.3 \times 0.09 \times \dots
 $$
 The loss of the batch would be tiny, perhaps $0.00003$ and over a dataset where, $n \geq 100000$ we can see the opportunity of a numerical underflow.
+
+---
+### Log Likelihood
+
+Hence we take advantage of the log rule where,
+$$
+	 \log()
+$$
 
 
 
