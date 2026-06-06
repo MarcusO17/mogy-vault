@@ -65,7 +65,7 @@ $$
 	P(\text{all three outcomes}) = P(\text{flip 1}) \times P(\text{flip 2}) \times P(\text{flip 3})
 $$
 
-Hence the final outcome of a test set being a certain class depends of all of it's dataset examples probabilities of it being a certain class.
+Hence the final outcome of a test set being a certain class depends of all of it's observed dataset examples probabilities of it being the true class. 
 
 In practice, we can also try to maximise the natural log of that equation which is known as the log-likelihood function.
 
