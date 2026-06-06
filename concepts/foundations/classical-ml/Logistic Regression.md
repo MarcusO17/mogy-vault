@@ -30,6 +30,10 @@ h(\mathbf{x}) \quad  &\text{if y = 1} \\
 1-h(x) \quad  &\text{if y  = 0}
 \end{cases}
 $$
+$$
+	\underbrace{\mathbf{w}^T \mathbf{x} + b}_{\text{logit } z} \xrightarrow{\sigma} \underbrace{h(\mathbf{x})}_{\text{probability}} \xrightarrow{\text{threshold at } 0.5} \underbrace{\hat{y}}_{\text{class label}}
+$$
+
 This effectively uses the perceptron? (I am not too sure what to call the earlier layers+input) to  acquire logits (probabilities of the end result) instead of actual values and uses a sigmoid function to move the acquired logits into either upper boundary, $1$ or lower boundary, $0$
 
 
