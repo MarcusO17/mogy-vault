@@ -59,6 +59,7 @@ For logistic regression, we want to maximise the $\dots$ ($\downarrow$, is the M
 $$
 P(y^{[i]},\dots,y^{[n]}|\mathbf{x}^{[i]},\dots,\mathbf{x}^{[n]}) = \prod^n_{i=1}P(y^{[i]}|\mathbf{x}^{[i]}).
 $$
+MLE here shows us 
 
 In practice, we can also try to maximise the natural log of that equation which is known as the log-likelihood function.
 
