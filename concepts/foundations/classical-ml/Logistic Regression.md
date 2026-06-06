@@ -48,7 +48,7 @@ Simply means, if the true label, $y$ is 0 then probability of the true answer, w
 
 We use 1 - P as the sum rule of probabilities states that probabilities and their complement case must sum to 1.
 
-So when y is 1, we kinda wanna see $P \approx 0.99$ or smtg, while y is 0, $P \approx 0.01$ as $h(x)$
+So when y is 1, we kinda wanna see $P \approx 0.99$ or smtg, while y is 0, $P \approx 0.01$ as $h(\mathbf{x})$ here only computes probabilities of a case and the complement must be computed.
 
 ---
 ## Logistic Regression Loss Function
