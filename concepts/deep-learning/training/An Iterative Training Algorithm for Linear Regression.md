@@ -39,7 +39,7 @@ This is rather similar to the [[The Perceptron#Perceptron Learning Algorithm|per
 	
 ##### Non-Vectorized Stochastic Gradient Descent
 
-To help with visualisation and reference later on. This is the non-vectorized version.
+To help with visualization and reference later on. This is the non-vectorized version.
 
 1. Initialize $\mathbf{w} := \mathbf{0} \in \mathbb{R}^m, \, \mathbf{b} := 0$
 2. For every training epoch:
