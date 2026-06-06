@@ -112,6 +112,10 @@ $$
 
 ---
 
+Before we can get into 
+
+
+
 
 ![[Cross Entropy#Binary Cross-Entropy]]
 
