@@ -30,7 +30,8 @@ h(\mathbf{x}) \quad  &\text{if y = 1} \\
 1-h(x) \quad  &\text{if y  = 0}
 \end{cases}
 $$
-This effectively uses the perceptron? (I am not too sure what to call the earlier layers+input) to  acquire logits (probabilities of the end result) instead of actual values and uses a sigmoid function to convert it into
+This effectively uses the perceptron? (I am not too sure what to call the earlier layers+input) to  acquire logits (probabilities of the end result) instead of actual values and uses a sigmoid function to move the acquired logits into either upper boundary, $1$ or lower boundary, $0$
+
 
 ---
 ## Logistic Regression Loss Function
