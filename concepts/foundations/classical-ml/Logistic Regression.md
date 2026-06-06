@@ -78,11 +78,11 @@ $$
 	\text{error} = 0.9 \times 0.89 \times 0.9
 9 \times \dots$$
 
-We would achieve a $\mathcal{L}(\mathbf{w})$ that is $\approx$ 1, the Likelihood is maximized which is not too helpful for gradient descent, where we take,
+We would achieve a $\mathcal{L}(\mathbf{w})$ that is $\approx$ 1, the Likelihood is maximized which is not too helpful for gradient descent, where we take, (check [[Online, Batch, and Minibatch Mode]])
 $$
 	w←w+η∇L(w)
 $$
-that 
+that would mean we are looking for **gradient ascent**, and it's weird and unconventional, so instead we just negate the 
 
 but a issue pops up if we observe a bad batch where, 
 $$
