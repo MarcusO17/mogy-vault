@@ -75,8 +75,9 @@ The loss of the model can be computed by MLE ,  but it's odd....
 
 MLE would appreciate a maximum. (A higher value) $\approx 1$ would indicate a better result. Let's assume that the individual probabilities of the observed dataset points are high.. 
 $$
-	
-$$
+	\text{loss} = 0.9 \times 0.89 \times 0.9
+9 \times \dots$$
+We would achieve a $\mathcal{L}(\mathbf{w})$ that is 
 
 
 
