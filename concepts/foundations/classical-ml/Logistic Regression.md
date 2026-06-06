@@ -115,7 +115,9 @@ $$
 Before we can get into cross entropy, we need to understand **Bernoulli's distribution**, basically the sum of probabilities rule. 
 
 **Bernoulli's Distribution**
-
+$$
+	 
+$$
 
 
 
