@@ -186,15 +186,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "concepts/deep-learning/architectures/Convolutional Neural Networks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Convolutional Neural Networks"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -215,7 +217,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "385eb4cd3e642742",
+  "active": "3aabf73bbf447044",
   "lastOpenFiles": [
     "Untitled.canvas",
     "concepts/deep-learning/training/Understanding Gradient Descent.md",
