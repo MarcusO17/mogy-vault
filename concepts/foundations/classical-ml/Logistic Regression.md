@@ -44,7 +44,9 @@ $$
 	P(y=1|\mathbf{x})  &= 1- P(y=0|\mathbf{x}) \quad \text{if } y = 1
 	\end{align}
 $$
-Simply means, if the true label, $y$  probability of the true answer, where $y$ is 0 is very high $(\approx 1)$ then 
+Simply means, if the true label, $y$ is 0 then probability of the true answer, where $y$ is 0 should be very high $(\approx / \to 1)$ , vice versa. 
+
+We use 1 - P as one of Bernoulli's principles on prob
 
 
 ---
