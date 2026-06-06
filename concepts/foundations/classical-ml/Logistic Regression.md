@@ -21,7 +21,7 @@ Given that:
 $$
 h(\mathbf{x}) = \sigma(\mathbf{w}^T  \mathbf{x} + b)
 $$
-We compute the posterior (get the probabilit):
+We compute the posterior (get the probability of the):
 $y = \text{class label}$
 $\mathbf{x} = \text{feature vector}$
 $$
