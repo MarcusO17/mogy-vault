@@ -40,7 +40,7 @@ For a binary class problem, we want these probas to be:
 
 $$
 	\begin{align}
-	P(y=0|\mathbf{x}) 
+	P(y=0|\mathbf{x}) \approx 1 \quad \text{if }
 	\end{align}
 $$
 
