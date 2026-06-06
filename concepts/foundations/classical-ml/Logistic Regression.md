@@ -44,7 +44,7 @@ $$
 	P(y=1|\mathbf{x})  &= 1- P(y=0|\mathbf{x}) \quad \text{if } y = 1
 	\end{align}
 $$
-Simply means, if the true answer, $y$ is 0 
+Simply means, if the true label, $y$  probability of the true answer, where $y$ is 0 is very high $(\approx 1)$ then 
 
 
 ---
