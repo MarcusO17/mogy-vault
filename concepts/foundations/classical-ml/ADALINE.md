@@ -1,8 +1,8 @@
-﻿Created : 2025-08-19 14:47
+Created : 2025-08-19 14:47
 Tags : #Model #NeuralNetwork #Classifier #LinearRegression 
 Type : Model
 Lecture : #L05
-Video : https://www.youtube.com/watch?v=VBOxg62CwCg
+Video : 
 
 ---
 # ADALINE
