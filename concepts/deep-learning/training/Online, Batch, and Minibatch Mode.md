@@ -1,17 +1,17 @@
-﻿Created : 2025-08-15 13:43
+Created : 2025-08-15 13:43
 Tags :
 Type :
-Lecture : #L09
-Video : https://www.youtube.com/watch?v=jD6IKpqSJM4
+Lecture : #L05 
+Video : https://www.youtube.com/watch?v=b4DXHd3RwqA&list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51&index=33
 
 ---
-# Training a Neural Net
+# Online, Batch, and Minibatch Mode
 
-### **General Learning Principle**
+## **General Learning Principle**
 
 $$Let: \quad D=(\langle\mathbf{x}^{[1]},y^{[1]}\rangle,\langle\mathbf{x}^{[2]},y^{[2]}\rangle,\dots,\langle\mathbf{x}^{[n]},y^{[n]}\rangle) \in (\mathbb{R}^m \times{\{ 0,1 \})^n}$$
 
-### "On-line" mode
+# "On-line" mode
 
 1. Initialize $\textbf{w} := \mathbf{0} \in \mathbb{R}^m, \mathbf{b} := 0$
 2. For every training epoch:
@@ -20,13 +20,17 @@ $$Let: \quad D=(\langle\mathbf{x}^{[1]},y^{[1]}\rangle,\langle\mathbf{x}^{[2]},y
 		2. Calculate error (backward)
 		3. Update $\vec{w},b$
 
+Online Mode essentially shows that the model weights are update after each training data point.
+
 Usually the dataset is shuffled prior to each epoch to prevent cycles. This is part of [[Stochastic Gradient Descent|SGD]] best practices.
 
 > [!NOTE]- Side Note
 > 1. := means "assigned", So both weight and biases are assigned zero vector and zero.
 
-So we can see that it's rather similar to the ![[The Perceptron#Perceptron Learning Algorithm]] 
+So we can see that it's rather similar to the [[The Perceptron#Perceptron Learning Algorithm]] 
 Making the [[The Perceptron|Perceptron]] learning an "On-line" mode method!! But it is important to know that other neural nets are also On-Line.
+
+---
 
 ### Batch Mode
 
@@ -40,6 +44,8 @@ Making the [[The Perceptron|Perceptron]] learning an "On-line" mode method!! But
 	3. Update $\mathbf{w},b$ :
 	   $\mathbf{w} := \mathbf{w} + \Delta{w}, \, b := +\Delta b$
 
+   TLDR, we update weights and biases after every BATCH which in this case is the WHOLE training set, $l$, instead of every data point.
+   
 - We collect what's to be updated, some information before we update.
 	- We can see the batch mode initialises $\Delta \mathbf{w} := 0$ and $\Delta b := 0$
 		- $\Delta \mathbf{w}$ is not Difference! but just a placeholder to store what's to be updated to the weights.
@@ -52,7 +58,7 @@ Making the [[The Perceptron|Perceptron]] learning an "On-line" mode method!! But
 
 1. Initialize $\textbf{w} := \mathbf{0} \in \mathbb{R}^m, \mathbf{b} := 0$
 2. For every training epoch:
-	1. For every minibatch of size *k*:
+	1. For every minibatch of size *k* initiated:
 		1. Initialize $\Delta\mathbf{w} := 0, \, \Delta b := 0$
 		2. For every $\{\langle \mathbf{x}^{[i]},y^{[i]}\rangle,\dots,\langle\mathbf{x}^{[i+k]},y^{[i+k]}\rangle\} \subset D$ aka *minibatch*.
 			1. Compute output (predict/forward pass)

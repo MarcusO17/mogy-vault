@@ -57,7 +57,7 @@ This formula helps us to get the regularization factor across all layers.
 ---
 ### L2 with Gradient Descent 
 
-So how does L2 work with [[Gradient Descent]]?
+So how does L2 work with[[Understanding Gradient Descent]]]?
 
 Regular gradient descent:
 $$

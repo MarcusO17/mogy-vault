@@ -7,7 +7,7 @@ Video : https://www.youtube.com/watch?v=7RhNXYqDBfU
 ---
 # Learning Rate Decay
 
-Because a [[Training a Neural Net#Mini-Batch Mode|Mini-Batch]] is only a small sample of the entire dataset, the calculated loss and **gradients are approximations** of the true values, leading to significant **oscillations** or noise in the parameter updates as the model trains. This noise, while initially helpful for escaping local minima, prevents the model from settling precisely into the global minimum later in training; therefore, the standard solution is to **decay the learning rate** over time, gradually reducing the size of the update steps to **dampen these oscillations** and ensure a smooth, stable convergence.
+Because a[[Online, Batch, and Minibatch Mode#Mini-Batch Mode|Mini-Batch]]] is only a small sample of the entire dataset, the calculated loss and **gradients are approximations** of the true values, leading to significant **oscillations** or noise in the parameter updates as the model trains. This noise, while initially helpful for escaping local minima, prevents the model from settling precisely into the global minimum later in training; therefore, the standard solution is to **decay the learning rate** over time, gradually reducing the size of the update steps to **dampen these oscillations** and ensure a smooth, stable convergence.
 
 It's recommended to train once first to see how much the LR should be decayed.
 
