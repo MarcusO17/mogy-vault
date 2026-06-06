@@ -16,7 +16,9 @@ The loss of Linear Regression can be defined as:
 $$
 \mathcal{L}(\mathbf{w},b) = \sum_{i}(\hat{y}^{[i]}-y^{[i]})^{2}
 $$
-![[Pasted image 20250818153843.png|10%]]
+aka SSE, Sum Squared Error.
+
+![[Pasted image 20250818153843.png]]]
 
 The loss function will look like this with respect to w.
 
