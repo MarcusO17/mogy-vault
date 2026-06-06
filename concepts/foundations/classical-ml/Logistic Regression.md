@@ -67,7 +67,7 @@ $$
 
 Hence the final outcome of a test set being a certain class depends of all of it's observed dataset examples probabilities of it being the true class. 
 
-
+The Maximum Likelihood Estimation also means for the L
 
 
 
