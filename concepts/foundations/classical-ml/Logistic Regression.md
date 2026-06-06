@@ -71,7 +71,7 @@ The Maximum Likelihood Estimation is also represented by:
 $$
 	\mathcal{L}(\mathbf{w}) = \prod^n_{i=1} P(y^{[i]}|\mathbf{x}^{[i]})
 $$
-The loss of the model can be computed by MLE ,  but it's odd....
+The **LIKELIHOOD** (not loss..) of the model can be computed by MLE ,  but it's odd....
 
 MLE would appreciate a maximum. (A higher value) $\approx 1$ would indicate a better result. Let's assume that the individual probabilities of the observed dataset points are high.. 
 $$
