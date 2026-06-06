@@ -36,7 +36,13 @@ h(\mathbf{x}) \quad  &\text{if y = 1} \\
 1-h(x) \quad  &\text{if y  = 0}
 \end{cases}
 $$
+For a binary class problem, we want these probas to be:
 
+$$
+	\begin{align}
+	P(y=0|\mathbf{x}) 
+	\end{align}
+$$
 
 
 ---
