@@ -77,7 +77,13 @@ MLE would appreciate a maximum. (A higher value) $\approx 1$ would indicate a be
 $$
 	\text{error} = 0.9 \times 0.89 \times 0.9
 9 \times \dots$$
-We would achieve a $\mathcal{L}(\mathbf{w})$ that is $\approx$ 1, but a issue pops up if we observe a bad batch where, 
+
+We would achieve a $\mathcal{L}(\mathbf{w})$ that is $\approx$ 1, the Likelihood is maximized which is not too helpful for gradient descent, where we take,
+$$
+	
+$$
+
+but a issue pops up if we observe a bad batch where, 
 $$
 	\text{error} = 0.01 \times 0.3 \times 0.09 \times \dots
 $$
@@ -93,7 +99,8 @@ $$
 We effectively get rid of the multiplication inside MLE, turning it into, 
 $$
 	\begin{align}
-	\mathcal{L}(\mathbf{w})  &= 
+		\mathcal{L}(\mathbf{w})  &= \prod^n_{i=1} P(y^{[i]}|\mathbf{x}^{[i]}) \\
+		\mathcal{L}(\mathbf{w})  &= 
 	\end{align}
 $$
 

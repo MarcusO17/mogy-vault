@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/foundations/classical-ml/Logistic Regression.md",
+                "file": "concepts/deep-learning/training/An Iterative Training Algorithm for Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logistic Regression"
+              "title": "An Iterative Training Algorithm for Linear Regression"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Understanding Gradient",
+                "query": "bta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,12 +212,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d649e4b2401ff6db",
+  "active": "b675be9b37549bdc",
   "lastOpenFiles": [
+    "concepts/foundations/classical-ml/Logistic Regression.md",
+    "concepts/deep-learning/optimization/Adaptive Learning Rate.md",
+    "concepts/deep-learning/training/An Iterative Training Algorithm for Linear Regression.md",
+    "concepts/deep-learning/training/Batch Gradient Descent.md",
     "concepts/deep-learning/training/Bias-Variance Decomposition.md",
     "concepts/deep-learning/training/Understanding Gradient Descent.md",
     "concepts/foundations/classical-ml/ADALINE.md",
-    "concepts/deep-learning/training/An Iterative Training Algorithm for Linear Regression.md",
     "concepts/deep-learning/activations/Non-Linear Activation Functions.md",
     "concepts/deep-learning/architectures/Deep Learning.md",
     "concepts/deep-learning/activations/Dead Neurons.md",
@@ -248,9 +252,6 @@
     "concepts/generative/Different Way to Model Text.md.tmp.12588.21541bc83818",
     "concepts/generative/Sequence Modelling.md.tmp.12588.4b984baab3de",
     "concepts/generative/Recurrent Neural Networks.md.tmp.12588.b71b17ea200a",
-    "literature-notes/papers/AlexNet.md",
-    "projects/LeNet-5.md",
-    "concepts/deep-learning/regularization/Early Stopping.md",
     "assets/images/Pasted image 20250818153843.png",
     "assets/images/Pasted image 20250818143705.png",
     "assets/images/Pasted image 20250816201906.png",
