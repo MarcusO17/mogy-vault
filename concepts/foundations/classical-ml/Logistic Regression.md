@@ -131,7 +131,7 @@ When $y = 1$, the right term cancels since $(1-h(\mathbf{x}))^{0} = 1$, leaving 
 
 When $y = 0$, the left term cancels since $h(\mathbf{x})^{0} = 1$, leaving $1 - h(\mathbf{x})$.
 
-
+---
 
 
 
