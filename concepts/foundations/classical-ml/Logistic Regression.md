@@ -34,7 +34,7 @@ $$
 	\underbrace{\mathbf{w}^T \mathbf{x} + b}_{\text{logit } z} \xrightarrow{\sigma} \underbrace{h(\mathbf{x})}_{\text{probability}} \xrightarrow{\text{threshold at } 0.5} \underbrace{\hat{y}}_{\text{class label}}
 $$
 
-This effectively uses the perceptron? (I am not too sure what to call the earlier layers+input) to  acquire logits (regular linear outputs) and converts them into probabilities instead of actual values and uses a sigmoid function to move the acquired logits into either upper boundary, $1$ or lower boundary, $0$
+This effectively uses the perceptron? (I am not too sure what to call the earlier layers + input) to  acquire logits (regular linear outputs) and converts them into probabilities using the sigmoid function and then said probas will move the acquired logits into either upper boundary, $1$ or lower boundary, $0$
 
 
 ---
