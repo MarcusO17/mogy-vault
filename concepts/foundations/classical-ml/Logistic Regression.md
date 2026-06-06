@@ -108,19 +108,7 @@ $$
 		-\mathcal{L}(\mathbf{w})  &= -\log \sum^n_{1=i} P(y^{[i]}|\mathbf{x}^{[i]}) \\
 	\end{align}
 $$
-
-
-
-
-
-
-
-
-
-
-In practice, we can also try to maximise the natural log of that equation which is known as the log-likelihood function.
-
-To be more convenient, we could minimise the **[[Cross Entropy|negative log-likelihood]]** instead of the maximising the function, allowing to still perform gradient descent instead of gradient ascent.
+ With addition it would nearly eradicate the previous issue of the numerical underflow. Bringing to the rise of the
 
 ![[Cross Entropy#Binary Cross-Entropy]]
 
