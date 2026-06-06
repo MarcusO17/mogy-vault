@@ -67,6 +67,16 @@ $$
 
 Hence the final outcome of a test set being a certain class depends of all of it's observed dataset examples probabilities of it being the true class. 
 
+
+
+
+
+
+
+
+
+
+
 In practice, we can also try to maximise the natural log of that equation which is known as the log-likelihood function.
 
 To be more convenient, we could minimise the **[[Cross Entropy|negative log-likelihood]]** instead of the maximising the function, allowing to still perform gradient descent instead of gradient ascent.
