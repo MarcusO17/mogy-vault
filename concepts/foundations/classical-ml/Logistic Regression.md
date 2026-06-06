@@ -1,4 +1,4 @@
-﻿Created : 2025-08-24 17:31
+Created : 2025-08-24 17:31
 Tags :
 Type :
 Lecture : #L08
@@ -21,7 +21,7 @@ Given that:
 $$
 h(\mathbf{x}) = \sigma(\mathbf{w}^T  \mathbf{x} + b)
 $$
-We compute the posterior:
+We compute the posterior (get the probabilit):
 $y = \text{class label}$
 $\mathbf{x} = \text{feature vector}$
 $$
