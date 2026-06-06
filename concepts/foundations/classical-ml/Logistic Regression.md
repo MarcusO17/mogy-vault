@@ -80,8 +80,9 @@ $$
 
 We would achieve a $\mathcal{L}(\mathbf{w})$ that is $\approx$ 1, the Likelihood is maximized which is not too helpful for gradient descent, where we take,
 $$
-	
+	w←w+η∇L(w)
 $$
+that 
 
 but a issue pops up if we observe a bad batch where, 
 $$
