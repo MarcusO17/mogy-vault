@@ -105,10 +105,13 @@ We effectively get rid of the multiplication inside MLE, turning it into,
 $$
 	\begin{align}
 		-\mathcal{L}(\mathbf{w})  &= -\prod^n_{i=1} P(y^{[i]}|\mathbf{x}^{[i]}) \\
-		-\mathcal{L}(\mathbf{w})  &= -\log \sum^n_{1=i} P(y^{[i]}|\mathbf{x}^{[i]}) \\
+		-\mathcal{L}(\mathbf{w})  &= -\sum^n_{1=i} \log  P(y^{[i]}|\mathbf{x}^{[i]}) \\
 	\end{align}
 $$
- With addition it would nearly eradicate the previous issue of the numerical underflow. Bringing to the rise of the
+ With addition it would nearly eradicate the previous issue of the numerical underflow. Bringing to the rise of the logistic regression loss function. Negative Log-Likelihood.
+
+---
+
 
 ![[Cross Entropy#Binary Cross-Entropy]]
 
