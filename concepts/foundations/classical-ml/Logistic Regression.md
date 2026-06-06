@@ -122,8 +122,14 @@ It's literally $\downarrow$ rewritten (defined not derived) as 1 liner using exp
 $$
 	P(y \mid \mathbf{x}) = \begin{cases} h(\mathbf{x}) & \text{if } y = 1 \\ 1 - h(\mathbf{x}) & \text{if } y = 0 \end{cases}
 $$
-when $y$ is 0 or 1, it would turn the former or the latter 1 or 0 and since 1-a  is well defined within, it would just cancel the former as $a^{y} = 1 \text{ if } y = 0 .$
 
+Since $y \in \{0, 1\}$, the exponents act as an on/off switch:
+
+$$P(y \mid \mathbf{x}) = h(\mathbf{x})^y \cdot (1 - h(\mathbf{x}))^{1-y}$$
+
+When $y = 1$, the right term cancels since $(1-h(\mathbf{x}))^{0} = 1$, leaving $h(\mathbf{x})$.
+
+When $y = 0$, the left term cancels since $h(\mathbf{x})^{0} = 1$, leaving $1 - h(\mathbf{x})$.
 
 
 
