@@ -20,7 +20,7 @@ aka SSE, Sum Squared Error.
 
 ![[Pasted image 20250818153843.png]]]
 
-The loss function will look like this with respect to w.
+The loss function will look like this with respect to w. (When we move w, how much does the loss change)
 
 
 
