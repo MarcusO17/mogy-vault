@@ -1,4 +1,4 @@
-﻿Created : 2025-10-06 16:08
+Created : 2025-10-06 16:08
 Tags :
 Type :
 Lecture : #L10

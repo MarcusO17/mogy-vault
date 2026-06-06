@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/foundations/classical-ml/ADALINE.md",
+                "file": "concepts/deep-learning/training/An Iterative Training Algorithm for Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADALINE"
+              "title": "An Iterative Training Algorithm for Linear Regression"
             }
           },
           {
@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/deep-learning/training/An Iterative Training Algorithm for Linear Regression.md",
+                "file": "concepts/foundations/classical-ml/Logistic Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "An Iterative Training Algorithm for Linear Regression"
+              "title": "Logistic Regression"
+            }
+          },
+          {
+            "id": "fbba96eed0b56049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/deep-learning/training/Online, Batch, and Minibatch Mode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Online, Batch, and Minibatch Mode"
             }
           }
         ],
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bta",
+                "query": "batch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,23 +226,25 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b675be9b37549bdc",
+  "active": "d649e4b2401ff6db",
   "lastOpenFiles": [
-    "concepts/foundations/classical-ml/Logistic Regression.md",
-    "concepts/deep-learning/optimization/Adaptive Learning Rate.md",
     "concepts/deep-learning/training/An Iterative Training Algorithm for Linear Regression.md",
     "concepts/deep-learning/training/Batch Gradient Descent.md",
+    "concepts/deep-learning/regularization/Improving Generalization.md",
+    "concepts/deep-learning/activations/Non-Linear Activation Functions.md",
+    "concepts/foundations/classical-ml/ADALINE.md",
+    "concepts/deep-learning/optimization/Learning Rate Decay.md",
+    "concepts/deep-learning/training/Online, Batch, and Minibatch Mode.md",
+    "concepts/foundations/classical-ml/Logistic Regression.md",
+    "concepts/deep-learning/optimization/Adaptive Learning Rate.md",
     "concepts/deep-learning/training/Bias-Variance Decomposition.md",
     "concepts/deep-learning/training/Understanding Gradient Descent.md",
-    "concepts/foundations/classical-ml/ADALINE.md",
-    "concepts/deep-learning/activations/Non-Linear Activation Functions.md",
     "concepts/deep-learning/architectures/Deep Learning.md",
     "concepts/deep-learning/activations/Dead Neurons.md",
     "concepts/deep-learning/regularization/Dropout.md",
     "Untitled.canvas",
     "concepts/foundations/classical-ml/Notational Conventions in Deep Learning.md",
     "concepts/foundations/math/Derivatives Refresher.md",
-    "concepts/deep-learning/training/Online, Batch, and Minibatch Mode.md",
     "Pasted image 20260602164416.png",
     "New Text Document.txt",
     "classes/Lecture MOC.md",
@@ -242,8 +258,6 @@
     "concepts/foundations/classical-ml/-- Common Math Notation.md",
     "concepts/foundations/math/Vectors.md",
     "Map of Content.md",
-    "Backpropagation.md",
-    "concepts/deep-learning/architectures/Fully Connected Layer.md",
     "concepts/deep-learning/training/Loss Functions.md.tmp.12588.a5f1a61b5e58",
     "concepts/deep-learning/training/Stochastic Gradient Descent.md.tmp.12588.bbdcfd2633bc",
     "concepts/deep-learning/training/Batch Gradient Descent.md.tmp.12588.3ff420ecb9a8",
