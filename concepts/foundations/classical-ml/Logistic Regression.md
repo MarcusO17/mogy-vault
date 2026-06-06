@@ -30,7 +30,7 @@ h(\mathbf{x}) \quad  &\text{if y = 1} \\
 1-h(x) \quad  &\text{if y  = 0}
 \end{cases}
 $$
-
+This effectively uses the perceptron? (I am not too sure what to call the earlier layers+input) to  acquire logits (probabilities of the )
 
 ---
 ## Logistic Regression Loss Function
