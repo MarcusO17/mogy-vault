@@ -88,7 +88,7 @@ $$
 $$
 
 
-but a issue pops up if we observe a bad batch where, 
+Another issue pops up if we observe a bad batch where, 
 $$
 	\text{error} = 0.01 \times 0.3 \times 0.09 \times \dots
 $$
@@ -104,8 +104,8 @@ $$
 We effectively get rid of the multiplication inside MLE, turning it into, 
 $$
 	\begin{align}
-		\mathcal{L}(\mathbf{w})  &= \prod^n_{i=1} P(y^{[i]}|\mathbf{x}^{[i]}) \\
-		\mathcal{L}(\mathbf{w})  &= 
+		-\mathcal{L}(\mathbf{w})  &= -\prod^n_{i=1} P(y^{[i]}|\mathbf{x}^{[i]}) \\
+		-\mathcal{L}(\mathbf{w})  &= -\log \sum^n_{1=i} P(y^{[i]}|\mathbf{x}^{[i]}) \\
 	\end{align}
 $$
 
