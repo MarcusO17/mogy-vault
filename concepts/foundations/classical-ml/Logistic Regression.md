@@ -88,7 +88,13 @@ The loss of the batch would be tiny, perhaps $0.00003$ and over a dataset where,
 
 Hence we take advantage of the log rule where,
 $$
-	 \log()
+	 \log(a \times b \times c) =  \log(a) + \log(b) + \log(c)
+$$
+We effectively get rid of the multiplication inside MLE, turning it into, 
+$$
+	\begin{align}
+	\mathcal{L}(\mathbf{w})  &= 
+	\end{align}
 $$
 
 
