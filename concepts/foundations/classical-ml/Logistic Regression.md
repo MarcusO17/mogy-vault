@@ -77,7 +77,7 @@ MLE would appreciate a maximum. (A higher value) $\approx 1$ would indicate a be
 $$
 	\text{loss} = 0.9 \times 0.89 \times 0.9
 9 \times \dots$$
-We would achieve a $\mathcal{L}(\mathbf{w})$ that is $\approx$ 1, we have usually aimed at a "lower" loss as compared to a loss that is maximum.
+We would achieve a $\mathcal{L}(\mathbf{w})$ that is $\approx$ 1, 
 
 Another issue pops up if we observe a bad batch where, 
 $$
