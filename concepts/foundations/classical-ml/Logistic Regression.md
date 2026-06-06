@@ -16,12 +16,18 @@ Very similar to [[ADALINE]] but this time the threshold function is no longer an
 
 ![[Pasted image 20250825194408.png]]
 
+$$
+	\underbrace{\mathbf{w}^T \mathbf{x} + b}_{\text{logit } z} \xrightarrow{\sigma} \underbrace{h(\mathbf{x})}_{\text{probability}} \xrightarrow{\text{threshold at } 0.5} \underbrace{\hat{y}}_{\text{class label}}
+$$
+
+This effectively uses the perceptron? (I am not too sure what to call the earlier layers + input) to  acquire logits (regular linear outputs) and converts them into probabilities using the sigmoid function . We can then kind of apply the acquired probas under a threshold function into either upper boundary, $1$ or lower boundary, $0$
+
 
 Given that:
 $$
 h(\mathbf{x}) = \sigma(\mathbf{w}^T  \mathbf{x} + b)
 $$
-We compute the posterior (get the probability of the):
+We compute the posterior (the probability of the class label, $y$ given feature vector, $\mathbf{x}$):
 $y = \text{class label}$
 $\mathbf{x} = \text{feature vector}$
 $$
@@ -30,11 +36,7 @@ h(\mathbf{x}) \quad  &\text{if y = 1} \\
 1-h(x) \quad  &\text{if y  = 0}
 \end{cases}
 $$
-$$
-	\underbrace{\mathbf{w}^T \mathbf{x} + b}_{\text{logit } z} \xrightarrow{\sigma} \underbrace{h(\mathbf{x})}_{\text{probability}} \xrightarrow{\text{threshold at } 0.5} \underbrace{\hat{y}}_{\text{class label}}
-$$
 
-This effectively uses the perceptron? (I am not too sure what to call the earlier layers + input) to  acquire logits (regular linear outputs) and converts them into probabilities using the sigmoid function . We can then kind of apply the acquired probas under a threshold function into either upper boundary, $1$ or lower boundary, $0$
 
 
 ---
