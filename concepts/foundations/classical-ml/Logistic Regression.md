@@ -118,10 +118,12 @@ Before we can get into cross entropy, we need to understand **Bernoulli's distri
 $$
 	 P(y|\mathbf{x}) = a^{y}(1-a)^{(1-y)}
 $$
-It's literally, 
+It's literally $\downarrow$ rewritten (defined not derived) as 1 liner using exponent rules, 
 $$
-	
+	P(y \mid \mathbf{x}) = \begin{cases} h(\mathbf{x}) & \text{if } y = 1 \\ 1 - h(\mathbf{x}) & \text{if } y = 0 \end{cases}
 $$
+
+
 
 
 
