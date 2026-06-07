@@ -16,7 +16,7 @@ $$
 \begin{align}
 \text{Let } o := \sigma(z) \dots \\
 \frac{ \partial l }{ \partial w^{(1)}_{1,1} }  & = \overbrace{\frac{ \partial l }{ \partial o } \cdot \frac{ \partial o }{ \partial w^{(3)}_{1,1} } \cdot \frac{ \partial w^{(3)}_{1,1} }{ \partial w^{(2)}_{1,1}} \cdot \frac{ \partial w^{(2)}_{1,1} }{ \partial w^{(1)}_{1,1} }}^{\text{Path 1}}   \\
- & = \overbrace{}^{\text{Path 2}}
+ & \quad  + \overbrace{\frac{ \partial l }{ \partial o } \cdot \frac{ \partial o }{ \partial w^{(3)}_{1,1} } \cdot \frac{ \partial w^{(3,)} }{ \partial x } }^{\text{Path 2}}
 \end{align}
 $$
 
