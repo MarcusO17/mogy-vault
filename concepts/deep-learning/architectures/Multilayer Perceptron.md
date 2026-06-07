@@ -7,7 +7,7 @@ Video : https://www.youtube.com/watch?v=jD6IKpqSJM4
 ---
 # Multilayer Perceptron
 
-The multilayer perceptron are [[Fully Connected Layer|fully connected]] feedforward neural networks with one or more **hidden layers** .Similarly to [[Multilayer Networks]].
+The  multilayer perceptron are [[Fully Connected Layer|fully connected]] feedforward neural networks with one or more **hidden layers** .Similarly to [[Multilayer Networks]].
 
 ![[Pasted image 20250914122516.png]]
 
