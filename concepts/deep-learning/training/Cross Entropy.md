@@ -1,4 +1,4 @@
-﻿Created : 2025-09-09 15:42
+Created : 2025-09-09 15:42
 Tags : #LossFunctions #Classification #LogisticRegression 
 Type : Concept
 Lecture : #L08
@@ -14,7 +14,7 @@ $$
 H_{a}(\mathbf{y})=-y^{[i]}\log(\sigma(z^{[i]})) + (1-y^{[i]})\log(1-\sigma(z^{[i]}))
 $$
 
-BCE is also used in binary-class [[Logistic Regression]] as its [[Loss Functions|loss function]], aka [[Maximum Likelihood Estimation|Negative log-likelihood]].
+BCE is also used in binary-class [[Logistic Regression]] as its [[Loss Functions|loss function]], aka [[Maximum Like
 Hence the loss function (at each i) would be:
 
 $$
