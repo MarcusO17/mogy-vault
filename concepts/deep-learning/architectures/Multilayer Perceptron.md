@@ -43,7 +43,7 @@ where $z = w \cdot x + b$ is the pre-activation, $\hat{y} = \sigma(z)$ is the po
 
 In the case of MSE loss, $\frac{\partial L}{\partial \hat{y}} = (\hat{y} - y)$, which is large when the prediction is very wrong (e.g., $\hat{y} \approx 0$ and $y = 1$). So it does represent it's large error difference and will then be reflected in the $\Delta w$ right? right? Let's keep looking.
 
-[[Sigmoid Function\|Sigmoid's]] derivative $\frac{\partial \hat{y}}{\partial z} = \sigma(z)(1 - \sigma(z))$ maxes at $0.25$ (when $\hat{y} = 0.5$) (Feel) and drops to near $0$ when saturated ($\hat{y} \approx 0$ or $1$). When the prediction is very wrong, $z$ is pushed to extremes (very positive/negative), which is exactly when sigmoid saturates and its derivative goes near $0$.
+[[Sigmoid Function\|Sigmoid's]] derivative $\frac{\partial \hat{y}}{\partial z} = \sigma(z)(1 - \sigma(z))$ maxes at $0.25$ (when $\hat{y} = 0.5$) (Feel free to check [[Logistic Regression#Logistic Regression Learning Rule| The ]]) and drops to near $0$ when saturated ($\hat{y} \approx 0$ or $1$). When the prediction is very wrong, $z$ is pushed to extremes (very positive/negative), which is exactly when sigmoid saturates and its derivative goes near $0$.
 
 So even with a large MSE error, the overall gradient $\frac{\partial L}{\partial w}$ collapses — multiplied by near-zero $\sigma'(z)$, weights barely update. In deeper networks this gets worse, as gradients are multiplied through many chain rule terms before reaching early weights, shrinking further each layer. This is the **Vanishing Gradient** problem — when $\hat{y}$ saturates (often when the model is most wrong), the gradient signal dies, trapping the model.
 
