@@ -23,7 +23,10 @@ We can see clearly that the effects of $w^{(1)}_{1,1}$ are going backwards in a 
 
 
 $$
-\begin{align}
+\begin{align} 
+  5 = 3+ 2  \\
+  5 = 1 + 4 \frac{2}{3}
+\end{align}
 $$
 ---
 
