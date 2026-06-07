@@ -14,8 +14,8 @@ $$
 H_{a}(\mathbf{y})=-y^{[i]}\log(\sigma(z^{[i]})) + (1-y^{[i]})\log(1-\sigma(z^{[i]}))
 $$
 
-BCE is also used in binary-class [[Logistic Regression]] as its [[Loss Functions|loss function]], aka [[Maximum Like
-Hence the loss function (at each i) would be:
+BCE is also used in binary-class [[Logistic Regression]] as its [[Loss Functions|loss function]], aka [[Logistic Regression#Logistic Regression Loss Function|Maximum Likelihood Estimation]]
+Hence the loss function (at each i, data point) would be:
 
 $$
 \mathcal{L}(\mathbf{w})=-y^{[i]}\log(\sigma(z^{[i]})) + (1-y^{[i]})\log(1-\sigma(z^{[i]}))
