@@ -37,21 +37,15 @@ PLUS if we start with random weights, we can reach different local minima, hence
 
 
 ### Flat Gradients
+During Gradient Descent, updates to weights are stored in $\Delta w = -\eta \cdot \frac{\partial L}{\partial w}$, which is then added to the weights (depends on Online, Batch, and Minibatch Mode). The chain rule breaks this down:
+$$\frac{\partial L}{\partial w} = \underbrace{\frac{\partial L}{\partial \hat{y}}}_{\text{loss}} \cdot \underbrace{\frac{\partial \hat{y}}{\partial z}}_{\text{activation}} \cdot \underbrace{\frac{\partial z}{\partial w}}_{x}$$
+where $z = w \cdot x + b$ is the pre-activation, $\hat{y} = \sigma(z)$ is the post-activation, and $\frac{\partial L}{\partial \hat{y}}$ is analytically defined by our choice of loss function. Let's see how certain gradient issues can arise from this.
 
-During Gradient Descent, updates to weights are stored in $\Delta w = -\eta \cdot \frac{\partial L}{\partial w}$, which is then added to the weights (depends of [[Online, Batch, and Minibatch Mode]]).
-The chain rule breaks this down: $\frac{\partial L}{\partial w} = \frac{\partial L}{\partial \hat{y}} \cdot \frac{\partial \hat{y}}{\partial z} \cdot \frac{\partial z}{\partial w}$, where $z = w \cdot x + b$ is the pre-activation and $\hat{y}$ is post-activation. 
+In the case of MSE loss, $\frac{\partial L}{\partial \hat{y}} = (\hat{y} - y)$, which is large when the prediction is very wrong (e.g., $\hat{y} \approx 0$ and $y = 1$). You'd expect this large error to drive a strong weight update, but the activation term kills it.
 
+[[Sigmoid Function\|Sigmoid's]] derivative $\frac{\partial \hat{y}}{\partial z} = \sigma(z)(1 - \sigma(z))$ maxes at $0.25$ (when $\hat{y} = 0.5$) and drops to near $0$ when saturated ($\hat{y} \approx 0$ or $1$). When the prediction is very wrong, $z$ is pushed to extremes (very positive/negative), which is exactly when sigmoid saturates and its derivative goes near $0$.
 
-Let's see certain gradient issues can arise when picking our loss functions.
-- For MSE loss, $\frac{\partial L}{\partial \hat{y}} = (\hat{y} - y)$, which can be large if the prediction is very wrong (e.g., $\hat{y} \approx 0$ and $y=1$). 
-
-- But [[Sigmoid Function|sigmoid's]] derivative $\frac{\partial \hat{y}}{\partial z} = \sigma(z)(1 - \sigma(z))$ maxes at 0.25 (when $\hat{y}=0.5$) and drops to near 0 when saturated ($\hat{y} \approx 0$ or $1$). 
-
-The third component, $\frac{\partial z}{\partial w} = x$, usually fine. However when the output is very wrong, $z$ goes to extremes (very positive/negative), saturating sigmoid and making its derivative tiny. This is a classic example of [[Vanishing Gradients]].
-
-  Even with a large error from MSE, the overall gradient flattens out—multiplied by near-zero $\sigma'(z)$, so weights barely update. This stalls learning, especially since gradients * weights (through the chain) get killed before reaching $w$. 
-
-In short, when $\hat{y}$ hits 0 or 1 (saturated, often wrong), gradients change to basically 0, trapping the model.
+So even with a large MSE error, the overall gradient $\frac{\partial L}{\partial w}$ collapses — multiplied by near-zero $\sigma'(z)$, weights barely update. In deeper networks this gets worse, as gradients are multiplied through many chain rule terms before reaching early weights, shrinking further each layer. This is the **Vanishing Gradient** problem — when $\hat{y}$ saturates (often when the model is most wrong), the gradient signal dies, trapping the model.
 
 
 
