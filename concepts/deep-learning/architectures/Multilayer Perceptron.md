@@ -14,9 +14,8 @@ The multilayer perceptron are [[Fully Connected Layer|fully connected]] feedforw
 Let's do a quick recap of the how do we backpropagate in the Multi-Layer Perceptron. Let's take $w^{(1)}_{1,1}$ for example...
 $$
 \begin{align}
-\text{Let } o := \sigma(z) \dots \\
-\frac{ \partial l }{ \partial w^{(1)}_{1,1} }  & = \overbrace{\frac{ \partial l }{ \partial o } \cdot \frac{ \partial o }{ \partial w^{(3)}_{1,1} } \cdot \frac{ \partial w^{(3)}_{1,1} }{ \partial w^{(2)}_{1,1}} \cdot \frac{ \partial w^{(2)}_{1,1} }{ \partial w^{(1)}_{1,1} }}^{\text{Path 1}}   \\
- & \quad  + \overbrace{\frac{ \partial l }{ \partial o } \cdot \frac{ \partial o }{ \partial w^{(3)}_{1,2} } \cdot \frac{ \partial w^{(3)}_{1,2} }{ \partial w^{(2)}_{1,2} } \cdot \frac{ \partial w^{(2)}_{1,2} }{ \partial w^{(1)}_{1,1} } }^{\text{Path 2}}
+    \frac{ \partial l }{ \partial w^{(1)}_{1,1} } & = \overbrace{\frac{ \partial l }{ \partial o } \cdot \frac{ \partial o }{ \partial a^{(2)}_{1} } \cdot \frac{ \partial a^{(2)}_{1} }{ \partial a^{(1)}_{1} } \cdot \frac{ \partial a^{(1)}_{1} }{ \partial w^{(1)}_{1,1} }}^{\text{Path 1}} \\
+    & \quad + \overbrace{\frac{ \partial l }{ \partial o } \cdot \frac{ \partial o }{ \partial a^{(2)}_{2} } \cdot \frac{ \partial a^{(2)}_{2} }{ \partial a^{(1)}_{1} } \cdot \frac{ \partial a^{(1)}_{1} }{ \partial w^{(1)}_{1,1} }}^{\text{Path 2}}
 \end{align}
 $$
 
