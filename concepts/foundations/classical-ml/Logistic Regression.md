@@ -133,7 +133,7 @@ When $y = 0$, the left term cancels since $h(\mathbf{x})^{0} = 1$, leaving $1 - 
 
 ---
 
-
+So now we have the formula for Negative Loss-Likelihood, NLL or also known as 
 
 ![[Cross Entropy#Binary Cross-Entropy]]
 
