@@ -15,7 +15,7 @@ Let's do a quick recap of the how do we backpropagate in the Multi-Layer Percept
 $$
 \begin{align}
 \text{Let } o := \sigma(z) \dots \\
-
+\frac{ \partial l }{ \partial w^{(1)}_{1,1} } 
 \end{align}
 $$
 
