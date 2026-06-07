@@ -39,7 +39,7 @@ PLUS if we start with random weights, we can reach different local minima, hence
 ### Flat Gradients
 
 During Gradient Descent, updates to weights are stored in $\Delta w = -\eta \cdot \frac{\partial L}{\partial w}$, which is then added to the weights (depends of [[Online, Batch, and Minibatch Mode]]).
-The chain rule breaks this down: $\frac{\partial L}{\partial w} = \frac{\partial L}{\partial \hat{y}} \cdot \frac{\partial \hat{y}}{\partial z} \cdot \frac{\partial z}{\partial w}$, where $z = w \cdot x + b$ is the pre-activation. 
+The chain rule breaks this down: $\frac{\partial L}{\partial w} = \frac{\partial L}{\partial \hat{y}} \cdot \frac{\partial \hat{y}}{\partial z} \cdot \frac{\partial z}{\partial w}$, where $z = w \cdot x + b$ is the pre-activation and $\hat{y}$ is post
 
 - For MSE loss, $\frac{\partial L}{\partial \hat{y}} = (\hat{y} - y)$, which can be large if the prediction is very wrong (e.g., $\hat{y} \approx 0$ and $y=1$). 
 
