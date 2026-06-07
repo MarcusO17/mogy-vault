@@ -15,7 +15,6 @@ Let's do a quick recap of the how do we backpropagate in the Multi-Layer Percept
 $$
 \begin{align}
 \text{Let } o := \sigma(z) \dots \\
-par l w \\
 
 \end{align}
 $$
