@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/deep-learning/training/Cross Entropy.md",
+                "file": "concepts/deep-learning/architectures/Multilayer Perceptron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cross Entropy"
+              "title": "Multilayer Perceptron"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Convex loss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,10 +256,11 @@
   },
   "active": "12e4ccb50197f69b",
   "lastOpenFiles": [
+    "concepts/foundations/classical-ml/Linear Regression.md",
+    "concepts/deep-learning/training/Cross Entropy.md",
     "concepts/foundations/classical-ml/Logistic Regression.md",
     "concepts/deep-learning/training/Online, Batch, and Minibatch Mode.md",
     "Maximum Likelihood Estimation.md",
-    "concepts/deep-learning/training/Cross Entropy.md",
     "concepts/foundations/classical-ml/Softmax.md",
     "Map of Content.md",
     "concepts/deep-learning/training/An Iterative Training Algorithm for Linear Regression.md",
@@ -281,7 +282,6 @@
     "New Text Document.txt",
     "classes/Lecture MOC.md",
     "concepts/foundations/classical-ml/The Perceptron.md",
-    "concepts/foundations/classical-ml/Linear Regression.md",
     "literature-notes/papers/VGG-16.md",
     "conflict-files-obsidian-git.md",
     "classes/RasBt - Intro to DL/L04 - 1 Linear Algebra Basics.md",

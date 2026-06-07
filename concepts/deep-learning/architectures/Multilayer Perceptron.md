@@ -1,4 +1,4 @@
-﻿  Created : 2025-09-14 12:22
+  Created : 2025-09-14 12:22
 Tags :
 Type :
 Lecture : #L09
@@ -11,6 +11,7 @@ The multilayer perceptron are [[Fully Connected Layer|fully connected]] feedforw
 
 ![[Pasted image 20250914122516.png]]
 
+Let's do a quick reca
 
 ---
 
