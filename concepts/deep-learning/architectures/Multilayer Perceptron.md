@@ -14,6 +14,8 @@ The multilayer perceptron are [[Fully Connected Layer|fully connected]] feedforw
 Let's do a quick recap of the how do we backpropagate in the Multi-Layer Perceptron. Let's take $w^{(1)}_{1,1}$ for example...
 $$
 \begin{align}
+\text{Let } o := \sigma(z) \dots \\
+par l w \\
 
 \end{align}
 $$
