@@ -22,19 +22,13 @@ $$
 We can see clearly that the effects of $w^{(1)}_{1,1}$ are going backwards in a chain of affected outputs back towards it.
 
 
-$$
-\begin{align} 
-  5 = 3+ 2  \\
-  5 = 1 + 4 \frac{2}{3}
-\end{align}
-$$
 ---
 
-In Multilayer Perceptrons, Loss is NO LONGER convex. This is why[[Understanding Gradient Descent|gradient-based optimization]]] can find different solutions. In [[Linear Regression]], [[ADALINE]], [[Logistic Regression]], and [[Softmax|Softmax Regression]] , their loss functions are usually convex, but that is no longer the case with MLPs.
+In Multilayer Perceptrons, Loss is NO LONGER convex. This is why [[Understanding Gradient Descent|gradient-based optimization]]] can find different solutions. In [[Linear Regression]], [[ADALINE]], [[Logistic Regression]], and [[Softmax|Softmax Regression]] , their loss functions are usually convex, but that is no longer the case with MLPs.
 
 ![[Pasted image 20250914123843.png]]
 
-By starting with random weights, we can reach different local minima, hence it's pretty good practice.
+PLUS if we start with random weights, we can reach different local minima, hence it's pretty good practice.
 
 ---
 ## Issues with Activations + Loss Functions 
