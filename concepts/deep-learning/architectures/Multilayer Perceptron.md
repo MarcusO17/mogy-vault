@@ -11,7 +11,7 @@ The multilayer perceptron are [[Fully Connected Layer|fully connected]] feedforw
 
 ![[Pasted image 20250914122516.png]]
 
-Let's do a quick reca
+Let's do a quick recap of the how do we backpropagate in the Multi-Layer Perceptron. Let's take $w^{(1)}_{1,1}$ for example. 
 
 ---
 
