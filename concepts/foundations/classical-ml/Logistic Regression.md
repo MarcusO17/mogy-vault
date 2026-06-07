@@ -150,7 +150,7 @@ The edges of $\frac{d}{dz}\sigma(z)$ show plateauing, indicating slow gradient c
 - **Risk getting stuck** - network may stop improving in affected regions  
 - **Weaken signal propagation** - subsequent layers receive diminished gradients  
 
-This saturation effect is why deep networks with sigmoid activations often suffer from the **[[Vanishing Gradients|vanishing gradient problem]]**.
+This saturation effect is why deep networks with sigmoid activations often suffer from the *Vanishing Gradient Problem* 
 
 ---
 Same gradient descent rule as before,
