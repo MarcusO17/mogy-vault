@@ -47,7 +47,7 @@ Let's see certain gradient issues can arise when picking our loss functions.
 
 - But [[Sigmoid Function|sigmoid's]] derivative $\frac{\partial \hat{y}}{\partial z} = \sigma(z)(1 - \sigma(z))$ maxes at 0.25 (when $\hat{y}=0.5$) and drops to near 0 when saturated ($\hat{y} \approx 0$ or $1$). 
 
-The third component, $\frac{\partial z}{\partial w} = x$, usually fine. When the output is very wrong, $z$ goes to extremes (very positive/negative), saturating sigmoid and making its derivative tiny. This is a classic example of [[Vanishing Gradients]].
+The third component, $\frac{\partial z}{\partial w} = x$, usually fine. However when the output is very wrong, $z$ goes to extremes (very positive/negative), saturating sigmoid and making its derivative tiny. This is a classic example of [[Vanishing Gradients]].
 
   Even with a large error from MSE, the overall gradient flattens out—multiplied by near-zero $\sigma'(z)$, so weights barely update. This stalls learning, especially since gradients * weights (through the chain) get killed before reaching $w$. 
 
