@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/Mini-Batch Mode.md",
+                "file": "10-notes/Batch Mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mini-Batch Mode"
+              "title": "Batch Mode"
             }
           }
         ],
@@ -288,10 +288,10 @@
   },
   "active": "61abc9374cf10157",
   "lastOpenFiles": [
-    "00-inbox/Stochastic Gradient Descent.md",
-    "00-inbox/Mini-Batch Mode.md",
-    "00-inbox/Online, Batch, and Minibatch Mode.md",
     "10-notes/On-line Mode.md",
+    "10-notes/Mini-Batch Mode.md",
+    "00-inbox/Stochastic Gradient Descent.md",
+    "00-inbox/Online, Batch, and Minibatch Mode.md",
     "10-notes/Batch Mode.md",
     "Test.md",
     "Linear Regression.md",
