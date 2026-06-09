@@ -15,7 +15,7 @@ To naively train a [[Linear Regression|linear regression model]], We could start
 	- Change the weight/bias (parameters) a little bit in the direction which improves the performance (minimizes loss)
 	- Repeat this small step until the loss does not further decrease.
 
-This is rather similar to the [[The Perceptron#Perceptron Learning Algorithm|perceptron learning algorithm]], we utilize [[concepts/deep-learning/training/Stochastic Gradient Descent]]
+This is rather similar to the [[The Perceptron#Perceptron Learning Algorithm|perceptron learning algorithm]], we utilize [[concepts/deep-learning/training/Stochastic Gradient Descent | Stochastic Gradie]]
 
 
 
