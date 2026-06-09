@@ -83,16 +83,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/Online, Batch, and Minibatch Mode.md",
+                "file": "00-inbox/The Perceptron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Online, Batch, and Minibatch Mode"
+              "title": "The Perceptron"
+            }
+          },
+          {
+            "id": "6474c27ee997b11f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-inbox/On-line Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "On-line Learning"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -124,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stochas",
+                "query": "batch mode",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,14 +273,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3f83ebef361511a9",
+  "active": "b675be9b37549bdc",
   "lastOpenFiles": [
+    "Batch Mode.md",
+    "00-inbox/The Perceptron.md",
+    "00-inbox/Online, Batch, and Minibatch Mode.md",
+    "Untitled",
     "00-inbox/One-Hot Encoding.md",
     "00-inbox/On-line Learning.md",
     "00-inbox/Stochastic Gradient Descent.md",
     "concepts/deep-learning/training/Stochastic Gradient Descent.md",
     "Stochastic Gradient Descent.md",
-    "00-inbox/Online, Batch, and Minibatch Mode.md",
     "00-inbox/An Iterative Training Algorithm for Linear Regression.md",
     "00-inbox/Understanding Gradient Descent.md",
     "00-inbox/Convolutional Neural Networks.md",
@@ -284,8 +302,6 @@
     "00-inbox/Bias-Variance Decomposition.md",
     "00-inbox/Batch Gradient Descent.md",
     "Linear Regression.md",
-    "00-inbox/Adaptive Learning Rate.md",
-    "00-inbox/Normalization.md",
     "90-archive",
     "30-sources",
     "20-hubs",
@@ -297,7 +313,6 @@
     "concepts/foundations/math",
     "concepts/foundations/classical-ml",
     "concepts/deep-learning/weight-init",
-    "concepts/deep-learning/regularization",
     "assets/images/Pasted image 20260505192713.png",
     "assets/images/Pasted image 20251206162532.png",
     "assets/images/Pasted image 20251206170744.png",

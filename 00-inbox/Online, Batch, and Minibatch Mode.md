@@ -7,6 +7,7 @@ Video : https://www.youtube.com/watch?v=b4DXHd3RwqA&list=PLTKMiZHVd_2KJtIXOW0zFh
 ---
 # Online, Batch, and Minibatch Mode
 
+
 ---
 ### Mini-Batch Mode
 
