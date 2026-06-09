@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "Stochastic Gradient Descent"
             }
+          },
+          {
+            "id": "61abc9374cf10157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-inbox/Mini-Batch Mode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mini-Batch Mode"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -272,10 +286,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6474c27ee997b11f",
+  "active": "61abc9374cf10157",
   "lastOpenFiles": [
-    "00-inbox/Online, Batch, and Minibatch Mode.md",
     "00-inbox/Stochastic Gradient Descent.md",
+    "00-inbox/Mini-Batch Mode.md",
+    "00-inbox/Online, Batch, and Minibatch Mode.md",
     "10-notes/On-line Mode.md",
     "10-notes/Batch Mode.md",
     "Test.md",
@@ -300,7 +315,6 @@
     "00-inbox/Loss Functions.md",
     "00-inbox/Cross Entropy.md",
     "00-inbox/Computation Graphs.md",
-    "00-inbox/Bias-Variance Decomposition.md",
     "90-archive",
     "30-sources",
     "20-hubs",
