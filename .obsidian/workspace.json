@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/templates/Inbox Note.md",
+                "file": "assets/templates/10-notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Inbox Note"
+              "title": "10-notes"
             }
           }
         ],
@@ -204,14 +204,14 @@
   },
   "active": "a9c19ff4cda86939",
   "lastOpenFiles": [
-    "assets/templates/Untitled.md",
+    "assets/templates/Inbox Note.md",
+    "assets/templates/10-notes.md",
     "10-notes/Dead Neurons.md",
     "00-inbox/ReLU Function.md",
     "00-inbox/Non-Linear Activation Functions.md",
     "assets/templates/Paper.md",
     "assets/templates/Mechanism.md",
     "assets/templates/Class Notes.md",
-    "assets/templates/Inbox Note.md",
     "assets/templates/Concept.md",
     "Test.md",
     "TEst.md",
