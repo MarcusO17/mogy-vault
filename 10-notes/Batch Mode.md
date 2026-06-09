@@ -28,8 +28,7 @@ $$Let: \quad D=(\langle\mathbf{x}^{[1]},y^{[1]}\rangle,\langle\mathbf{x}^{[2]},y
 	- We can see the batch mode initialises $\Delta \mathbf{w} := 0$ and $\Delta b := 0$
 		- $\Delta \mathbf{w}$ is not Difference! but just a placeholder to store what's to be updated to the weights.
 	-  The results from the backprop, are fed into the placeholder weight vector and biases ($\Delta \mathbf{w} := 0$ and $\Delta b := 0$)
-- The original $\mathbf{w}, \, b$ are updated **ONLY AFTER EVERY TRAINING EPOCH
-
+- The original $\mathbf{w}, \, b$ are updated **ONLY AFTER EVERY TRAINING EPOCH** , differe
 
 
 
