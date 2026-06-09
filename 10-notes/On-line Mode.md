@@ -5,13 +5,11 @@ status: draft
 ---
 ---
 
-# On-line Learning
+# On-line Mode
 
 ## **General Learning Principle**
 
 $$Let: \quad D=(\langle\mathbf{x}^{[1]},y^{[1]}\rangle,\langle\mathbf{x}^{[2]},y^{[2]}\rangle,\dots,\langle\mathbf{x}^{[n]},y^{[n]}\rangle) \in (\mathbb{R}^m \times{\{ 0,1 \})^n}$$
-
-# "On-line" mode
 
 1. Initialize $\textbf{w} := \mathbf{0} \in \mathbb{R}^m, \mathbf{b} := 0$
 2. For every training epoch:
