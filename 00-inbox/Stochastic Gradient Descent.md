@@ -6,7 +6,7 @@ status: draft
 ---
 
 # Stochastic Gradient Descent
-Stochastic Gradient is a Form 
+Stochastic Gradient is a type/form of gradient descent focused on [[on-line]] style updates? Trades a noisy path for faster, more frequent updates.
 
 1. Initialize $\mathbf{w} := \mathbf{0} \in \mathbb{R}^m, \, \mathbf{b} := 0$
 2. For every training epoch: 
