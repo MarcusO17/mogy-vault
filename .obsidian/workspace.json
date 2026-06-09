@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/templates/Inbox Note.md",
+                "file": "assets/templates/00-inbox.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Inbox Note"
+              "title": "00-inbox"
             }
           },
           {
@@ -204,7 +204,7 @@
   },
   "active": "a9c19ff4cda86939",
   "lastOpenFiles": [
-    "assets/templates/Inbox Note.md",
+    "assets/templates/00-inbox.md",
     "assets/templates/10-notes.md",
     "10-notes/Dead Neurons.md",
     "00-inbox/ReLU Function.md",
