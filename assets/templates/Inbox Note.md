@@ -1,5 +1,5 @@
 ---
-created: {{date}} {{time}}
+created: 2026-06-09T10:05:00
 type: note
 status: draft
 ---
