@@ -8,7 +8,7 @@ Video : [L5.6 Understanding Gradient Descent](https://www.youtube.com/watch?v=L4
 ---
 # Understanding Gradient Descent
 
-In terms of [[Linear Regression|Linear Regression]]...
+In terms of [[concepts/foundations/classical-ml/Linear Regression|Linear Regression]]...
 
 ![[Pasted image 20250818143705.png]]
 
