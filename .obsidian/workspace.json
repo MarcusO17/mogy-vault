@@ -204,6 +204,8 @@
   },
   "active": "a9c19ff4cda86939",
   "lastOpenFiles": [
+    "00-inbox/Adaptive Learning Rate.md",
+    "00-inbox/An Iterative Training Algorithm for Linear Regression.md",
     "00-inbox/Normalization.md",
     "00-inbox/Multilayer Perceptron.md",
     "00-inbox/Non-Linear Activation Functions.md",
@@ -235,8 +237,6 @@
     "Backpropagation.md",
     "projects/Receipt Detector.md",
     "projects/Penang HokkienFineTune.md",
-    "projects/LeNet-5.md",
-    "projects/LLM Anonymizer QLoRa.md",
     "projects",
     "concepts/foundations/math",
     "concepts/foundations/classical-ml",

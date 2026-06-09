@@ -12,6 +12,7 @@
   "knownTags": {
     "classification": 2,
     "classifier": 3,
+    "cs230": 33,
     "fix": 4,
     "generalization": 5,
     "l01": 6,
@@ -34,6 +35,7 @@
     "lossfunctions": 23,
     "math": 24,
     "matrices": 25,
+    "moc": 32,
     "model": 26,
     "modelevaluation": 27,
     "neuralnetwork": 28,
