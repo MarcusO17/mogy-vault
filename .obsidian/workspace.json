@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/An Iterative Training Algorithm for Linear Regression.md",
+                "file": "00-inbox/Stochastic Gradient Descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "An Iterative Training Algorithm for Linear Regression"
+              "title": "Stochastic Gradient Descent"
             }
           }
         ],
@@ -117,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,8 +232,9 @@
   },
   "active": "83b0a6238fabb4e1",
   "lastOpenFiles": [
-    "00-inbox/Understanding Gradient Descent.md",
     "00-inbox/An Iterative Training Algorithm for Linear Regression.md",
+    "00-inbox/Stochastic Gradient Descent.md",
+    "00-inbox/Understanding Gradient Descent.md",
     "00-inbox/Convolutional Neural Networks.md",
     "concepts/deep-learning/training/Stochastic Gradient Descent.md",
     "Identity Function.md",
@@ -258,7 +258,6 @@
     "00-inbox/Normalization.md",
     "00-inbox/Multilayer Perceptron.md",
     "00-inbox/Non-Linear Activation Functions.md",
-    "00-inbox/Fully Connected Layer.md",
     "90-archive",
     "30-sources",
     "20-hubs",
