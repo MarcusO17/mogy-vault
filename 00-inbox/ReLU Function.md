@@ -1,8 +1,8 @@
-﻿Created : 2025-09-25 15:11
+Created : 2025-09-25 15:11
 Tags : 
 Type :
 Lecture : #L09
-Video : https://www.youtube.com/watch?v=jD6IKpqSJM4
+Video : 
 
 ---
 # ReLU Function
