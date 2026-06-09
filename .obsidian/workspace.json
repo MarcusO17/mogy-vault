@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/on-line.md",
+                "file": "00-inbox/On-line Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "on-line"
+              "title": "On-line Learning"
             }
           }
         ],
@@ -246,7 +246,8 @@
   },
   "active": "80dc09f72a418f3d",
   "lastOpenFiles": [
-    "00-inbox/on-line.md",
+    "00-inbox/Online, Batch, and Minibatch Mode.md",
+    "00-inbox/On-line Learning.md",
     "00-inbox/Stochastic Gradient Descent.md",
     "00-inbox/An Iterative Training Algorithm for Linear Regression.md",
     "00-inbox/Understanding Gradient Descent.md",
@@ -261,7 +262,6 @@
     "concepts/foundations/math/Derivatives Refresher.md",
     "00-inbox/the PyTorch Process.md",
     "00-inbox/PyTorch Quick Reference.md",
-    "00-inbox/Online, Batch, and Minibatch Mode.md",
     "00-inbox/Loss Functions.md",
     "00-inbox/Cross Entropy.md",
     "00-inbox/Computation Graphs.md",
