@@ -11,10 +11,14 @@
             "id": "573758a6a2ca6a3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -183,8 +187,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "573758a6a2ca6a3e",
+  "active": "cebf8682254e1130",
   "lastOpenFiles": [
+    "02-",
+    "01-notes",
+    "00-inbox",
+    "Vanishing Gradients.md",
+    "Untitled.canvas",
+    "Pasted image 20260602164416.png",
+    "Maximum Likelihood Estimation.md",
+    "Map of Content.md",
+    "Backpropagation.md",
     "projects/Receipt Detector.md",
     "projects/Penang HokkienFineTune.md",
     "projects/LeNet-5.md",
@@ -207,11 +220,6 @@
     "concepts/foundations/classical-ml/Linear Regression.md",
     "concepts/foundations/classical-ml/ADALINE.md",
     "concepts/foundations/classical-ml/-- Common Math Notation.md",
-    "concepts/deep-learning/weight-init/Xiaver Glorot Initialization.md",
-    "concepts/deep-learning/weight-init/Weight Initialization.md",
-    "concepts/deep-learning/weight-init/Kaiming He Initialization.md",
-    "concepts/deep-learning/regularization/Regularization.md",
-    "concepts/deep-learning/regularization/Overfitting.md",
     "concepts/foundations/math",
     "concepts/foundations/classical-ml",
     "concepts/deep-learning/weight-init",
@@ -219,8 +227,6 @@
     "concepts/deep-learning/training",
     "concepts/deep-learning/normalization",
     "concepts/deep-learning/architectures",
-    "concepts/deep-learning/optimization",
-    "concepts/deep-learning/activations",
     "assets/images/Pasted image 20260505192713.png",
     "assets/images/Pasted image 20251206162532.png",
     "assets/images/Pasted image 20251206170744.png",
@@ -229,8 +235,6 @@
     "assets/images/Pasted image 20251202150959.png",
     "assets/images/Pasted image 20251202150954.png",
     "assets/images/Pasted image 20251202150548.png",
-    "assets/images/Pasted image 20251202150504.png",
-    "assets/images/Pasted image 20251202150456.png",
-    "Untitled.canvas"
+    "assets/images/Pasted image 20251202150504.png"
   ]
 }
