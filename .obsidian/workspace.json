@@ -14,14 +14,29 @@
               "type": "markdown",
               "state": {
                 "file": "assets/templates/Inbox Note.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Inbox Note"
+            }
+          },
+          {
+            "id": "a9c19ff4cda86939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assets/templates/Inbox Note.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Inbox Note"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,10 +202,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0ca36e0a5d38d4c8",
+  "active": "a9c19ff4cda86939",
   "lastOpenFiles": [
-    "2026-06-09.md",
+    "Test.md",
+    "TEst.md",
     "assets/templates/Inbox Note.md",
+    "2026-06-09.md",
     "assets/templates/Concept.md",
     "10-notes/Dead Neurons.md",
     "assets/templates/Class Notes.md",
@@ -221,8 +238,6 @@
     "concepts/foundations/math/Derivatives Refresher.md",
     "concepts/foundations/classical-ml/The Perceptron.md",
     "concepts/foundations/classical-ml/Softmax.md",
-    "concepts/foundations/classical-ml/One-Hot Encoding.md",
-    "concepts/foundations/classical-ml/Notational Conventions in Deep Learning.md",
     "concepts/foundations/math",
     "concepts/foundations/classical-ml",
     "concepts/deep-learning/weight-init",
