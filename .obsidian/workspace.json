@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/templates/10-notes.md",
+                "file": "00-inbox/An Iterative Training Algorithm for Linear Regression.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "10-notes"
+              "title": "An Iterative Training Algorithm for Linear Regression"
             }
           }
         ],
@@ -204,11 +204,16 @@
   },
   "active": "a9c19ff4cda86939",
   "lastOpenFiles": [
-    "assets/templates/00-inbox.md",
-    "assets/templates/10-notes.md",
-    "10-notes/Dead Neurons.md",
-    "00-inbox/ReLU Function.md",
+    "00-inbox/Normalization.md",
+    "00-inbox/Multilayer Perceptron.md",
     "00-inbox/Non-Linear Activation Functions.md",
+    "00-inbox/Fully Connected Layer.md",
+    "00-inbox/Deep Learning.md",
+    "00-inbox/Convolutional Neural Networks.md",
+    "assets/templates/10-notes.md",
+    "assets/templates/00-inbox.md",
+    "00-inbox/Dead Neurons.md",
+    "00-inbox/ReLU Function.md",
     "assets/templates/Paper.md",
     "assets/templates/Mechanism.md",
     "assets/templates/Class Notes.md",
@@ -233,11 +238,6 @@
     "projects/LeNet-5.md",
     "projects/LLM Anonymizer QLoRa.md",
     "projects",
-    "concepts/foundations/math/Vectors.md",
-    "concepts/foundations/math/Standard Deviation.md",
-    "concepts/foundations/math/Norm.md",
-    "concepts/foundations/math/Linear Functions.md",
-    "concepts/foundations/math/Distance.md",
     "concepts/foundations/math",
     "concepts/foundations/classical-ml",
     "concepts/deep-learning/weight-init",
