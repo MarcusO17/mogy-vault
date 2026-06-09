@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/Non-Linear Activation Functions.md",
+                "file": "00-inbox/ReLU Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Non-Linear Activation Functions"
+              "title": "ReLU Function"
             }
           }
         ]
@@ -189,6 +189,7 @@
   },
   "active": "cebf8682254e1130",
   "lastOpenFiles": [
+    "00-inbox/Non-Linear Activation Functions.md",
     "10-notes/Dead Neurons.md",
     "README.md",
     "90-archive",
@@ -222,7 +223,6 @@
     "concepts/foundations/classical-ml/Logistic Regression.md",
     "concepts/foundations/classical-ml/History of Artificial Neurons.md",
     "concepts/foundations/classical-ml/Linear Regression.md",
-    "concepts/foundations/classical-ml/ADALINE.md",
     "concepts/foundations/math",
     "concepts/foundations/classical-ml",
     "concepts/deep-learning/weight-init",
