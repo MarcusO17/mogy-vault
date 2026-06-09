@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "10-notes/Non-Linear Activation Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Non-Linear Activation Functions"
             }
           }
         ]
@@ -189,6 +189,8 @@
   },
   "active": "cebf8682254e1130",
   "lastOpenFiles": [
+    "10-notes/Dead Neurons.md",
+    "README.md",
     "90-archive",
     "30-sources",
     "20-hubs",
@@ -221,12 +223,10 @@
     "concepts/foundations/classical-ml/History of Artificial Neurons.md",
     "concepts/foundations/classical-ml/Linear Regression.md",
     "concepts/foundations/classical-ml/ADALINE.md",
-    "concepts/foundations/classical-ml/-- Common Math Notation.md",
     "concepts/foundations/math",
     "concepts/foundations/classical-ml",
     "concepts/deep-learning/weight-init",
     "concepts/deep-learning/regularization",
-    "concepts/deep-learning/training",
     "assets/images/Pasted image 20260505192713.png",
     "assets/images/Pasted image 20251206162532.png",
     "assets/images/Pasted image 20251206170744.png",
