@@ -56,7 +56,7 @@ $$
 
 ![[Pasted image 20250819104450.png]]
 
-[[Stochastic Gradient Descent]]
+[[concepts/deep-learning/training/Stochastic Gradient Descent]]
 
 ![[Pasted image 20250819104506.png]]
 

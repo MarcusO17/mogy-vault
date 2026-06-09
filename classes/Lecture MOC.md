@@ -46,7 +46,7 @@ Revision index organised by lecture tag. Each lecture groups all concept notes c
 - [[concepts/foundations/classical-ml/Linear Regression]]
 - [[Understanding Gradient Descent]]
 - [[Batch Gradient Descent]]
-- [[Stochastic Gradient Descent]]
+- [[concepts/deep-learning/training/Stochastic Gradient Descent]]
 
 ---
 

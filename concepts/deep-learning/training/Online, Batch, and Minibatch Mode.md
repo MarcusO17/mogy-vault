@@ -22,7 +22,7 @@ $$Let: \quad D=(\langle\mathbf{x}^{[1]},y^{[1]}\rangle,\langle\mathbf{x}^{[2]},y
 
 Online Mode essentially shows that the model weights are update after each training data point.
 
-Usually the dataset is shuffled prior to each epoch to prevent cycles. This is part of [[Stochastic Gradient Descent|SGD]] best practices.
+Usually the dataset is shuffled prior to each epoch to prevent cycles. This is part of [[concepts/deep-learning/training/Stochastic Gradient Descent|SGD]] best practices.
 
 > [!NOTE]- Side Note
 > 1. := means "assigned", So both weight and biases are assigned zero vector and zero.
