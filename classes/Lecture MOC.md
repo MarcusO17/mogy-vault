@@ -43,7 +43,7 @@ Revision index organised by lecture tag. Each lecture groups all concept notes c
 ## L05 — Linear Models & Gradient Descent
 
 - [[ADALINE]]
-- [[concepts/foundations/classical-ml/Linear Regression]]
+- [[00-inbox/Linear Regression]]
 - [[Understanding Gradient Descent]]
 - [[Batch Gradient Descent]]
 - [[concepts/deep-learning/training/Stochastic Gradient Descent]]

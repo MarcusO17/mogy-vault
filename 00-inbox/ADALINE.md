@@ -11,7 +11,7 @@ A physical device built by Widrow and Hoff in the 1960s.
 
 ![[Pasted image 20250819144823.png]]
 
-ADALINE is a classifier. [[concepts/foundations/classical-ml/Linear Regression|Linear Regression]] and Adaline are very similar. The difference is that a threshold function for converting continuous outputs for predictions. 
+ADALINE is a classifier. [[00-inbox/Linear Regression|Linear Regression]] and Adaline are very similar. The difference is that a threshold function for converting continuous outputs for predictions. 
 
 The derivative and[[Online, Batch, and Minibatch Mode|training procedure]]] are identical to ADALINE.  
 
