@@ -7,10 +7,7 @@ topic:
 
 # Universal Approximation Theorem
 
-
-
-
-The Universal Approximation Theorem states that an [[Multilayer Perceptron|MLP]] with a wide layer singular hidden layer can approximate any continuous function to any desired degree of accuracy.
+The Universal Approximation Theorem states that an [[MLP]] with a wide layer singular hidden layer can approximate any continuous function to any desired degree of accuracy.
 
 So with the existence Universal Approximation Theorem? Why do we want to use deeper architectures?
 

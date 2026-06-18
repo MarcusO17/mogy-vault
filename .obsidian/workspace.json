@@ -217,8 +217,9 @@
   },
   "active": "39f2dd044003c80b",
   "lastOpenFiles": [
-    "assets/templates/10-notes.md",
+    "10-notes/MLP.md",
     "10-notes/Universal Approximation Theorem.md",
+    "assets/templates/10-notes.md",
     "00-inbox/Wide vs. Deep Architectures.md",
     "10-notes/Vanishing Gradients.md",
     "10-notes/Xiaver Glorot Initialization.md",
@@ -242,7 +243,6 @@
     "00-inbox/ReLU Function.md",
     "00-inbox/Recurrent Neural Networks.md",
     "00-inbox/Overfitting and Underfitting.md",
-    "30-sources/Multilayer Networks.md",
     "10-notes",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
