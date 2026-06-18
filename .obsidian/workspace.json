@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/Xiaver Glorot Initialization.md",
+                "file": "assets/templates/10-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xiaver Glorot Initialization"
+              "title": "10-notes"
             }
           }
         ],
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-notes/Xiaver Glorot Initialization.md",
+                "file": "assets/templates/10-notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Xiaver Glorot Initialization"
+              "title": "Outline of 10-notes"
             }
           }
         ],
@@ -217,8 +217,11 @@
   },
   "active": "39f2dd044003c80b",
   "lastOpenFiles": [
-    "00-inbox/Xiaver Glorot Initialization.md",
+    "10-notes/Universal Approximation Theorem.md",
+    "00-inbox/Wide vs. Deep Architectures.md",
+    "10-notes/Vanishing Gradients.md",
     "10-notes/Xiaver Glorot Initialization.md",
+    "00-inbox/Xiaver Glorot Initialization.md",
     "00-inbox/Bias-Variance Decomposition.md",
     "00-inbox/Batch Gradient Descent.md",
     "00-inbox/An Iterative Training Algorithm for Linear Regression.md",
@@ -227,12 +230,10 @@
     "00-inbox/ADALINE.md",
     "10-notes/Mini-Batch Mode.md",
     "10-notes/Linear Functions.md",
-    "00-inbox/Wide vs. Deep Architectures.md",
     "10-notes/On-line Mode.md",
     "00-inbox/Vectors.md",
     "00-inbox/Linear Functions.md",
     "00-inbox/Linear Regression.md",
-    "10-notes/Vanishing Gradients.md",
     "00-inbox/Sigmoid Function.md",
     "00-inbox/Mean Squared Error.md",
     "00-inbox/Sequence Modelling.md",
@@ -242,7 +243,6 @@
     "00-inbox/Overfitting and Underfitting.md",
     "30-sources/Multilayer Networks.md",
     "00-inbox/Non-Linear Activation Functions.md",
-    "00-inbox/Multilayer Perceptron.md",
     "10-notes",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
