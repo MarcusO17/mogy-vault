@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/MLP.md",
+                "file": "10-notes/Non-Convex Loss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MLP"
+              "title": "Non-Convex Loss"
             }
           }
         ],
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-notes/MLP.md",
+                "file": "10-notes/Non-Convex Loss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MLP"
+              "title": "Outline of Non-Convex Loss"
             }
           }
         ],
@@ -217,8 +217,11 @@
   },
   "active": "68d62e57ea77ed23",
   "lastOpenFiles": [
-    "00-inbox/Multilayer Perceptron.md",
+    "assets/templates/10-notes.md",
+    "assets/templates/00-inbox.md",
+    "10-notes/Non-Convex Loss.md",
     "10-notes/MLP.md",
+    "00-inbox/Multilayer Perceptron.md",
     "30-sources/Multilayer Networks.md",
     "00-inbox/Fully Connected Layer.md",
     "00-inbox/Xiaver Glorot Initialization.md",
@@ -228,8 +231,6 @@
     "00-inbox/ADAM.md",
     "00-inbox/-- Common Math Notation.md",
     "00-inbox/AlexNet.md",
-    "assets/templates/10-notes.md",
-    "assets/templates/00-inbox.md",
     "10-notes/On-line Mode.md",
     "10-notes/Mini-Batch Mode.md",
     "10-notes",
@@ -243,7 +244,6 @@
     "00-inbox/Stochastic Gradient Descent.md",
     "00-inbox/Standard Deviation.md",
     "00-inbox/Softmax.md",
-    "00-inbox/Sequence Modelling.md",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
     "classes/RasBt - Intro to DL",
