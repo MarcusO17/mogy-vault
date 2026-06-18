@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/Vanishing Gradients.md",
+                "file": "00-inbox/Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanishing Gradients"
+              "title": "Linear Regression"
             }
           }
         ],
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-notes/Vanishing Gradients.md",
+                "file": "00-inbox/Linear Regression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vanishing Gradients"
+              "title": "Outline of Linear Regression"
             }
           }
         ],
@@ -203,6 +203,9 @@
   },
   "active": "e60d227a1ef98884",
   "lastOpenFiles": [
+    "10-notes/Vanishing Gradients.md",
+    "00-inbox/Sigmoid Function.md",
+    "00-inbox/Mean Squared Error.md",
     "10-notes/On-line Mode.md",
     "00-inbox/Sequence Modelling.md",
     "00-inbox/PyTorch Quick Reference.md",
@@ -210,12 +213,10 @@
     "00-inbox/Recurrent Neural Networks.md",
     "00-inbox/Overfitting and Underfitting.md",
     "30-sources/Multilayer Networks.md",
-    "00-inbox/Sigmoid Function.md",
     "00-inbox/Non-Linear Activation Functions.md",
     "10-notes/Mini-Batch Mode.md",
     "00-inbox/Multilayer Perceptron.md",
     "10-notes/Non-Convex Loss.md",
-    "10-notes/Vanishing Gradients.md",
     "10-notes/MLP.md",
     "assets/templates/10-notes.md",
     "assets/templates/00-inbox.md",
@@ -229,7 +230,6 @@
     "10-notes",
     "00-inbox/the PyTorch Process.md",
     "00-inbox/Wide vs. Deep Architectures.md",
-    "00-inbox/Weight Initialization.md",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
     "classes/RasBt - Intro to DL",
