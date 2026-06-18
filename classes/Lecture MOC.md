@@ -36,7 +36,7 @@ Revision index organised by lecture tag. Each lecture groups all concept notes c
 - [[Norm]]
 - [[Distance]]
 - [[Standard Deviation]]
-- [[Linear Functions]]
+- [[00-inbox/Linear Functions]]
 
 ---
 
