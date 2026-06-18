@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/Fully Connected Layer.md",
+                "file": "30-sources/Multilayer Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fully Connected Layer"
+              "title": "Multilayer Networks"
             }
           }
         ],
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-inbox/Fully Connected Layer.md",
+                "file": "30-sources/Multilayer Networks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fully Connected Layer"
+              "title": "Outline of Multilayer Networks"
             }
           }
         ],
@@ -201,10 +201,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e60d227a1ef98884",
+  "active": "cebf8682254e1130",
   "lastOpenFiles": [
     "00-inbox/Multilayer Perceptron.md",
-    "00-inbox/Multilayer Networks.md",
+    "30-sources/Multilayer Networks.md",
+    "00-inbox/Fully Connected Layer.md",
     "00-inbox/Xiaver Glorot Initialization.md",
     "10-notes/Batch Mode.md",
     "00-inbox/ReLU Function.md",
@@ -229,7 +230,6 @@
     "00-inbox/Softmax.md",
     "00-inbox/Sequence Modelling.md",
     "00-inbox/Regularization.md",
-    "00-inbox/Recurrent Neural Networks.md",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
     "classes/RasBt - Intro to DL",
