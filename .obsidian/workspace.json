@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/Xiaver Glorot Initialization.md",
+                "file": "00-inbox/Multilayer Perceptron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xiaver Glorot Initialization"
+              "title": "Multilayer Perceptron"
+            }
+          },
+          {
+            "id": "e60d227a1ef98884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-inbox/Fully Connected Layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fully Connected Layer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-inbox/Xiaver Glorot Initialization.md",
+                "file": "00-inbox/Fully Connected Layer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Xiaver Glorot Initialization"
+              "title": "Outline of Fully Connected Layer"
             }
           }
         ],
@@ -186,8 +201,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ec5adcf3a7789ad9",
+  "active": "e60d227a1ef98884",
   "lastOpenFiles": [
+    "00-inbox/Multilayer Perceptron.md",
+    "00-inbox/Multilayer Networks.md",
+    "00-inbox/Xiaver Glorot Initialization.md",
     "10-notes/Batch Mode.md",
     "00-inbox/ReLU Function.md",
     "00-inbox/Adaptive Learning Rate.md",
@@ -200,7 +218,6 @@
     "10-notes/Mini-Batch Mode.md",
     "10-notes",
     "00-inbox/the PyTorch Process.md",
-    "00-inbox/Xiaver Glorot Initialization.md",
     "00-inbox/Wide vs. Deep Architectures.md",
     "00-inbox/Weight Initialization.md",
     "00-inbox/Vectors.md",
@@ -213,8 +230,6 @@
     "00-inbox/Sequence Modelling.md",
     "00-inbox/Regularization.md",
     "00-inbox/Recurrent Neural Networks.md",
-    "00-inbox/RMSProp.md",
-    "00-inbox/PyTorch Quick Reference.md",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
     "classes/RasBt - Intro to DL",
