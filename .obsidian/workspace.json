@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/MLP.md",
+                "file": "00-inbox/Multilayer Perceptron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MLP"
+              "title": "Multilayer Perceptron"
             }
           }
         ],
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-notes/MLP.md",
+                "file": "00-inbox/Multilayer Perceptron.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MLP"
+              "title": "Outline of Multilayer Perceptron"
             }
           }
         ],
@@ -217,11 +217,13 @@
   },
   "active": "68d62e57ea77ed23",
   "lastOpenFiles": [
+    "00-inbox/Non-Linear Activation Functions.md",
+    "00-inbox/Multilayer Perceptron.md",
+    "10-notes/Vanishing Gradients.md",
+    "10-notes/MLP.md",
     "10-notes/On-line Mode.md",
     "30-sources/Multilayer Networks.md",
-    "10-notes/MLP.md",
     "10-notes/Non-Convex Loss.md",
-    "00-inbox/Multilayer Perceptron.md",
     "assets/templates/10-notes.md",
     "assets/templates/00-inbox.md",
     "00-inbox/Fully Connected Layer.md",
@@ -242,8 +244,6 @@
     "00-inbox/Understanding Gradient Descent.md",
     "00-inbox/The Perceptron.md",
     "00-inbox/Stochastic Gradient Descent.md",
-    "00-inbox/Standard Deviation.md",
-    "00-inbox/Softmax.md",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
     "classes/RasBt - Intro to DL",
