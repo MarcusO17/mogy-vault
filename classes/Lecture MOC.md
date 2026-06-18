@@ -100,7 +100,7 @@ Revision index organised by lecture tag. Each lecture groups all concept notes c
 
 - [[Weight Initialization]]
 - [[Kaiming He Initialization]]
-- [[Xiaver Glorot Initialization]]
+- [[00-inbox/Xiaver Glorot Initialization]]
 - [[Normalization]]
 
 ---

@@ -1,10 +1,11 @@
-Created : 2025-10-18 17:57
-Tags :
-Type :
-Lecture : #L11
-Video : https://www.youtube.com/watch?v=xk6qb2IePaE
-
 ---
+created:
+  "{ date:YYYY-MM-DD }":
+type: note
+status: draft
+topic:
+---
+
 # Xiaver Glorot Initialization
 
 When using TanH, it is more robust against vanishing gradients however it's still faces the problem. We can use Xiaver Glorot Initialisation for initialising weights of TanH.
@@ -32,11 +33,4 @@ ReLU activations, however, violate these assumptions. A ReLU zeroes out all nega
 To correct for this, [[Kaiming He Initialization|| Kaiming He]] initialization was introduced.
 
 
-
-
-
----
-# References
-
-
-Xavier Glorot and Yoshua Bengio. "Understanding the difficulty of training deep feedforward neural networks." Proceedings of the thirteenth international conference on artificial intelligence and statistics. 2010.
+*From* →

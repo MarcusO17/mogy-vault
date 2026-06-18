@@ -7,7 +7,7 @@ Video : https://www.youtube.com/watch?v=xk6qb2IePaE
 ---
 # Kaiming He Initialization
 
-Similar to [[Xiaver Glorot Initialization]], He Initialization is more fit for ReLU
+Similar to[[00-inbox/Xiaver Glorot Initialization]]], He Initialization is more fit for ReLU
 
 
 He (or Kaiming) initialization is a weight initialization method designed for neural networks that use **ReLU** or **ReLU-like** activation functions. It ensures that the variance of activations remains stable as signals propagate through layers, preventing vanishing or exploding activations during training.
