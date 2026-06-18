@@ -10,7 +10,7 @@ topic:
 
 ## Issues with Activations + Loss Functions 
 
-[[Sigmoid Function]] + [[Mean Squared Error|MSE Loss]] has the problem of very flat gradients when the output is very wrong. This causes a phenomenon we like to call [[Logistic Regression#Logistic Regression Learning Rule|Vanishing Gradients]]
+[[Sigmoid Function]] + [[Mean Squared Error|MSE Loss]] has the problem of very flat gradients when the output is very wrong. This causes a phenomenon we like to call *Vanishing Gradients*
 
 
 ### Flat Gradients
