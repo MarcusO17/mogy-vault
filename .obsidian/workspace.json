@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Multilayer Networks"
             }
+          },
+          {
+            "id": "68d62e57ea77ed23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10-notes/MLP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MLP"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-sources/Multilayer Networks.md",
+                "file": "10-notes/MLP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Multilayer Networks"
+              "title": "Outline of MLP"
             }
           }
         ],
@@ -201,9 +215,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cebf8682254e1130",
+  "active": "68d62e57ea77ed23",
   "lastOpenFiles": [
     "00-inbox/Multilayer Perceptron.md",
+    "10-notes/MLP.md",
     "30-sources/Multilayer Networks.md",
     "00-inbox/Fully Connected Layer.md",
     "00-inbox/Xiaver Glorot Initialization.md",
@@ -229,7 +244,6 @@
     "00-inbox/Standard Deviation.md",
     "00-inbox/Softmax.md",
     "00-inbox/Sequence Modelling.md",
-    "00-inbox/Regularization.md",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
     "classes/RasBt - Intro to DL",

@@ -1,9 +1,10 @@
-Created : 2025-08-09 15:04
-Tags :
-Type :
-Lecture : #L09
-Video : https://www.youtube.com/watch?v=jD6IKpqSJM4
-
+---
+created: 2025-08-09
+type: source
+source-type: lecture
+status: evergreen
+topic: ML
+---
 ---
 ## Multilayer Networks
 
