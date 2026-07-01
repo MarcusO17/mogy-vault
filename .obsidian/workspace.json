@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/Adaptive Learning Rate.md",
+                "file": "00-inbox/Wide vs. Deep Architectures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adaptive Learning Rate"
+              "title": "Wide vs. Deep Architectures"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-inbox/Adaptive Learning Rate.md",
+                "file": "00-inbox/Wide vs. Deep Architectures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Adaptive Learning Rate"
+              "title": "Outline of Wide vs. Deep Architectures"
             }
           }
         ],
@@ -188,12 +188,13 @@
   },
   "active": "ec5adcf3a7789ad9",
   "lastOpenFiles": [
+    "10-notes/Non-Convex Loss.md",
+    "10-notes/Universal Approximation Theorem.md",
+    "00-inbox/Adaptive Learning Rate.md",
     "30-sources/Multilayer Networks.md",
     "30-sources",
     "10-notes/Xiaver Glorot Initialization.md",
     "10-notes/Vanishing Gradients.md",
-    "10-notes/Universal Approximation Theorem.md",
-    "10-notes/Non-Convex Loss.md",
     "10-notes/MLP.md",
     "10-notes/Linear Functions.md",
     "00-inbox/Sigmoid Function.md",
@@ -215,7 +216,6 @@
     "00-inbox/Vectors.md",
     "00-inbox/VGG-16.md",
     "00-inbox/Understanding Gradient Descent.md",
-    "00-inbox/The Perceptron.md",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
     "classes/RasBt - Intro to DL",
