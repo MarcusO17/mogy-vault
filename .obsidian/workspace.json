@@ -214,6 +214,8 @@
   },
   "active": "e60d227a1ef98884",
   "lastOpenFiles": [
+    "10-notes/Weight Initialization.md",
+    "10-notes/Vectors.md",
     "30-sources/VGG-16.md",
     "10-notes/The Perceptron.md",
     "10-notes/Stochastic Gradient Descent.md",
@@ -238,8 +240,6 @@
     "10-notes/Non-Linear Activation Functions.md",
     "10-notes/Momentum.md",
     "10-notes/Maximum Log-Likelihood.md",
-    "10-notes/Loss Functions.md",
-    "10-notes/Long Short-Term Memory.md",
     "install.cmd",
     "If",
     "Write",
