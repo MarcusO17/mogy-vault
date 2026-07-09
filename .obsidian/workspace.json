@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-sources/Common Math Notation.md",
+                "file": "00-inbox/Vectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Common Math Notation"
+              "title": "Vectors"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30-sources/Common Math Notation.md",
+                "file": "00-inbox/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Common Math Notation"
+              "title": "Outgoing links from Vectors"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-sources/Common Math Notation.md",
+                "file": "00-inbox/Vectors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Common Math Notation"
+              "title": "Outline of Vectors"
             }
           },
           {
@@ -228,8 +228,10 @@
   },
   "active": "e2b5705bb7d4158f",
   "lastOpenFiles": [
-    "10-notes/Supervised Learning.md",
+    "10-notes/ADAM.md",
+    "10-notes/ADALINE.md",
     "30-sources/Common Math Notation.md",
+    "10-notes/Supervised Learning.md",
     "AGENTS.md",
     "README.md",
     "10-notes/Vanishing Gradients.md",
@@ -255,8 +257,6 @@
     "00-inbox/Kaiming He Initialization.md",
     "00-inbox/Linear Regression.md",
     "00-inbox/Learning Rate Decay.md",
-    "00-inbox/Mean Squared Error.md",
-    "00-inbox/Momentum.md",
     "10-notes",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
