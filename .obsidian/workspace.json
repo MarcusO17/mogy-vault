@@ -25,10 +25,14 @@
             "id": "e60d227a1ef98884",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "10-notes/Adaptive Learning Rate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adaptive Learning Rate"
             }
           }
         ],
@@ -124,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10-notes/Adaptive Learning Rate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Adaptive Learning Rate"
             }
           },
           {
@@ -166,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "10-notes/Adaptive Learning Rate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Adaptive Learning Rate"
             }
           },
           {
@@ -208,6 +214,18 @@
   },
   "active": "e60d227a1ef98884",
   "lastOpenFiles": [
+    "10-notes/Loss Functions.md",
+    "10-notes/Long Short-Term Memory.md",
+    "10-notes/Batch Gradient Descent.md",
+    "10-notes/Computation Graphs.md",
+    "10-notes/Non-Convex Loss.md",
+    "10-notes/Logits.md",
+    "10-notes/Universal Approximation Theorem.md",
+    "10-notes/Xiaver Glorot Initialization.md",
+    "10-notes/Vanishing Gradients.md",
+    "00-inbox/RMSProp.md",
+    "10-notes/Logistic Regression.md",
+    "10-notes/Local Response Normalisation.md",
     "10-notes/Learning Rate Decay.md",
     "10-notes/L1 L2 Regularization.md",
     "10-notes/Regularization.md",
@@ -222,18 +240,6 @@
     "10-notes/Early Stopping.md",
     "10-notes/Dropout.md",
     "10-notes/Distance.md",
-    "10-notes/Different Way to Model Text.md",
-    "30-sources/Introduction to Deep Learning.md",
-    "10-notes/Deep Learning.md",
-    "10-notes/Bias-Variance Decomposition.md",
-    "10-notes/Mini-Batch Mode.md",
-    "10-notes/Linear Regression.md",
-    "classes/CS230/L1 Introduction to Deep Learning.md",
-    "classes/CS230/L2 Supervised, Self Supervised, & Weakly Supervised Learning.md",
-    "10-notes/Xiaver Glorot Initialization.md",
-    "classes/Lecture MOC.md",
-    "10-notes/Vanishing Gradients.md",
-    "10-notes/Linear Functions.md",
     "install.cmd",
     "If",
     "Write",

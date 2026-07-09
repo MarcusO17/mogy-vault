@@ -1,4 +1,4 @@
-﻿Created : 2025-10-22 19:43
+Created : 2025-10-22 19:43
 Tags :
 Type :
 Lecture : #L12
