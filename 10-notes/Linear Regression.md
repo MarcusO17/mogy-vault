@@ -15,6 +15,7 @@ $$
 h(\vec{x}) = \mathbf{w}^\top \vec{x} + b = \hat{y}
 $$
 
+
 ### Parameter Optimization
 
 There are two primary methods for finding the optimal weights $\mathbf{w}$ and bias $b$ that minimize the loss (typically Mean Squared Error):
