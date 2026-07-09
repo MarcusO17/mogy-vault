@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/AlexNet.md",
+                "file": "30-sources/AlexNet.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-inbox/AlexNet.md",
+                "file": "30-sources/AlexNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-inbox/AlexNet.md",
+                "file": "30-sources/AlexNet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -226,8 +226,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e2b5705bb7d4158f",
+  "active": "0bff8e8e8dc3c425",
   "lastOpenFiles": [
+    "10-notes/Linear Regression.md",
+    "00-inbox/AlexNet.md",
     "30-sources/AlexNet.md",
     "10-notes/Adaptive Learning Rate.md",
     "00-inbox/Adaptive Learning Rate.md",
@@ -251,12 +253,10 @@
     "10-notes/Universal Approximation Theorem.md",
     "10-notes/MLP.md",
     "00-inbox/ADALINE.md",
-    "00-inbox/AlexNet.md",
     "00-inbox/Bias-Variance Decomposition.md",
     "00-inbox/Computation Graphs.md",
     "00-inbox/Early Stopping.md",
     "00-inbox/Fully Connected Layer.md",
-    "00-inbox/History of Artificial Neurons.md",
     "10-notes",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
