@@ -25,7 +25,7 @@ Basically it's batch mode done on minibatches.
 So why is mini-batch used the most?
 - Take advantage of vectorization. The subset can be processed with vectorization allowing more training samples to be fed in with efficiency at the same time.
 - Having fewer updates than "[[On-line Mode|on-line]]" mode makes the updates less noisy and more robust.
-- makes more updates per epoch than "[[Batch Mode]]" and is thus faster.
+- makes more updates per epoch than "[[Batch Gradient Descent]]" and is thus faster.
 
 
 

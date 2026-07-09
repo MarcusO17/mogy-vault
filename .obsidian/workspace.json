@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/Mini-Batch Mode.md",
+                "file": "10-notes/Batch Gradient Descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mini-Batch Mode"
+              "title": "Batch Gradient Descent"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-notes/Mini-Batch Mode.md",
+                "file": "10-notes/Batch Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mini-Batch Mode"
+              "title": "Outgoing links from Batch Gradient Descent"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-notes/Mini-Batch Mode.md",
+                "file": "10-notes/Batch Gradient Descent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mini-Batch Mode"
+              "title": "Outline of Batch Gradient Descent"
             }
           },
           {
@@ -228,6 +228,7 @@
   },
   "active": "e2b5705bb7d4158f",
   "lastOpenFiles": [
+    "10-notes/Mini-Batch Mode.md",
     "10-notes/Batch Gradient Descent.md",
     "10-notes/Batch Mode.md",
     "00-inbox/Batch Gradient Descent.md",
@@ -251,7 +252,6 @@
     "00-inbox/Wide vs. Deep Architectures.md",
     "00-inbox/Linear Functions.md",
     "10-notes/Linear Functions.md",
-    "10-notes/Mini-Batch Mode.md",
     "10-notes/On-line Mode.md",
     "10-notes/Universal Approximation Theorem.md",
     "10-notes/MLP.md",
