@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/Vectors.md",
+                "file": "00-inbox/AlexNet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vectors"
+              "title": "AlexNet"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-inbox/Vectors.md",
+                "file": "00-inbox/AlexNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vectors"
+              "title": "Outgoing links from AlexNet"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-inbox/Vectors.md",
+                "file": "00-inbox/AlexNet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vectors"
+              "title": "Outline of AlexNet"
             }
           },
           {
@@ -228,6 +228,10 @@
   },
   "active": "e2b5705bb7d4158f",
   "lastOpenFiles": [
+    "30-sources/AlexNet.md",
+    "10-notes/Adaptive Learning Rate.md",
+    "00-inbox/Adaptive Learning Rate.md",
+    "00-inbox/Vectors.md",
     "10-notes/ADAM.md",
     "10-notes/ADALINE.md",
     "30-sources/Common Math Notation.md",
@@ -253,10 +257,6 @@
     "00-inbox/Early Stopping.md",
     "00-inbox/Fully Connected Layer.md",
     "00-inbox/History of Artificial Neurons.md",
-    "00-inbox/Improving Generalization.md",
-    "00-inbox/Kaiming He Initialization.md",
-    "00-inbox/Linear Regression.md",
-    "00-inbox/Learning Rate Decay.md",
     "10-notes",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",

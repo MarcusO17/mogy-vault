@@ -11,7 +11,6 @@
   },
   "knownTags": {
     "classification": 32,
-    "classifier": 3,
     "cs230": 4,
     "fix": 33,
     "generalization": 34,
@@ -30,14 +29,11 @@
     "l15": 44,
     "l4": 45,
     "linearalgebra": 46,
-    "linearregression": 8,
     "logisticregression": 47,
     "lossfunctions": 48,
     "math": 11,
     "moc": 22,
-    "model": 13,
     "modelevaluation": 49,
-    "neuralnetwork": 15,
     "normalisation": 50,
     "linearalgebra/vectors": 1
   },
