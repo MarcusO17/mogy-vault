@@ -13,7 +13,6 @@
     "classification": 32,
     "cs230": 4,
     "fix": 33,
-    "generalization": 34,
     "l01": 24,
     "l02": 35,
     "l03": 36,
@@ -31,9 +30,7 @@
     "linearalgebra": 46,
     "logisticregression": 47,
     "lossfunctions": 48,
-    "math": 11,
     "moc": 22,
-    "modelevaluation": 49,
     "normalisation": 50,
     "linearalgebra/vectors": 1
   },
