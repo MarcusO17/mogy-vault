@@ -228,6 +228,8 @@
   },
   "active": "e2b5705bb7d4158f",
   "lastOpenFiles": [
+    "10-notes/Computation Graphs.md",
+    "10-notes/Bias-Variance Decomposition.md",
     "10-notes/Mini-Batch Mode.md",
     "10-notes/Batch Gradient Descent.md",
     "10-notes/Batch Mode.md",
@@ -255,8 +257,6 @@
     "10-notes/On-line Mode.md",
     "10-notes/Universal Approximation Theorem.md",
     "10-notes/MLP.md",
-    "00-inbox/ADALINE.md",
-    "00-inbox/Bias-Variance Decomposition.md",
     "10-notes",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
