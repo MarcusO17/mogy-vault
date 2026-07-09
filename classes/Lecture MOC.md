@@ -13,7 +13,7 @@ Revision index organised by lecture tag. Each lecture groups all concept notes c
 ## L01 — Intro & Notation
 
 - [[Deep Learning]]
-- [[-- Common Math Notation]]
+- [[Common Math Notation]]
 - [[Notational Conventions in Deep Learning]]
 
 ---
