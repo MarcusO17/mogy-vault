@@ -214,6 +214,7 @@
   },
   "active": "e60d227a1ef98884",
   "lastOpenFiles": [
+    "10-notes/Early Stopping.md",
     "10-notes/Dropout.md",
     "10-notes/Distance.md",
     "10-notes/Different Way to Model Text.md",
@@ -239,7 +240,6 @@
     "10-notes/Batch Mode.md",
     "00-inbox/Batch Gradient Descent.md",
     "30-sources/AlexNet.md",
-    "00-inbox/AlexNet.md",
     "install.cmd",
     "If",
     "Write",
