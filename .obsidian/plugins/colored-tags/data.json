@@ -10,17 +10,7 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "fix": 33,
-    "l01": 24,
-    "l03": 36,
-    "l04": 37,
-    "l05": 20,
-    "l06": 38,
-    "l08": 39,
-    "l09": 40,
-    "l11": 42,
-    "linearalgebra": 46,
-    "linearalgebra/vectors": 1
+    "l01": 24
   },
   "tagColors": {},
   "_version": 4
