@@ -1,0 +1,138 @@
+# Vault agent instructions
+
+This is an Obsidian vault run on a bottom-up, atomic-note PKM system. Read this fully before touching any files.
+
+## Core philosophy
+
+- Bottom-up structure — organisation emerges from links, not folders.
+- Atomic notes — one idea per note, fully expressed.
+- Links carry meaning — relationships live in connections, not nesting.
+- Don't pre-split — a concept only earns its own note when something else needs to link to it.
+
+## Vault structure
+
+```
+00-inbox/        incomplete or unprocessed notes
+10-notes/        atomic concept notes (should be ~70% of the vault)
+20-hubs/         topic index notes linking related concepts (a handful, 10-15 total)
+30-sources/      lecture notes, book notes, papers (~20% of the vault)
+90-archive/      old notes not actively used
+```
+
+Folder = type, not tag. Never add a `folder` or `location` field to frontmatter.
+
+|Folder|Question to ask|
+|---|---|
+|`10-notes`|Is this _my_ understanding of an idea?|
+|`30-sources`|Does this note have an author other than me?|
+|`20-hubs`|Do I have 8+ notes orbiting one topic?|
+|`00-inbox`|Is this incomplete or not ready to link to?|
+
+## Your job: processing 00-inbox/
+
+When asked to process the inbox, work through it note by note (not in a silent batch). For each inbox note:
+
+1. **Read and understand** the raw content. Inbox notes are messy by design — fragments, half-thoughts, mixed topics.
+2. **Decide what it becomes**, using Phase 2 logic:
+    - Would I think about this idea outside of this context? → extract to `10-notes/`
+    - Does a note on this already exist? → search the vault first, then add a `[[link]]` to it instead of duplicating
+    - Only makes sense tied to its source? → it belongs in `30-sources/`, cleaned up, not extracted
+    - Multiple distinct ideas in one inbox note? → split into multiple atomic notes, one idea each
+3. **Write in my own words.** Never copy-paste from the inbox note's source material verbatim — atomic notes are understanding, not transcription.
+4. **Link naturally inline**, in the body text, as the idea connects to other concepts. Don't bolt on a "Related notes" section — that's not how this system links.
+5. **Use the correct template** (below) and fill it in properly — don't leave placeholder fields blank without reason.
+6. **Move, don't delete**, the original inbox note once it's been processed — I'll tell you where (default: leave it in place unless I've set up an archive/processed convention; ask me the first time).
+7. **Show me a short summary** after each note: what you extracted, where it went, what you linked. Don't move on to the next file until I've had a chance to sanity-check the first few.
+
+## Note templates
+
+### `10-notes/` — atomic note
+
+```yaml
+---
+created: YYYY-MM-DD
+type: note
+status: draft
+topic: 
+---
+
+# Title
+
+Body — one idea, in my own words.
+
+*From* → [[source note]]
+```
+
+### `30-sources/` — lecture / book / paper
+
+```yaml
+---
+created: YYYY-MM-DD
+type: source
+source-type: lecture
+status: draft
+topic: 
+---
+
+# Title
+
+## Raw notes
+
+
+## Key concepts mentioned
+- 
+
+*From* → 
+```
+
+### `20-hubs/` — topic hub
+
+```yaml
+---
+created: YYYY-MM-DD
+type: hub
+status: evergreen
+---
+
+# Title
+
+## Section
+- [[Note]]
+- [[Note]]
+```
+
+Only create a hub note if 8+ existing notes genuinely orbit one topic and none exists yet. Don't create one pre-emptively.
+
+## Status values
+
+- `draft` — incomplete, still being worked on
+- `evergreen` — done, stable, ready to link freely
+
+New notes from inbox processing start as `draft` unless clearly complete.
+
+## Topic tags
+
+Keep broad, one level above the concept (e.g. `ML`, `statistics`, `calculus`, `physics`). Use a list only for genuine cross-field concepts: `topic: [ML, statistics]`. Don't tag inbox notes — the folder is the tag. Don't invent new topic values casually; check what's already in use in the vault first.
+
+## Rules you must follow
+
+- Never copy source text verbatim into a `10-notes/` note — always paraphrase in my own words.
+- Never pre-split a note into multiple concepts unless each concept could plausibly be linked to from elsewhere.
+- Never add metadata fields that aren't in the templates above.
+- Never create a hub note without checking there are genuinely 8+ orbiting notes.
+- Always search the existing vault for a matching note before creating a new one on the same concept.
+- Always ask before deleting anything — move or leave in place instead.
+- Keep atomic notes short enough that I'd actually re-read them. If a note is getting long, that's a signal it's two ideas, not one.
+
+## Vault health check
+
+If asked to review vault health, check the ratio:
+
+```
+10-notes   → should be ~70% of the vault
+30-sources → ~20%
+20-hubs    → a handful, maybe 10-15 total
+00-inbox   → should always be close to empty
+```
+
+If `30-sources` outnumbers `10-notes`, flag it — it means I'm collecting but not distilling.
