@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Vanishing Gradients"
             }
-          },
-          {
-            "id": "e91c473ebd03b829",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "00-inbox/Computation Graphs.md",
-                "bFile": "00-inbox/Computation Graphs.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Computation Graphs  (Working Tree)"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10-notes/Vanishing Gradients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Vanishing Gradients"
             }
           },
           {
@@ -184,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "10-notes/Vanishing Gradients.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Vanishing Gradients"
             }
           },
           {
@@ -224,7 +212,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e91c473ebd03b829",
+  "active": "e60d227a1ef98884",
   "lastOpenFiles": [
     "install.cmd",
     "If",
