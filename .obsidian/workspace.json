@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/Linear Regression.md",
+                "file": "10-notes/Mini-Batch Mode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "Mini-Batch Mode"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10-notes/Linear Regression.md",
+                "file": "10-notes/Mini-Batch Mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Linear Regression"
+              "title": "Outgoing links from Mini-Batch Mode"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-notes/Linear Regression.md",
+                "file": "10-notes/Mini-Batch Mode.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linear Regression"
+              "title": "Outline of Mini-Batch Mode"
             }
           },
           {
@@ -228,8 +228,11 @@
   },
   "active": "e2b5705bb7d4158f",
   "lastOpenFiles": [
-    "30-sources/AlexNet.md",
+    "10-notes/Batch Gradient Descent.md",
+    "10-notes/Batch Mode.md",
+    "00-inbox/Batch Gradient Descent.md",
     "10-notes/Linear Regression.md",
+    "30-sources/AlexNet.md",
     "00-inbox/AlexNet.md",
     "10-notes/Adaptive Learning Rate.md",
     "00-inbox/Adaptive Learning Rate.md",
@@ -254,9 +257,6 @@
     "10-notes/MLP.md",
     "00-inbox/ADALINE.md",
     "00-inbox/Bias-Variance Decomposition.md",
-    "00-inbox/Computation Graphs.md",
-    "00-inbox/Early Stopping.md",
-    "00-inbox/Fully Connected Layer.md",
     "10-notes",
     "Untitled.canvas",
     "Pasted image 20260602164416.png",
