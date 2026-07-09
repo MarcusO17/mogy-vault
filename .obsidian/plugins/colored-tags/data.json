@@ -10,7 +10,6 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "classification": 32,
     "cs230": 4,
     "fix": 33,
     "l01": 24,
@@ -24,13 +23,9 @@
     "l10": 41,
     "l11": 42,
     "l12": 31,
-    "l13": 43,
     "l15": 44,
     "l4": 45,
     "linearalgebra": 46,
-    "logisticregression": 47,
-    "lossfunctions": 48,
-    "moc": 22,
     "normalisation": 50,
     "linearalgebra/vectors": 1
   },
