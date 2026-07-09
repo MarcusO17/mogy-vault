@@ -214,6 +214,8 @@
   },
   "active": "e60d227a1ef98884",
   "lastOpenFiles": [
+    "10-notes/The PyTorch Training Process.md",
+    "10-notes/Wide vs. Deep Architectures.md",
     "10-notes/Weight Initialization.md",
     "10-notes/Vectors.md",
     "30-sources/VGG-16.md",
@@ -238,8 +240,6 @@
     "10-notes/Adaptive Learning Rate.md",
     "10-notes/Norm.md",
     "10-notes/Non-Linear Activation Functions.md",
-    "10-notes/Momentum.md",
-    "10-notes/Maximum Log-Likelihood.md",
     "install.cmd",
     "If",
     "Write",
