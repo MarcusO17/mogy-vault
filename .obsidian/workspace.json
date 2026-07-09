@@ -214,6 +214,8 @@
   },
   "active": "e60d227a1ef98884",
   "lastOpenFiles": [
+    "10-notes/Distance.md",
+    "10-notes/Different Way to Model Text.md",
     "30-sources/Introduction to Deep Learning.md",
     "10-notes/Deep Learning.md",
     "10-notes/Bias-Variance Decomposition.md",
@@ -238,8 +240,6 @@
     "30-sources/AlexNet.md",
     "00-inbox/AlexNet.md",
     "10-notes/Adaptive Learning Rate.md",
-    "00-inbox/Adaptive Learning Rate.md",
-    "00-inbox/Vectors.md",
     "install.cmd",
     "If",
     "Write",
