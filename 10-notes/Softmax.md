@@ -9,6 +9,8 @@ topic: ML
 
 The **Softmax function** (or Softmax activation) is a generalization of the logistic [[Sigmoid Function]] to multi-class classification tasks. It maps a vector of raw prediction scores ([[Logits]]) to a probability distribution over the target classes.
 
+**basically it's a exponential function which normalizes the activations so that they all sum up to 1**.
+
 ---
 
 ## Multiclass Classification Motivation
