@@ -27,7 +27,7 @@ BCE is equivalent to minimizing the negative log-likelihood of a Bernoulli distr
 ---
 
 ## 2. Categorical Cross-Entropy (CCE)
-Used for multi-class classification tasks (where targets are [[One-Hot Encoding|one-hot encoded]] vectors of size $K$). Across $n$ training instances, the CCE loss is:
+Used for multi-class classification tasks (where targets are [[10-notes/One-Hot Encoding|one-hot encoded]] vectors of size $K$). Across $n$ training instances, the CCE loss is:
 
 $$
 \mathcal{L} = -\sum_{i=1}^{n} \sum_{j=1}^{K} y_j^{[i]} \log(a_j^{[i]})
