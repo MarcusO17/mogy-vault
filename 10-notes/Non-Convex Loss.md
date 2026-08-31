@@ -4,7 +4,8 @@ type: note
 status: draft
 topic: ML
 tags:
-  - optimization
+  - dl/theory/optimization
+  - dl/training/optimizer
 ---
 
 # Non-Convex Loss

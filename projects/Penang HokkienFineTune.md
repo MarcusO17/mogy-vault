@@ -4,7 +4,7 @@ type: project
 status: draft
 topic: ML
 tags:
-  - nlp
+  - dl/llm/peft
 ---
 
 Fine tune, Qwen3.:1.7B?

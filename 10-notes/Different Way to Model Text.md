@@ -4,8 +4,8 @@ type: note
 status: draft
 topic: ML
 tags:
-  - nlp
-  - rnn
+  - dl/architecture/transformer
+  - dl/architecture/rnn
 ---
 
 # Different Way to Model Text

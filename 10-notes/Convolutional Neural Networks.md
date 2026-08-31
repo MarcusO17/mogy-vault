@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - cnn
+  - dl/architecture/cnn
 ---
 
 # Convolutional Neural Networks

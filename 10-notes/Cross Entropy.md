@@ -4,8 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - loss-functions
-  - classification
+  - dl/training/loss
 ---
 
 # Cross Entropy

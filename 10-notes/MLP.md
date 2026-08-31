@@ -4,7 +4,8 @@ type: note
 status: draft
 topic: ML
 tags:
-  - backpropagation
+  - dl/architecture/mlp
+  - dl/training/backprop
 ---
 
 # MLP

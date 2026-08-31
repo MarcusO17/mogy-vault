@@ -4,8 +4,8 @@ type: note
 status: draft
 topic: ML
 tags:
-  - optimization
-  - backpropagation
+  - dl/training/optimizer
+  - dl/training/backprop
 ---
 
 # Understanding Gradient Descent

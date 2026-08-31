@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: [statistics, ML]
 tags:
-  - loss-functions
+  - dl/training/loss
 ---
 
 # Maximum Log-Likelihood

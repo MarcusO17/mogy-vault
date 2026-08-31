@@ -4,8 +4,8 @@ type: note
 status: draft
 topic: ML
 tags:
-  - weight-init
-  - activation-functions
+  - dl/training/initialization
+  - dl/training/activation
 ---
 
 # Kaiming He Initialization

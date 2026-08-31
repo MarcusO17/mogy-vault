@@ -4,6 +4,7 @@ type: project
 status: draft
 topic: ML
 tags:
-  - nlp
+  - dl/llm/peft
+  - dl/llm/quantization
 ---
 

@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - classification
+  - dl/training/loss
 ---
 
 # One-Hot Encoding

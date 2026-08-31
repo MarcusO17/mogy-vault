@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - pytorch
+  - dl/stack/pytorch
 ---
 
 # PyTorch Quick Reference

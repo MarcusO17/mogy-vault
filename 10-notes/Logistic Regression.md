@@ -4,8 +4,8 @@ type: note
 status: draft
 topic: ML
 tags:
-  - linear-models
-  - classification
+  - dl/paradigm/supervised
+  - dl/architecture/mlp
 ---
 
 # Logistic Regression

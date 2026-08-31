@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - backpropagation
+  - dl/theory/expressivity
 ---
 
 # Wide vs. Deep Architectures

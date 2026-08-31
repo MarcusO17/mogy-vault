@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - optimization
+  - dl/training/optimizer
 ---
 
 # On-line Mode

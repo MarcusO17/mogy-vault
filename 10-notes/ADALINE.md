@@ -4,9 +4,8 @@ type: note
 status: draft
 topic: ML
 tags:
-  - linear-models
-  - optimization
-  - pytorch
+  - dl/architecture/mlp
+  - dl/paradigm/supervised
 ---
 
 # ADALINE

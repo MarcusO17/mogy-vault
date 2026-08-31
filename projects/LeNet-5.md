@@ -4,8 +4,8 @@ type: project
 status: draft
 topic: ML
 tags:
-  - cnn
-  - pytorch
+  - dl/architecture/cnn
+  - dl/stack/pytorch
 ---
 
 It's been a tough and long procrastination, but we are here. After 4 months of on and off PyTorch, here's an implementation of LeNet-5 from the very popular (http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf | Gradient-Based Learning Applied to Document Recognition), 

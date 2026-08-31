@@ -55,7 +55,7 @@ type: note
 status: draft
 topic: 
 tags:
-  - <cross-cutting-tag>
+  - dl/<facet>/<leaf>
 ---
 
 # Title
@@ -77,7 +77,7 @@ source-type: lecture
 status: draft
 topic: 
 tags:
-  - <cross-cutting-tag>
+  - dl/<facet>/<leaf>
 ---
 
 # Title
@@ -128,9 +128,33 @@ Use a list only for genuine cross-field concepts: `topic: [statistics, linear-al
 
 ## Cross-cutting tags
 
-`tags:` (YAML list, no `#`) mark themes that cut across the topic and the folder, so a search or the tag pane can pull a thread together. Assign 1–3 per note; omit the block if none fit. Use only these values — don't coin new ones without a real cluster to justify it:
+`tags:` (YAML list, no `#`) mark themes that cut across the topic and the folder, so search or the tag pane can pull a thread together. Hierarchical: `dl/<facet>/<leaf>`. Assign 1–3 per note; omit the block if none fit. Purely mathematical notes (`topic: linear-algebra` / `statistics`) usually get none — the topic field carries them.
 
-`optimization` · `loss-functions` · `regularization` · `normalization` · `activation-functions` · `weight-init` · `backpropagation` · `cnn` · `rnn` · `nlp` · `classification` · `linear-models` · `pytorch`
+**Rules for the taxonomy:**
+- Only tag with a leaf that already exists below, *or* add a new leaf to this list in the same commit. Never leave an undocumented tag in a note.
+- Prefer the most specific leaf. A note earning a brand-new leaf needs a real cluster (≥2–3 notes), not a one-off.
+- The roadmap leaves (marked ·0·) have no notes yet — they're reserved so future notes slot in consistently. Don't delete them.
+
+### `dl/architecture/` — structural blueprint
+`mlp` · `cnn` · `rnn` · `transformer` · ·0· `gnn` · ·0· `ssm`
+
+### `dl/training/` — parameter-update mechanics & stability
+`optimizer` · `loss` · `regularization` · `normalization` · `initialization` · `activation` · `backprop` (autodiff, computation graphs, vanishing/exploding gradients, BPTT)
+
+### `dl/theory/` — what networks can represent & why they generalize
+`expressivity` (universal approximation, depth vs width) · `generalization` (bias-variance, over/underfitting) · `optimization` (loss-landscape geometry, non-convexity)
+
+### `dl/paradigm/` — learning formulation & supervisory signal
+`supervised` · ·0· `self-supervised` · ·0· `unsupervised` · ·0· `rl` · ·0· `meta-learning`
+
+### `dl/generative/` — ·0· (none yet)
+·0· `diffusion` · ·0· `gan` · ·0· `vae` · ·0· `flow` · ·0· `autoregressive`
+
+### `dl/llm/` — language-model pipelines
+`peft` (LoRA, QLoRA, prefix tuning) · `quantization` (AWQ, GPTQ, GGUF, INT4/FP8) · ·0· `alignment` · ·0· `rag` · ·0· `inference`
+
+### `dl/stack/` — implementation & hardware layer
+`pytorch` · ·0· `cuda` · ·0· `distributed` · ·0· `evaluation`
 
 ## Rules you must follow
 

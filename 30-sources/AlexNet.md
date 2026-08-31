@@ -5,8 +5,9 @@ source-type: paper
 status: draft
 topic: ML
 tags:
-  - cnn
-  - normalization
+  - dl/architecture/cnn
+  - dl/training/normalization
+  - dl/training/regularization
 ---
 
 # ImageNet Classification with Deep Convolutional Neural Networks

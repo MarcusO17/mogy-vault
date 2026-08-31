@@ -5,7 +5,7 @@ source-type: lecture
 status: evergreen
 topic: ML
 tags:
-  - backpropagation
+  - dl/architecture/mlp
 ---
 
 ## Multilayer Networks

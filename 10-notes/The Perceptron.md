@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - linear-models
+  - dl/architecture/mlp
 ---
 
 # The Perceptron

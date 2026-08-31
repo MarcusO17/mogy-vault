@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - regularization
+  - dl/training/regularization
 ---
 
 # L1 L2 Regularization

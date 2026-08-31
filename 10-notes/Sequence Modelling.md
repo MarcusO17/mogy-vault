@@ -4,8 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - rnn
-  - nlp
+  - dl/architecture/rnn
 ---
 
 # Sequence Modelling

@@ -4,7 +4,8 @@ type: note
 status: draft
 topic: ML
 tags:
-  - regularization
+  - dl/theory/generalization
+  - dl/training/regularization
 ---
 
 # Overfitting and Underfitting

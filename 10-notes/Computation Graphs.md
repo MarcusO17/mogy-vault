@@ -4,8 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - backpropagation
-  - pytorch
+  - dl/training/backprop
 ---
 
 # Computation Graphs

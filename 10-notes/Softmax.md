@@ -4,8 +4,8 @@ type: note
 status: draft
 topic: ML
 tags:
-  - activation-functions
-  - classification
+  - dl/training/activation
+  - dl/training/loss
 ---
 
 # Softmax

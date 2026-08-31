@@ -4,8 +4,8 @@ type: note
 status: draft
 topic: ML
 tags:
-  - backpropagation
-  - activation-functions
+  - dl/training/backprop
+  - dl/training/activation
 ---
 
 # Vanishing Gradients

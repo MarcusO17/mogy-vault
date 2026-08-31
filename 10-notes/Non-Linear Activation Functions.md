@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - activation-functions
+  - dl/training/activation
 ---
 
 # Non-Linear Activation Functions

@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - rnn
+  - dl/architecture/rnn
 ---
 
 # Recurrent Neural Networks

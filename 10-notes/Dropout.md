@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - regularization
+  - dl/training/regularization
 ---
 
 # Dropout

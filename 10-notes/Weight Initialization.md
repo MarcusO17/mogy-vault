@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - weight-init
+  - dl/training/initialization
 ---
 
 # Weight Initialization

@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: ML
 tags:
-  - pytorch
+  - dl/architecture/mlp
 ---
 
 # Fully Connected Layer

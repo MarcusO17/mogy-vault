@@ -4,8 +4,8 @@ type: note
 status: draft
 topic: ML
 tags:
-  - normalization
-  - cnn
+  - dl/training/normalization
+  - dl/architecture/cnn
 ---
 
 # Local Response Normalisation

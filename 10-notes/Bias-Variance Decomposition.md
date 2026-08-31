@@ -4,7 +4,7 @@ type: note
 status: draft
 topic: [ML, statistics]
 tags:
-  - regularization
+  - dl/theory/generalization
 ---
 
 # Bias-Variance Decomposition
