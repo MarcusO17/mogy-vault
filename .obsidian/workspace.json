@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/History of Artificial Neurons.md",
+                "file": "10-notes/L1 L2 Regularization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "History of Artificial Neurons"
+              "title": "L1 L2 Regularization"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-notes/History of Artificial Neurons.md",
+                "file": "10-notes/L1 L2 Regularization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of History of Artificial Neurons"
+              "title": "Outline of L1 L2 Regularization"
             }
           }
         ],
@@ -186,8 +186,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ec5adcf3a7789ad9",
+  "active": "cebf8682254e1130",
   "lastOpenFiles": [
+    "10-notes/Kaiming He Initialization.md",
+    "10-notes/Improving Generalization.md",
+    "10-notes/History of Artificial Neurons.md",
+    "10-notes/Cross Entropy.md",
+    "10-notes/Deep Learning.md",
+    "10-notes/Different Way to Model Text.md",
+    "10-notes/Distance.md",
+    "10-notes/Fully Connected Layer.md",
     "30-sources/VGG-16.md",
     "10-notes/Wide vs. Deep Architectures.md",
     "30-sources/Multilayer Networks.md",
@@ -201,8 +209,6 @@
     "10-notes/Non-Linear Activation Functions.md",
     "00-inbox/One-Hot Encoding.md",
     "10-notes/Maximum Log-Likelihood.md",
-    "10-notes/Improving Generalization.md",
-    "10-notes/Different Way to Model Text.md",
     "10-notes/Computation Graphs.md",
     "10-notes/Convolutional Neural Networks.md",
     "00-inbox/PyTorch Quick Reference.md",
@@ -210,12 +216,6 @@
     "If",
     "AGENTS.md",
     "30-sources/AlexNet.md",
-    "10-notes/Understanding Gradient Descent.md",
-    "10-notes/The PyTorch Training Process.md",
-    "10-notes/The Perceptron.md",
-    "10-notes/Supervised Learning.md",
-    "10-notes/Softmax.md",
-    "10-notes/Sigmoid Function.md",
     "30-sources",
     "10-notes",
     "Untitled.canvas",
