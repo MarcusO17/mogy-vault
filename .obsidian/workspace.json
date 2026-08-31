@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/Vanishing Gradients.md",
+                "file": "10-notes/Non-Linear Activation Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanishing Gradients"
+              "title": "Non-Linear Activation Functions"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MSE",
+                "query": "tag:#dl/training/activation",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-notes/Vanishing Gradients.md",
+                "file": "10-notes/Non-Linear Activation Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vanishing Gradients"
+              "title": "Outline of Non-Linear Activation Functions"
             }
           }
         ],
@@ -189,6 +189,8 @@
   },
   "active": "ec5adcf3a7789ad9",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "10-notes/Vanishing Gradients.md",
     "AGENTS.md.tmp.11780.c65f6525d0a3",
     "AGENTS.md.tmp.11780.8d0411d67a00",
     "AGENTS.md.tmp.11780.24be9e926c2f",
@@ -216,7 +218,6 @@
     "30-sources/Common Math Notation.md",
     "10-notes/Weight Initialization.md",
     "10-notes/Vectors.md",
-    "10-notes/Vanishing Gradients.md",
     "10-notes/Standard Deviation.md",
     "10-notes/Stochastic Gradient Descent.md",
     "10-notes/Non-Linear Activation Functions.md",
@@ -224,8 +225,6 @@
     "10-notes/Maximum Log-Likelihood.md",
     "Write",
     "If",
-    "30-sources",
-    "Untitled.canvas",
     "Pasted image 20260602164416.png",
     "assets/images/Pasted image 20250818153843.png",
     "assets/images/Pasted image 20250818143705.png",
