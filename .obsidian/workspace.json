@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-sources/Multilayer Networks.md",
+                "file": "10-notes/History of Artificial Neurons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multilayer Networks"
+              "title": "History of Artificial Neurons"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30-sources/Multilayer Networks.md",
+                "file": "10-notes/History of Artificial Neurons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Multilayer Networks"
+              "title": "Outline of History of Artificial Neurons"
             }
           }
         ],
@@ -188,6 +188,9 @@
   },
   "active": "ec5adcf3a7789ad9",
   "lastOpenFiles": [
+    "30-sources/VGG-16.md",
+    "10-notes/Wide vs. Deep Architectures.md",
+    "30-sources/Multilayer Networks.md",
     "30-sources/Introduction to Deep Learning.md",
     "30-sources/Common Math Notation.md",
     "10-notes/Weight Initialization.md",
@@ -206,16 +209,13 @@
     "Write",
     "If",
     "AGENTS.md",
-    "30-sources/VGG-16.md",
     "30-sources/AlexNet.md",
-    "10-notes/Wide vs. Deep Architectures.md",
     "10-notes/Understanding Gradient Descent.md",
     "10-notes/The PyTorch Training Process.md",
     "10-notes/The Perceptron.md",
     "10-notes/Supervised Learning.md",
     "10-notes/Softmax.md",
     "10-notes/Sigmoid Function.md",
-    "10-notes/Sequence Modelling.md",
     "30-sources",
     "10-notes",
     "Untitled.canvas",
