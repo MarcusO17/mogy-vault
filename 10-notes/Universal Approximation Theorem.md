@@ -1,8 +1,10 @@
 ---
-created: "2026-06-18"
+created: 2026-06-18
 type: note
 status: draft
-topic:
+topic: ML
+tags:
+  - backpropagation
 ---
 
 # Universal Approximation Theorem

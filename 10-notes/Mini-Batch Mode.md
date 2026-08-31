@@ -2,7 +2,9 @@
 created: 2026-06-09
 type: note
 status: draft
----
+topic: ML
+tags:
+  - optimization
 ---
 
 # Mini-Batch Mode

@@ -4,6 +4,9 @@ type: source
 source-type: paper
 status: draft
 topic: ML
+tags:
+  - cnn
+  - normalization
 ---
 
 # ImageNet Classification with Deep Convolutional Neural Networks

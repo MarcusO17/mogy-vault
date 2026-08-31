@@ -1,9 +1,11 @@
 ---
-created:
-  "{ date:YYYY-MM-DD }":
+created: 2026-06-18
 type: note
 status: draft
-topic:
+topic: ML
+tags:
+  - backpropagation
+  - activation-functions
 ---
 
 # Vanishing Gradients

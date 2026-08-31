@@ -2,7 +2,9 @@
 created: 2026-07-09
 type: note
 status: draft
-topic: ML
+topic: [statistics, ML]
+tags:
+  - loss-functions
 ---
 
 # Maximum Log-Likelihood

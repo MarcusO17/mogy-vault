@@ -4,6 +4,8 @@ type: source
 source-type: paper
 status: draft
 topic: ML
+tags:
+  - cnn
 ---
 
 # Very Deep Convolutional Networks for Large-Scale Image Recognition

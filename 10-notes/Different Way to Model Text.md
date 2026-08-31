@@ -3,6 +3,9 @@ created: 2026-07-09
 type: note
 status: draft
 topic: ML
+tags:
+  - nlp
+  - rnn
 ---
 
 # Different Way to Model Text

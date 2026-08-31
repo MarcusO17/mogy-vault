@@ -54,6 +54,8 @@ created: YYYY-MM-DD
 type: note
 status: draft
 topic: 
+tags:
+  - <cross-cutting-tag>
 ---
 
 # Title
@@ -62,6 +64,8 @@ Body — one idea, in my own words.
 
 *From* → [[source note]]
 ```
+
+Omit the `tags:` block entirely if no cross-cutting tag applies (don't leave it empty).
 
 ### `30-sources/` — lecture / book / paper
 
@@ -72,6 +76,8 @@ type: source
 source-type: lecture
 status: draft
 topic: 
+tags:
+  - <cross-cutting-tag>
 ---
 
 # Title
@@ -110,9 +116,21 @@ Only create a hub note if 8+ existing notes genuinely orbit one topic and none e
 
 New notes from inbox processing start as `draft` unless clearly complete.
 
-## Topic tags
+## Topic
 
-Keep broad, one level above the concept (e.g. `ML`, `statistics`, `calculus`, `physics`). Use a list only for genuine cross-field concepts: `topic: [ML, statistics]`. Don't tag inbox notes — the folder is the tag. Don't invent new topic values casually; check what's already in use in the vault first.
+The `topic:` field is broad — one level above the concept. Values currently in use:
+
+- `ML` — anything machine learning / deep learning (the default; ~85% of notes)
+- `linear-algebra` — vectors, norms, distance, linear/affine functions
+- `statistics` — MLE, standard deviation, bias-variance
+
+Use a list only for genuine cross-field concepts: `topic: [statistics, linear-algebra]`. Don't tag inbox notes — the folder is the tag. Don't invent new topic values casually; check what's already in use first.
+
+## Cross-cutting tags
+
+`tags:` (YAML list, no `#`) mark themes that cut across the topic and the folder, so a search or the tag pane can pull a thread together. Assign 1–3 per note; omit the block if none fit. Use only these values — don't coin new ones without a real cluster to justify it:
+
+`optimization` · `loss-functions` · `regularization` · `normalization` · `activation-functions` · `weight-init` · `backpropagation` · `cnn` · `rnn` · `nlp` · `classification` · `linear-models` · `pytorch`
 
 ## Rules you must follow
 

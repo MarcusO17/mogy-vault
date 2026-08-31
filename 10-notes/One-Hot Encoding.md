@@ -3,6 +3,8 @@ created: 2026-07-09
 type: note
 status: draft
 topic: ML
+tags:
+  - classification
 ---
 
 # One-Hot Encoding

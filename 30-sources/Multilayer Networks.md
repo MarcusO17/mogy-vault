@@ -4,8 +4,10 @@ type: source
 source-type: lecture
 status: evergreen
 topic: ML
+tags:
+  - backpropagation
 ---
----
+
 ## Multilayer Networks
 
 -   [[Multilayer Perceptron]] (MLP).

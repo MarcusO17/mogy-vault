@@ -10,7 +10,20 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "l01": 1
+    "activation-functions": 2,
+    "backpropagation": 3,
+    "classification": 4,
+    "cnn": 5,
+    "l01": 1,
+    "linear-models": 6,
+    "loss-functions": 7,
+    "nlp": 8,
+    "normalization": 9,
+    "optimization": 10,
+    "pytorch": 11,
+    "regularization": 12,
+    "rnn": 13,
+    "weight-init": 14
   },
   "tagColors": {},
   "_version": 4
