@@ -182,11 +182,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,13 +201,14 @@
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "fb9c131a7d9437ce",
   "lastOpenFiles": [
-    "00-inbox/One-Hot Encoding.md",
     "00-inbox/Untitled.md",
+    "00-inbox/One-Hot Encoding.md",
     "10-notes/ADALINE.md",
     "10-notes/ADAM.md",
     "10-notes/Deep Learning.md",
