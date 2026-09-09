@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Non-Linear Activation Functions"
             }
+          },
+          {
+            "id": "fb9c131a7d9437ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-notes/Non-Linear Activation Functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Non-Linear Activation Functions"
+              "title": "Outline"
             }
           }
         ],
@@ -187,7 +199,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ec5adcf3a7789ad9",
+  "active": "fb9c131a7d9437ce",
   "lastOpenFiles": [
     "Untitled.canvas",
     "10-notes/Vanishing Gradients.md",
