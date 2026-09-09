@@ -25,12 +25,14 @@
             "id": "fb9c131a7d9437ce",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "10-notes/Kaiming He Initialization.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "icon": "lucide-file",
+              "title": "Kaiming He Initialization"
             }
           }
         ],
@@ -54,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -87,8 +91,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,6 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "10-notes/Kaiming He Initialization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,6 +205,9 @@
   },
   "active": "fb9c131a7d9437ce",
   "lastOpenFiles": [
+    "10-notes/L1 L2 Regularization.md",
+    "10-notes/Local Response Normalisation.md",
+    "10-notes/Distance.md",
     "Untitled.canvas",
     "10-notes/Vanishing Gradients.md",
     "AGENTS.md.tmp.11780.c65f6525d0a3",
@@ -211,7 +218,6 @@
     "10-notes/Non-Convex Loss.md",
     "10-notes/Improving Generalization.md",
     "10-notes/Computation Graphs.md",
-    "10-notes/L1 L2 Regularization.md",
     "assets/templates/10-notes.md.tmp.11780.0175acd7f65f",
     "AGENTS.md.tmp.11780.bd88dd732713",
     "AGENTS.md.tmp.11780.44ec174e15a8",
@@ -222,7 +228,6 @@
     "10-notes/Cross Entropy.md",
     "10-notes/Deep Learning.md",
     "10-notes/Different Way to Model Text.md",
-    "10-notes/Distance.md",
     "10-notes/Fully Connected Layer.md",
     "30-sources/VGG-16.md",
     "10-notes/Wide vs. Deep Architectures.md",
