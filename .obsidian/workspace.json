@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/Kaiming He Initialization.md",
+                "file": "AGENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kaiming He Initialization"
+              "title": "AGENTS"
             }
           }
         ],
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10-notes/Kaiming He Initialization.md",
+                "file": "AGENTS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,6 +205,8 @@
   },
   "active": "fb9c131a7d9437ce",
   "lastOpenFiles": [
+    "README.md",
+    "10-notes/Kaiming He Initialization.md",
     "10-notes/L1 L2 Regularization.md",
     "10-notes/Local Response Normalisation.md",
     "10-notes/Distance.md",
@@ -223,7 +225,6 @@
     "AGENTS.md.tmp.11780.44ec174e15a8",
     "AGENTS.md.tmp.11780.a8e1ec3d37bc",
     "00-inbox/One-Hot Encoding.md.tmp.11780.2f26070f9678",
-    "10-notes/Kaiming He Initialization.md",
     "10-notes/History of Artificial Neurons.md",
     "10-notes/Cross Entropy.md",
     "10-notes/Deep Learning.md",
@@ -239,7 +240,6 @@
     "10-notes/Stochastic Gradient Descent.md",
     "10-notes/Non-Linear Activation Functions.md",
     "00-inbox/One-Hot Encoding.md",
-    "10-notes/Maximum Log-Likelihood.md",
     "Write",
     "If",
     "Pasted image 20260602164416.png",
