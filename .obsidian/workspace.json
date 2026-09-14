@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30-sources/Introduction to Deep Learning.md",
+                "file": "20-MOC/History of NNs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Deep Learning"
+              "title": "History of NNs"
             }
           }
         ],
@@ -207,6 +207,11 @@
   },
   "active": "fb9c131a7d9437ce",
   "lastOpenFiles": [
+    "30-sources/AlexNet.md",
+    "20-MOC/History of NNs.md",
+    "20-MOC/Untitled",
+    "20-MOC",
+    "30-sources/Introduction to Deep Learning.md",
     "00-inbox/Untitled.md",
     "00-inbox/One-Hot Encoding.md",
     "10-notes/ADALINE.md",
@@ -224,7 +229,6 @@
     "AGENTS.md.tmp.11780.c65f6525d0a3",
     "AGENTS.md.tmp.11780.8d0411d67a00",
     "AGENTS.md.tmp.11780.24be9e926c2f",
-    "30-sources/Introduction to Deep Learning.md",
     "10-notes/PyTorch Quick Reference.md",
     "10-notes/Non-Convex Loss.md",
     "10-notes/Computation Graphs.md",
@@ -240,10 +244,6 @@
     "30-sources/VGG-16.md",
     "10-notes/Wide vs. Deep Architectures.md",
     "30-sources/Multilayer Networks.md",
-    "30-sources/Common Math Notation.md",
-    "10-notes/Weight Initialization.md",
-    "Write",
-    "If",
     "Pasted image 20260602164416.png",
     "assets/images/Pasted image 20250818153843.png",
     "assets/images/Pasted image 20250818143705.png",
