@@ -10,8 +10,8 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "dl": 2,
-    "l01": 1,
+    "dl": 25,
+    "l01": 24,
     "dl/architecture": 1,
     "dl/llm": 2,
     "dl/paradigm": 3,
@@ -28,7 +28,6 @@
     "dl/stack/pytorch": 1,
     "dl/theory/expressivity": 1,
     "dl/theory/generalization": 2,
-    "dl/theory/optimization": 3,
     "dl/training/activation": 1,
     "dl/training/backprop": 2,
     "dl/training/initialization": 3,

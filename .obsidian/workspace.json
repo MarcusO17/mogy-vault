@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "201503e997fe3a6c",
+        "id": "b816156bc85480ab",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5adcf3a7789ad9",
+            "id": "8904d86f6853a6c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/Non-Linear Activation Functions.md",
+                "file": "20-MOC/STAT453/Foundations of Neural Representations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Non-Linear Activation Functions"
-            }
-          },
-          {
-            "id": "fb9c131a7d9437ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AGENTS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AGENTS"
-            }
-          },
-          {
-            "id": "f9c5c6b48fff93c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-notes/History of Artificial Neurons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "History of Artificial Neurons"
+              "title": "Foundations of Neural Representations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#dl/training/activation",
+                "query": "onehot",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +157,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-inbox/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,14 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "0bff8e8e8dc3c425",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,49 +194,48 @@
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "terminal:Open terminal": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fb9c131a7d9437ce",
+  "active": "8904d86f6853a6c9",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "README.md",
-    "20-MOC/STAT453/L1.0.md",
-    "15-exercises",
-    "10-notes/Logistic Regression.md",
-    "20-MOC/STAT453",
-    "20-MOC/History of NNs.md",
-    "10-notes/History of Artificial Neurons.md",
-    "30-sources/AlexNet.md",
-    "20-MOC",
-    "30-sources/Introduction to Deep Learning.md",
-    "00-inbox/Untitled.md",
     "00-inbox/One-Hot Encoding.md",
-    "10-notes/ADALINE.md",
-    "10-notes/ADAM.md",
-    "10-notes/Deep Learning.md",
-    "10-notes/Improving Generalization.md",
-    "AGENTS.md",
-    "10-notes/Kaiming He Initialization.md",
+    "Untitled.canvas",
+    "20-MOC/STAT453/Foundations of Neural Representations.md",
+    "20-MOC/STAT453",
+    "20-MOC",
+    "00-inbox/Untitled.md",
+    "10-notes/Softmax.md",
+    "10-notes/Sequence Modelling.md",
+    "10-notes/Regularization.md",
     "10-notes/L1 L2 Regularization.md",
-    "10-notes/Local Response Normalisation.md",
-    "10-notes/Distance.md",
-    "10-notes/Vanishing Gradients.md",
-    "AGENTS.md.tmp.11780.c65f6525d0a3",
-    "AGENTS.md.tmp.11780.8d0411d67a00",
-    "AGENTS.md.tmp.11780.24be9e926c2f",
-    "10-notes/PyTorch Quick Reference.md",
-    "10-notes/Non-Convex Loss.md",
-    "10-notes/Computation Graphs.md",
-    "assets/templates/10-notes.md.tmp.11780.0175acd7f65f",
-    "AGENTS.md.tmp.11780.bd88dd732713",
-    "AGENTS.md.tmp.11780.44ec174e15a8",
-    "AGENTS.md.tmp.11780.a8e1ec3d37bc",
+    "10-notes/Overfitting and Underfitting.md",
+    "10-notes/Bias-Variance Decomposition.md",
+    "10-notes/Long Short-Term Memory.md",
+    "10-notes/Logits.md",
+    "10-notes/Linear Functions.md",
+    "10-notes/Linear Regression.md",
+    "10-notes/Convolutional Neural Networks.md",
     "10-notes/Cross Entropy.md",
-    "10-notes/Different Way to Model Text.md",
-    "10-notes/Fully Connected Layer.md",
+    "10-notes/Computation Graphs.md",
+    "30-sources/Multilayer Networks.md",
+    "10-notes/ADALINE.md",
+    "10-notes/Wide vs. Deep Architectures.md",
+    "10-notes/Universal Approximation Theorem.md",
+    "10-notes/Sigmoid Function.md",
+    "10-notes/Weight Initialization.md",
+    "30-sources/Common Math Notation.md",
+    "30-sources/VGG-16.md",
+    "30-sources/Introduction to Deep Learning.md",
+    "install.cmd",
+    "If",
+    "Write",
+    "10-notes",
     "Pasted image 20260602164416.png",
+    "classes/RasBt - Intro to DL",
+    "Lecture MOC.md.tmp.22772.c7d258df04e9",
+    "concepts/deep-learning/training/Loss Functions.md.tmp.12588.a5f1a61b5e58",
+    "concepts/deep-learning/training/Stochastic Gradient Descent.md.tmp.12588.bbdcfd2633bc",
     "assets/images/Pasted image 20250818153843.png",
     "assets/images/Pasted image 20250818143705.png",
     "assets/images/Pasted image 20250816201906.png",
