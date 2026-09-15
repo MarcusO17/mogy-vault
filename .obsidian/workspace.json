@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20-MOC/STAT453/Foundations of Neural Representations.md",
+                "file": "30-sources/Introduction to Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foundations of Neural Representations"
+              "title": "Introduction to Deep Learning"
             }
           }
         ]
@@ -199,9 +199,9 @@
   },
   "active": "8904d86f6853a6c9",
   "lastOpenFiles": [
+    "20-MOC/STAT453/DL Foundations & History.md",
     "00-inbox/One-Hot Encoding.md",
     "Untitled.canvas",
-    "20-MOC/STAT453/Foundations of Neural Representations.md",
     "20-MOC/STAT453",
     "20-MOC",
     "00-inbox/Untitled.md",
