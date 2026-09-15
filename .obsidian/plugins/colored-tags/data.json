@@ -10,8 +10,8 @@
     "highTextContrast": false
   },
   "knownTags": {
-    "dl": 2,
-    "l01": 1,
+    "dl": 25,
+    "l01": 24,
     "dl/architecture": 1,
     "dl/llm": 2,
     "dl/paradigm": 3,
