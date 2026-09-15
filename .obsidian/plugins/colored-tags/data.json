@@ -28,6 +28,7 @@
     "dl/stack/pytorch": 1,
     "dl/theory/expressivity": 1,
     "dl/theory/generalization": 2,
+    "dl/theory/optimization": 3,
     "dl/training/activation": 1,
     "dl/training/backprop": 2,
     "dl/training/initialization": 3,
