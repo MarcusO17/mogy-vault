@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Introduction to Deep Learning"
             }
+          },
+          {
+            "id": "fc99b9a5d5813be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20-MOC/STAT453/DL Foundations & History.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DL Foundations & History"
+            }
+          },
+          {
+            "id": "d41ad02bbff97e1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30-sources/Introduction to Deep Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Deep Learning"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,9 +226,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8904d86f6853a6c9",
+  "active": "d41ad02bbff97e1c",
   "lastOpenFiles": [
     "20-MOC/STAT453/DL Foundations & History.md",
+    "10-notes/Deep Learning.md",
+    "30-sources/Introduction to Deep Learning.md",
     "00-inbox/One-Hot Encoding.md",
     "Untitled.canvas",
     "20-MOC/STAT453",
@@ -226,7 +257,6 @@
     "10-notes/Weight Initialization.md",
     "30-sources/Common Math Notation.md",
     "30-sources/VGG-16.md",
-    "30-sources/Introduction to Deep Learning.md",
     "install.cmd",
     "If",
     "Write",
