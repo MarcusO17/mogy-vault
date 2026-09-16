@@ -40,13 +40,13 @@ $$
 \end{align}
 	 
 $$
-I mean it's rather common sense that, the loss changed by the weight change and how important that weight was to the loss. 
+I mean it's rather common sense that, the loss changed by the weight change and how important/sensitive that weight was to the loss. 
 
 So that can be explained in mathematical terms:
 $$
 	\Delta \mathcal{L} = \frac{ \partial \mathcal{L} }{ \partial w^{l}_{jk} }\cdot \Delta w^{l}_{jk}
 $$
-So we have to trace what has $w^{l}_{jk}$ touched before this till the output as they would have affected each other, like tugging a chain of buoys, (OO Chain Rule).  We can get how much did the neural network loss change by changing that weight 
+So we have to trace what has $w^{l}_{jk}$ touched before this till the output as they would have affected each other, like tugging a chain of buoys, (OO Chain Rule).  We can get how much did the neural network loss change by changing that weight. So that weight change, also affected the inputs of many other 
 
 
 
