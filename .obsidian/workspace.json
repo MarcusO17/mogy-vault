@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/L2.0.md",
+                "file": "20-MOC/DL001/DL002 - Module 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L2.0"
+              "title": "DL002 - Module 2"
             }
           }
         ],
@@ -217,8 +217,12 @@
   },
   "active": "f9c5c6b48fff93c2",
   "lastOpenFiles": [
-    "00-inbox/L1.0 - SR.md",
+    "10-notes/Kaiming He Initialization.md",
+    "20-MOC/DL001/DL002 - Module 2.md",
+    "10-notes/Batch Gradient Descent.md",
+    "10-notes/Bias-Variance Decomposition.md",
     "00-inbox/L2.0.md",
+    "00-inbox/L1.0 - SR.md",
     "20-MOC/DL001/DL001 - Module 1.md",
     "assets/images/Neko-Jo-Nakashima.pdf",
     "assets/templates/00-inbox.md",
@@ -242,7 +246,6 @@
     "10-notes/ADAM.md",
     "10-notes/Deep Learning.md",
     "10-notes/Improving Generalization.md",
-    "10-notes/Kaiming He Initialization.md",
     "10-notes/L1 L2 Regularization.md",
     "10-notes/Local Response Normalisation.md",
     "10-notes/Distance.md",
@@ -250,8 +253,6 @@
     "AGENTS.md.tmp.11780.c65f6525d0a3",
     "AGENTS.md.tmp.11780.8d0411d67a00",
     "AGENTS.md.tmp.11780.24be9e926c2f",
-    "10-notes/PyTorch Quick Reference.md",
-    "10-notes/Non-Convex Loss.md",
     "assets/templates/10-notes.md.tmp.11780.0175acd7f65f",
     "AGENTS.md.tmp.11780.bd88dd732713",
     "Pasted image 20260602164416.png",
