@@ -21,7 +21,9 @@ $$
 
 Backpropagation does not actually make the network learn but only provides the gradients to let algorithms like [[ADAM]] or [[Stochastic Gradient Descent]] to learn from.
 
+## Beauty of Backprop
 
+So if we think about a Neural Network with 1 million nodes, there will be nearly 2 millions things to update, 1 million weights and 1 million biases. And since we can't just
 
 
 
