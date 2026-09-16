@@ -23,7 +23,7 @@ Backpropagation does not actually make the network learn but only provides the g
 
 ## Beauty of Backprop
 
-So if we think about a Neural Network with 1 million nodes, there will be nearly 2 millions things to update, 1 million weights and 1 million biases. And since we can't just nudge it all at once, ( as mentioned in [[micrograd]], we will not know where to go). We will perform partial derivation on each node, to just understand how should we fix this particular node? That will take 2 million computations to know what to do next. Not even the final solution but what to do next. So we can imagine, how long will it take for us to achieve minimum loss?
+So if we think about a Neural Network with 1 million nodes, there will be nearly 2 millions things to update, 1 million weights and 1 million biases. And since we can't just nudge it all at once, ( as mentioned in [[micrograd]], we will not know where to go). We will perform partial derivation on each node, so to just understand how should we fix this particular node? That will take 2 million computations to know what to do next. Not even the final solution but what to do next. So we can imagine, how long will it take for us to achieve minimum loss?
 
 This is the beauty of Backpropagation. 
 
@@ -40,7 +40,12 @@ $$
 \end{align}
 	 
 $$
-I mean it's 
+I mean it's rather common sense that, the loss changed by the weight change and how important that weight was to the loss. (WEIGHT!!)
+
+So that can be explained in mathematical terms:
+$$
+	na
+$$
 
 So we have to trace what has $w^{l}_{jk}$ touched before this till the output as they would have affected each other, like tugging a chain of buoys, (OO Chain Rule).  We can get how much change did the neural network loss change by changing that weight 
 
