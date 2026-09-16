@@ -72,7 +72,7 @@ We can find out roughly  how much each variable, $x,y,z$ affects the final outpu
  &= y
 \end{align}
    $$
-   But if we think about it, If we wanna nudge $x$ , whether $x$ is $5$ or 10
+   But if we think about it, If we wanna nudge $x$ , whether $x$ is $5$ or $10$, the only factor that will affect the whole answer is $y$. 
    
 
 
