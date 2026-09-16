@@ -17,7 +17,8 @@ aka rank-0 tensor,
 ### Vector
 a rank-1 tensor, like a container of real values
 * $\mathbf{x} \in \mathbb{R}^{n \times 1}$
-* The 
+* The $\times 1$ on the dim of the vector kinda makes in upright, we can imagine it like a matrices with 1 column, this is to ease the many different deep learning computations
+* With that, we then will represent 
 
 
 
