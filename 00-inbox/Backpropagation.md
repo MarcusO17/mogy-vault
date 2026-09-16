@@ -19,6 +19,8 @@ $$
 >[!note]
 >If I were to nudge/adjust $w$ or  $b$, how much would $\mathcal{L}$ change?
 
+Backpropagation does not actually make the network learn but only provides the gradients to let algorithms like [[ADAM]] or [[Stochastic Gradient Descent]] to learn from.
+
 
 
 
