@@ -51,12 +51,12 @@ So we have to trace what has $w^{l}_{jk}$ touched before this till the output as
 So for this case let's assume that the path of the nodes are $k \to p \to \dots \to m\to n$
 And the aforementioned inputs are the previous nodes activations (in simpler terms, incoming output from the previous nodes) which is denoted as $z$ (similar to net input). The formula for net input:
 $$
-	z = wx+b
+	z =\sigma( wx+b)
+$$To see how much the activations changed,
 $$
-To see how much the activations changed,
+	\frac{ \partial z }{ \partial w } =x
 $$
-	\frac{ \partial z }{ \partial w } =
-$$
+
 
 
 
