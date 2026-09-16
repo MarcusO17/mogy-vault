@@ -28,7 +28,8 @@ e.g.,
 
 $$
 \mathbf{X} = \begin{bmatrix}
-x_{1,1} 
+x_{1,1} \quad x_{1,2}  & \dots  & x_{1,n} \\
+x_{2,1} & x_{2,2}  &  \dots  & x_{2,n}
 \end{bmatrix}
 $$
 
