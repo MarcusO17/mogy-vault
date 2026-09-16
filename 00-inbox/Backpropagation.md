@@ -30,7 +30,7 @@ This is the beauty of Backpropagation.
 We are able to get all $\frac{ \partial \mathcal{L} }{ \partial w_{j} }$ in 1 single backward pass, as compared to 2 million passes. But how?
 Let's take a $w$, at layer $l$, on node $j$ going to node $k$ , $$w^{l}_{jk}$$
 
-Let's say that we just got ran a forward pass, and calculated the loss of the whole network $\mathcal{L}$ , We now wanna find out, how much do we have to change $w^{l}_{jk}$ , ($\Delta w^{l}_{jk}$) in order to reduce $\mathcal{L}$?
+Let's say that we just got ran a forward pass, and calculated the loss of the whole network $\mathcal{L}$ , We now wanna find out, how much did $w^{l}_{jk}$  change the networks loss, $\mathcal{L}$? ()
 
 So we have to trace what has $w^{l}_{jk}$ touched before this till the output as they would have affected each other, like tugging a chain of buoys, (OO Chain Rule).  We can get how much change did the neural network loss change by changing that weight 
 
