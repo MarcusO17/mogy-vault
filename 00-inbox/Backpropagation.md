@@ -30,7 +30,7 @@ This is the beauty of Backpropagation.
 We are able to get all $\frac{ \partial \mathcal{L} }{ \partial w_{j} }$ in 1 single backward pass, as compared to 2 million passes. But how?
 Let's take a $w$, at layer $l$, on node $j$ going to node $k$ , $$w^{l}_{jk}$$
 
-Let's say that we just got ran a forward pass, and calculated the loss of the whole network $\mathcal{L}$ , 
+Let's say that we just got ran a forward pass, and calculated the loss of the whole network $\mathcal{L}$ , We now wanna find out, $\Delta \mathcal{L}$ as that would show us, how much worse were we from the last time we did it?
 
 
 
