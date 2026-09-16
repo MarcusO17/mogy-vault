@@ -46,7 +46,7 @@ $$
 f(x_{1},x_{2},\dots, x_{n}
 )
 $$
-We wanna find what if we nudge juts $x_i$  
+We wanna find what if we nudge just $x_i$ , what happens to the rest of the graph? 
 
 
 
