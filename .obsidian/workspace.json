@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/Understanding Gradient Descent.md",
+                "file": "00-inbox/L4 Linear Algebra for Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Understanding Gradient Descent"
+              "title": "L4 Linear Algebra for Deep Learning"
             }
           }
         ],
@@ -217,6 +217,10 @@
   },
   "active": "f9c5c6b48fff93c2",
   "lastOpenFiles": [
+    "00-inbox/One-Hot Encoding.md",
+    "00-inbox/L1.0 - SR.md",
+    "00-inbox/L4 Linear Algebra for Deep Learning.md",
+    "10-notes/Understanding Gradient Descent.md",
     "10-notes/Vanishing Gradients.md",
     "10-notes/Xiaver Glorot Initialization.md",
     "10-notes/Wide vs. Deep Architectures.md",
@@ -231,19 +235,15 @@
     "10-notes/Different Way to Model Text.md",
     "10-notes/Cross Entropy.md",
     "10-notes/Bias-Variance Decomposition.md",
-    "00-inbox/L4 Linear Algebra for Deep Learning.md",
-    "00-inbox/One-Hot Encoding.md",
     "10-notes/Universal Approximation Theorem.md",
     "10-notes/L1 L2 Regularization.md",
     "10-notes/Norm.md",
     "10-notes/Notational Conventions in Deep Learning.md",
     "10-notes/Vectors.md",
     "30-sources/Common Math Notation.md",
-    "00-inbox/L1.0 - SR.md",
     "10-notes/Kaiming He Initialization.md",
     "10-notes/Batch Gradient Descent.md",
     "assets/images/Neko-Jo-Nakashima.pdf",
-    "assets/templates/00-inbox.md",
     "assets/images/Pasted image 20260915172859.png",
     "20-MOC/DL001",
     "Untitled.canvas",
