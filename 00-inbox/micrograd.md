@@ -52,6 +52,7 @@ We wanna find what if we nudge just $x_i$ , what happens to the rest of the grap
 
 Partial derivatives will come in very useful as we work with ML/DL, $x$ might represent a vector of a training example etc.  And it will become a drilldown process.
 
+The formula to find out a specific variable in affecting the gradient of the slope.
 
 
 
