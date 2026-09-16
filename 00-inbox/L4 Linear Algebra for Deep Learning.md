@@ -35,7 +35,11 @@ x_{m,1}  &  x{m,2}  & \dots  &  x_{m,n}
 \end{bmatrix}
 $$
 
-We will often use ${}\mathbf{X}{}$ as a special convention to refer to the **design matrix**. Which 
+We will often use ${}\mathbf{X}{}$ as a special convention to refer to the **design matrix**. Which is the matrix which contains all the training examples and the features (input).
+
+The dims of the design matrix will assume the structure ${}\mathbf{X} \in \mathbb{R}^{n \times m}{}$
+
+becaus
 
 
 
