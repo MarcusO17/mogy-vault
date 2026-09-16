@@ -48,13 +48,27 @@ $$
 $$
 So we have to trace what has $w^{l}_{jk}$ touched before this till the output as they would have affected each other, like tugging a chain of buoys, (OO Chain Rule).  We can get how much did the neural network loss change by changing that weight. So that weight change, also affected the inputs of many other nodes along the way, which affected many more nodes along the way, 
 
-Let's say the nodes path is like, The inputs are the previous nodes activations (in simpler terms, incoming output from the previous nodes) which is denoted as 
-$a$ (similar to net input). for an activation of node mk at layer $l$ .. :
+For simplicity, consider a single linear path connecting one node to the next.
+
+The inputs entering the current layer are simply the activations from the previous layer—in other words, the incoming output signals, denoted as $a^{l-1}$.
+
+For node $j$ at layer $l$, this incoming signal passes through two distinct stages:
+
+1. **Net Input (Pre-activation, $z$):**
+    
+    The incoming activation is scaled by weight $w$ and shifted by bias $b$:
+    
+    $$z_j^l = w_{jk}^l a_k^{l-1} + b_j^l$$
+    
+2. **Activation (Post-activation, $a$):**
+    
+    The raw sum $z_j^l$ is passed through an activation function $\sigma$ (such as ReLU or Tanh) to produce the node's final output:
+    
+    $$a_j^l = \sigma(z_j^l) = \sigma(w_{jk}^l a_k^{l-1} + b_j^l)$$
+    
+
+This output $a_j^l$ then becomes the incoming input for the next layer down the chain.
 $$
-	\begin{align}
-	a^{l}_{k}  &= \sigma(z^{l-1}_{j})  \\
-	 &= \sigma(w^{l-1}_{jk}\cdot x^{l-1}_{j} + b^{l-1}_{j})
-	\end{align}
 $$
 where $wx+b$ is the net input denoted as z and $\sigma$ is the activation function.
 
