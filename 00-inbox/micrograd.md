@@ -37,8 +37,16 @@ We can measure the "slopeyness" or the gradient by the given formula. basically
 
 
 
-## Measuring the Slope with multiple inputs.
+## Measuring the Slope with multiple inputs
 
+We can utilise partial derivatives, basically at all times, we are only allowed to nudge 1 variable hence we target that.
+
+Let's 
+$$
+f(x_{1},x_{2},\dots, x_{n}
+)
+$$
+We wanna find what if we nudge juts $x_i$  
 
 
 
