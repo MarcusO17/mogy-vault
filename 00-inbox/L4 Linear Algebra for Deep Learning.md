@@ -20,7 +20,9 @@ a rank-1 tensor, like a container of real values
 * The $\times 1$ on the dim of the vector kinda makes in upright, we can imagine it like a matrices with 1 column, this is to ease the many different deep learning computations
 * With that, we then will represent $$\mathbf{x}^T = \begin{bmatrix}
 x_1 \quad x_2 \quad \dots x_n
-\end{bmatrix}, \text{}$$
+\end{bmatrix}, \text{where } \mathbf{x}^T \in \mathbb{R}^{1 \times n}$$
+
+
 
 
 
