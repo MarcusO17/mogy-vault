@@ -80,14 +80,6 @@ We can find out roughly  how much each variable, $x,y,z$ affects the final outpu
    For z , no matter what we change $z$ to, its directly adding to the final output without any scaling factor, hence the $\frac{df}{dz}=1$
 
 
-## Understanding *Value*
-
-   Neural Networks, can be viewed as a bunch of perceptrons/ neurons, wired together, to produce an output, in which these neurons often are just mathematical expressions. And they learn through backpropagation, but what is learning, if they cannot compare what they were before this,  hence they need a memory to realise what values they held before this. So let's introduce Value.
-
-
-
-
-
 
 
 

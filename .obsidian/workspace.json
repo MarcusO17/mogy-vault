@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/micrograd.md",
+                "file": "10-notes/Computation Graphs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "micrograd"
+              "title": "Computation Graphs"
             }
           }
         ],
@@ -247,9 +247,10 @@
   },
   "active": "914694e3295cb26d",
   "lastOpenFiles": [
+    "00-inbox/micrograd.md",
+    "00-inbox/Backpropagation.md",
     "assets/images/Pasted image 20260916150832.png",
     "assets/images/Pasted image 20260916150817.png",
-    "00-inbox/micrograd.md",
     "Untitled",
     "conflict-files-obsidian-git.md",
     "assets/templates/10-notes.md",
@@ -294,7 +295,6 @@
     "assets/images/Pasted image 20250818153843.png",
     "assets/images/Pasted image 20250818143705.png",
     "assets/images/Pasted image 20250816201906.png",
-    "assets/images/Pasted image 20250810171854.png",
     "literature-notes/bignotes/Untitled.canvas"
   ]
 }
