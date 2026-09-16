@@ -32,11 +32,10 @@ Let's take a $w$, at layer $l$, on node $j$ going to node $k$ , $$w^{l}_{jk}$$
 
 Let's say that we just got ran a forward pass, and calculated the loss of the whole network $\mathcal{L}$ , We now wanna find out, how much do we have to change $w^{l}_{jk}$ , ($\Delta w^{l}_{jk}$) in order to reduce $\mathcal{L}$?
 
-![[Pasted image 20260916171233.png]]
+So we have to trace what has $w^{l}_{jk}$ touched bef 
 
 
 
-Assume that $w^{l}
 
 
 
