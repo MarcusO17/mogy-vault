@@ -52,8 +52,8 @@ Let's say the nodes path is like, The inputs are the previous nodes activations 
 $a$ (similar to net input). for an activation of node mk at layer $l$ .. :
 $$
 	\begin{align}
-	a^{l}_{k}  &= \sigma(z^{l+1}_{j})  \\
-	 &= \sigma(w^{l+1}_{jk}\cdot x)
+	a^{l}_{k}  &= \sigma(z^{l-1}_{j})  \\
+	 &= \sigma(w^{l-1}_{jk}\cdot x^{l-1}_{j} + b^{l-1}_{j})
 	\end{align}
 $$
 where $wx+b$ is the net input denoted as z and $\sigma$ is the activation function.
