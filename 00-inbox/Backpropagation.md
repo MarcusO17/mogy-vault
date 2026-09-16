@@ -65,7 +65,7 @@ $$
 \frac{ \partial a }{ \partial w } = \sigma'(z) + x
 $$
 
-Okay let's circle back, 
+Okay let's circle back, we can see the activations of the function are adjusted by the factor of 
 
 
 
