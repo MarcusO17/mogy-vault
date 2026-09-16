@@ -94,7 +94,7 @@ $$
 	\begin{align}
 	p  &= \sigma(z_{m}) \\
 	p &=\sigma(w_{p}\cdot z_{m} +b_{p}) \\
-	p &=\sigma(w_{p} \cdot (w))
+	p &=\sigma(w_{p} \cdot (w_{k}\cdot z_{j}+b_{k})+w_{p})
 	\end{align}
 $$
 
