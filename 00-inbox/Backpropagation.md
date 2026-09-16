@@ -104,7 +104,7 @@ Each step is literally just:
 $$\text{Incoming Blame} \times \text{Activation Slope} \times \text{Weight}$$
 
 
-Turning 1 million forward pass into 1 backward pass, as we know each
+Turning 1 million forward pass into 1 backward pass, as we know each nodes $\frac{ \partial \mathcal{L} }{ \partial w }$ as we move backwards all the way to the first node (wherever).
 
 
 
