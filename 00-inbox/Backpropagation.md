@@ -92,7 +92,7 @@ Let's look at $p$ first.
 
 $$
 	\begin{align}
-	p  &= \sigma(z_{m}) \\
+	p  &= \sigma(z_{p}) \\
 	p &=\sigma(w_{p}\cdot z_{m} +b_{p}) \\
 	p &=\sigma(w_{p} \cdot (w_{k}\cdot z_{j}+b_{k})+w_{p})
 	\end{align}
@@ -104,7 +104,7 @@ Each step is literally just:
 $$\text{Incoming Blame} \times \text{Activation Slope} \times \text{Weight}$$
 
 
-Turning 1 million forward pass into 1 backward pass, as we know each nodes $\frac{ \partial \mathcal{L} }{ \partial w }$ as we move backwards all the way to the first node (wherever).
+Turning 1 million forward pass into 1 backward pass, as we know each nodes $\frac{ \partial \mathcal{L} }{ \partial w_{\text{current node}} }$ as we move backwards all the way to the first node (wherever).
 
 
 
