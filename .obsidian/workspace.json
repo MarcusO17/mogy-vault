@@ -4,39 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "201503e997fe3a6c",
+        "id": "319bac0ff3812a07",
         "type": "tabs",
         "children": [
           {
-            "id": "ec5adcf3a7789ad9",
+            "id": "a83a75560ab44284",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-notes/Non-Linear Activation Functions.md",
+                "file": "concepts/deep-learning/training/An Iterative Training Algorithm for Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Non-Linear Activation Functions"
+              "title": "An Iterative Training Algorithm for Linear Regression"
             }
           },
           {
-            "id": "f9c5c6b48fff93c2",
+            "id": "d649e4b2401ff6db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-inbox/L4 Linear Algebra for Deep Learning.md",
+                "file": "Map of Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L4 Linear Algebra for Deep Learning"
+              "title": "Map of Content"
+            }
+          },
+          {
+            "id": "ec0ceb0858ccabb8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d93456f82064e7e3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -56,9 +76,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -71,7 +89,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -91,7 +109,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concepts/foundations/classical-ml/Logistic Regression.md",
+                "file": "literature-notes/bignotes/the PyTorch Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logistic Regression"
+              "title": "Backlinks for the PyTorch Process"
             }
           },
           {
@@ -130,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-inbox/L2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -173,7 +191,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-inbox/L2.0.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -183,7 +200,7 @@
             }
           },
           {
-            "id": "e63a28c90bc15e22",
+            "id": "04799c0bd06c65f8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -211,54 +228,54 @@
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "terminal:Open terminal": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f9c5c6b48fff93c2",
+  "active": "d93456f82064e7e3",
   "lastOpenFiles": [
-    "00-inbox/Broadcasting Semantics.md",
-    "README.md",
-    "AGENTS.md",
-    "00-inbox/L4 Linear Algebra for Deep Learning.md",
-    "00-inbox/L1.0 - SR.md",
-    "40-archive",
+    "conflict-files-obsidian-git.md",
+    "assets/templates/10-notes.md",
+    "assets/templates/00-inbox.md",
     "assets/images/Pasted image 20260916122827.png",
     "assets/images/Pasted image 20260916122741.png",
     "assets/images/Pasted image 20260916122620.png",
-    "00-inbox/One-Hot Encoding.md",
-    "10-notes/ADAM.md",
-    "10-notes/Understanding Gradient Descent.md",
-    "10-notes/Vanishing Gradients.md",
+    "assets/images/Pasted image 20260915172859.png",
+    "Write",
+    "If",
+    "30-sources/VGG-16.md",
+    "30-sources/Multilayer Networks.md",
+    "30-sources/Introduction to Deep Learning.md",
+    "30-sources/Common Math Notation.md",
+    "30-sources/AlexNet.md",
+    "30-sources",
+    "20-MOC/DL001/DL002 - Module 2.md",
+    "20-MOC/DL001/DL001 - Module 1.md",
+    "20-MOC/DL001/DL001 - 2026.md",
+    "20-MOC/DL001",
+    "20-MOC",
     "10-notes/Xiaver Glorot Initialization.md",
     "10-notes/Wide vs. Deep Architectures.md",
-    "10-notes/RMSProp.md",
-    "10-notes/Sequence Modelling.md",
-    "20-MOC/DL001/DL001 - Module 1.md",
-    "20-MOC/DL001/DL002 - Module 2.md",
-    "10-notes/Recurrent Neural Networks.md",
-    "10-notes/Overfitting and Underfitting.md",
-    "10-notes/Logits.md",
-    "10-notes/Early Stopping.md",
-    "10-notes/Different Way to Model Text.md",
-    "10-notes/Cross Entropy.md",
-    "10-notes/Bias-Variance Decomposition.md",
+    "10-notes/Weight Initialization.md",
+    "10-notes/Vectors.md",
+    "10-notes/Vanishing Gradients.md",
     "10-notes/Universal Approximation Theorem.md",
-    "10-notes/L1 L2 Regularization.md",
-    "10-notes/Norm.md",
-    "10-notes/Notational Conventions in Deep Learning.md",
-    "assets/images/Neko-Jo-Nakashima.pdf",
-    "assets/images/Pasted image 20260915172859.png",
-    "20-MOC/DL001",
+    "10-notes/Understanding Gradient Descent.md",
+    "10-notes/The PyTorch Training Process.md",
+    "10-notes/Supervised Learning.md",
+    "10-notes/The Perceptron.md",
+    "10-notes/Stochastic Gradient Descent.md",
+    "10-notes/Softmax.md",
+    "10-notes/Standard Deviation.md",
+    "10-notes/Sigmoid Function.md",
+    "10-notes/Sequence Modelling.md",
+    "10-notes",
+    "00-inbox",
+    "literature-notes/papers",
+    "literature-notes/mechanisms",
+    "literature-notes",
     "Untitled.canvas",
-    "15-exercises",
-    "20-MOC/STAT453",
-    "20-MOC",
-    "AGENTS.md.tmp.11780.c65f6525d0a3",
-    "AGENTS.md.tmp.11780.8d0411d67a00",
-    "AGENTS.md.tmp.11780.24be9e926c2f",
-    "assets/templates/10-notes.md.tmp.11780.0175acd7f65f",
     "Pasted image 20260602164416.png",
+    "Untitled 1.canvas",
     "assets/images/Pasted image 20250818153843.png",
     "assets/images/Pasted image 20250818143705.png",
     "assets/images/Pasted image 20250816201906.png",
