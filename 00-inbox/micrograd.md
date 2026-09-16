@@ -47,6 +47,10 @@ f(x_{1},x_{2},\dots, x_{n}
 )
 $$
 We wanna find what if we nudge just $x_i$ , what happens to the rest of the graph? 
+>[question]
+>Why don't we nudge all? Partial derivatives only target one. The base intuition is if we were to bake a cake, and we change all the ingredients everytime, we don't fucking know what caused what.
+
+
 
 
 
