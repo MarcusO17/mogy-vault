@@ -58,7 +58,11 @@ $$
 \frac{ \partial f }{ \partial x_{i} }(x_{1},x_{2},\dots,x_{n}) = \lim_{ h \to 0 } \frac{f(x_{1},\dots,x_{i}+h,\dots,x_{n})+f(x_{1},\dots,x_{i},\dots,x_{n})}{h} 
 $$
 
-Okay let's put this into picture, 
+Okay let's put this into picture, let's assume a function $f$,
+$$
+f(x,y,z) = xy + z
+$$
+We can find out roughly  how much each variable, $x,y,z$ affects the final output, like in the previously mentioned c
 
 
 
