@@ -46,16 +46,6 @@
             }
           },
           {
-            "id": "d93456f82064e7e3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "914694e3295cb26d",
             "type": "leaf",
             "state": {
@@ -70,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -247,11 +237,11 @@
   },
   "active": "914694e3295cb26d",
   "lastOpenFiles": [
+    "00-inbox/micrograd.md",
+    "00-inbox/Backpropagation.md",
     "assets/images/Pasted image 20260916171243.png",
     "assets/images/Pasted image 20260916171233.png",
     "10-notes/Computation Graphs.md",
-    "00-inbox/micrograd.md",
-    "00-inbox/Backpropagation.md",
     "assets/images/Pasted image 20260916150832.png",
     "assets/images/Pasted image 20260916150817.png",
     "Untitled",
@@ -294,7 +284,6 @@
     "Pasted image 20260602164416.png",
     "Untitled 1.canvas",
     "assets/images/Pasted image 20250818153843.png",
-    "assets/images/Pasted image 20250818143705.png",
     "literature-notes/bignotes/Untitled.canvas"
   ]
 }
