@@ -23,8 +23,12 @@ x_1 \quad x_2 \quad \dots  \quad x_n
 \end{bmatrix}, \text{where } \mathbf{x}^T \in \mathbb{R}^{1 \times n}$$
 ### Matrix 
 a rank-2 tensor
-$$\mathbf{X} \in \mathbb{R}^{m \times}$$
+$$\mathbf{X} \in \mathbb{R}^{m \times n}$$
+e.g.,
 
+$$
+
+$$
 
 
 
