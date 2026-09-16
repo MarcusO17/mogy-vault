@@ -91,7 +91,10 @@ We start by figuring out it's linked nodes.
 Let's look at $p$ first.
 
 $$
-	p = \sigma(z_{m})
+	\begin{align}
+	p  &= \sigma(z_{m}) \\
+	p &=\sigma(w_{m}+z)
+	\end{align}
 $$
 
 
