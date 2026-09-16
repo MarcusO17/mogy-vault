@@ -97,11 +97,14 @@ $$
 	p &=\sigma(w_{p} \cdot (w_{k}\cdot z_{j}+b_{k})+w_{p})
 	\end{align}
 $$
+Or
+$$\frac{\partial \mathcal{L}}{\partial j} = \mathcal{L}'\Big(\sigma(w_p \cdot m + b_p)\Big) \cdot \sigma'(w_p \cdot m + b_p) \cdot w_p \cdot \sigma'(w_m \cdot k + b_m) \cdot w_m \cdot \sigma'(w_k \cdot j + b_k) \cdot w_k$$
+Each step is literally just:
+
+$$\text{Incoming Blame} \times \text{Activation Slope} \times \text{Weight}$$
 
 
-
-
-
+Turning 1 million forward pass into 1 backward pass, as we know each
 
 
 
