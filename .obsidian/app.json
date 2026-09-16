@@ -3,5 +3,6 @@
   "showInlineTitle": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "00-inbox"
+  "newFileFolderPath": "00-inbox",
+  "attachmentFolderPath": "assets/images"
 }
