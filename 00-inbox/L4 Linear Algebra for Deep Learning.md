@@ -27,10 +27,9 @@ $$\mathbf{X} \in \mathbb{R}^{m \times n}$$
 e.g.,
 
 $$
-\begin{align}
-
-
-\end{align}
+\mathbf{X} = \begin{bmatrix}
+x_{1,1}
+\end{bmatrix}
 $$
 
 
