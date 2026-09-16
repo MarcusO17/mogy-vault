@@ -51,7 +51,9 @@ So we have to trace what has $w^{l}_{jk}$ touched before this till the output as
 So for this case let's assume that the path of the nodes are $k \to p \to \dots \to m\to n$
 And the aforementioned inputs are the previous nodes activations (in simpler terms, incoming output from the previous nodes) which is denoted as $a$ (similar to net input). The formula for net input:
 $$
-	a =\sigma( wx+b)
+	\begin{align}
+	a^{l}_{j} =
+	\end{align}
 $$
 where $wx+b$ is the net input denoted as z and $\sigma$ is the activation function.
 
@@ -65,7 +67,7 @@ $$
 \frac{ \partial a }{ \partial w } = \sigma'(z) + x
 $$
 
-Okay let's circle back, we can see the activations of the function are adjusted by the factor of 
+Okay let's circle back, we 
 
 
 
