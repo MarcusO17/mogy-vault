@@ -50,6 +50,9 @@ We wanna find what if we nudge just $x_i$ , what happens to the rest of the grap
 >[!question]
 >Why don't we nudge all? Partial derivatives only target one. The base intuition is if we were to bake a cake, and we change all the ingredients everytime, we don't fucking know what caused what.
 
+Partial derivatives will come in very useful as we work with ML/DL, $x$ might represent a vector of a training example etc.  And it will become a drilldown process.
+
+
 
 
 
