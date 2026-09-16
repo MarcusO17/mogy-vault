@@ -17,7 +17,9 @@ $$
 \frac{ \partial \mathcal{L} }{ \partial w }, \quad \frac{ \partial \mathcal{L} }{ \partial b }  
 $$
 >[!note]
->If I were to nudge/adjust $w$ or  $b$ 
+>If I were to nudge/adjust $w$ or  $b$, how much would $\mathcal{L}$ change?
+
+
 
 
 
