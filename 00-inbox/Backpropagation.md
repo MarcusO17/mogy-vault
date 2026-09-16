@@ -48,11 +48,12 @@ $$
 $$
 So we have to trace what has $w^{l}_{jk}$ touched before this till the output as they would have affected each other, like tugging a chain of buoys, (OO Chain Rule).  We can get how much did the neural network loss change by changing that weight. So that weight change, also affected the inputs of many other nodes along the way, which affected many more nodes along the way, 
 
-Let's say the nThe inputs are the previous nodes activations (in simpler terms, incoming output from the previous nodes) which is denoted as 
-$a$ (similar to net input). for an activation of node mkat layer $l$ .. :
+Let's say the nodes path is like, The inputs are the previous nodes activations (in simpler terms, incoming output from the previous nodes) which is denoted as 
+$a$ (similar to net input). for an activation of node mk at layer $l$ .. :
 $$
 	\begin{align}
-	a^{l}_{j} =
+	a^{l}_{k}  &= \sigma(z^{l+1}_{j})  \\
+	 &= \sigma(w^{l+1}_{jk}\cdot x)
 	\end{align}
 $$
 where $wx+b$ is the net input denoted as z and $\sigma$ is the activation function.
