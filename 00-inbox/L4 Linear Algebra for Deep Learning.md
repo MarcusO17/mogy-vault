@@ -75,7 +75,7 @@ This will get confusing, let's look at CIFAR-10 dataset.
 each of the training example is a RGB image, a 3D tensor.
 We can explain/describe the dimensionality of these 4D tensors using the NCHW.
 $$
-NCHWz
+\text{NCHW =  }\text{Number of training examples}\times\text{Number of color channels}\times 
 $$
 
 
