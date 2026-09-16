@@ -25,7 +25,7 @@ To measure the slope at a particular point, in this case $x_{0}$. We are able to
 
 The formula is as follows, 
 $$
-f'(x_{0}) = \lim_{ h \to 0 } 
+f'(x_{0}) = \lim_{ h \to 0 } \frac{f(x_{0}+h) - f(x_{0})}{h}
 $$
 
 
