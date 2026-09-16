@@ -75,7 +75,13 @@ $$\frac{ \partial a^{l}_{j} }{ \partial w^{l}_{jk} } = \sigma'(z^{l}_{j}) \cdot 
 
 Okay we are straying to far, let's circle back, to why this is backpropagating.
 Assume a linear node path : $$j\to k\to\dots\to m\to p \to \mathcal{L}$$
+We want to find how much the starting node $j$ affects the final loss $\mathcal{L}$:
 
+$$\frac{\partial \mathcal{L}}{\partial j}$$
+
+Remember we stumbled across chain rule, every link along the path multiplies together:
+
+$$\frac{\partial \mathcal{L}}{\partial j} = \left( \frac{\partial \mathcal{L}}{\partial p} \right) \cdot \left( \frac{\partial p}{\partial m} \right) \dots \left( \frac{\partial k}{\partial j} \right)$$
 
 
 
