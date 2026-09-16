@@ -21,7 +21,12 @@ This is a classic quadratic equation graph. There is always a local minima, whic
 But in this case we are more interested in calculating the slope of the graph. Why?? tbc..
 
 ## Measuring the Slope
-To measure the slope at a particular point, in this case $x_{0}$. We are able to differentiate a scalar function, in this case $f(x)$ at a certain point ($x_{0}$) as long there is a possible finite limit (meaning as $x_{0} \to 0 \in \mathbb{R}$ )
+To measure the slope at a particular point, in this case $x_{0}$. We are able to differentiate a scalar function, in this case $f(x)$ at a certain point ($x_{0}$) as long there is a possible finite limit (meaning as $f'(x_{0} \to 0) \in \mathbb{R}$ ). 
+
+The formula is as follows, 
+$$
+f'(x_{0}) = \lim_{ h \to 0 } 
+$$
 
 
 
