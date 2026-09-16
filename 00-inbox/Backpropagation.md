@@ -28,7 +28,7 @@ So if we think about a Neural Network with 1 million nodes, there will be nearly
 This is the beauty of Backpropagation. 
 
 We are able to get all $\frac{ \partial \mathcal{L} }{ \partial w_{j} }$ in 1 single backward pass, as compared to 2 million passes. But how?
-Let's take a w, 
+Let's take a $w$, at layer $l$, on node $jk$ , $w^{l}_{jk}$
 
 
 
