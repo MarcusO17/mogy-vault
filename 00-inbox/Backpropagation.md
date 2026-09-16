@@ -83,11 +83,13 @@ Remember we stumbled across chain rule, every link along the path multiplies tog
 Reminder: we are kinda going backwards naturally as, we only have the $\mathcal{L}$ at the moment, which is then we look at $p$ which is determined by output of $m$ ... all the way back to $j$
 
 $$\frac{\partial \mathcal{L}}{\partial j} = \left( \frac{\partial \mathcal{L}}{\partial p} \right) \cdot \left( \frac{\partial p}{\partial m} \right) \dots \left( \frac{\partial k}{\partial j} \right)$$
-Let's subtitute this to see how messy it gets but intuitively easy it is.
+Let's solve this to see how messy it gets but intuitively easy it is.
 $$
 	\frac{ \partial \mathcal{L} }{ \partial j } 
 $$
+We start by figuring out it's linked nodes. 
 
+	1. par
 
 
 
