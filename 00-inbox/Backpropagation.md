@@ -50,7 +50,7 @@ So we have to trace what has $w^{l}_{jk}$ touched before this till the output as
 
 For simplicity, consider a single linear path connecting one node to the next.
 
-The inputs entering the current layer are simply the activations from the previous layer—in other words, the incoming output signals, denoted as $a^{l-1}$.
+The inputs entering the current layer are simply the activations from the previous layer, in other words, the incoming output signals, denoted as $a^{l-1}$.
 
 For node $j$ at layer $l$, this incoming signal passes through two distinct stages:
 
@@ -68,13 +68,10 @@ For node $j$ at layer $l$, this incoming signal passes through two distinct stag
     
 
 This output $a_j^l$ then becomes the incoming input for the next layer down the chain.
-$$
-$$
-where $wx+b$ is the net input denoted as z and $\sigma$ is the activation function.
 
 To see how much the activations changed,
 $$
-	\frac{ \partial a }{ \partial w } = \frac{ \partial a  }{ \partial z } \cdot \frac{ \partial z }{ \partial x } 
+	\frac{ \partial a^{l}_{j} }{ \partial w^{l}_{jk} } = \frac{ \partial a  }{ \partial z } \cdot \frac{ \partial z }{ \partial x } 
 $$
 BOOM Chain Rule! 
 Using differentiation rules, we would then get:
