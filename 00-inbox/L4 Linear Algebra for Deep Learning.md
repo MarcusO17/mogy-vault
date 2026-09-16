@@ -43,14 +43,14 @@ because ${}n{}$ is often used to refer to the number of examples in a dataset, l
 
 $$
 \mathbf{X} = \begin{bmatrix}
-x^{[n]}_{1}  &  x^{[1]}_{2}  & \dots  & x^{[1]}_{m} \\
+x^{[1]}_{1}  &  x^{[1]}_{2}  & \dots  & x^{[1]}_{m} \\
 x^{[2]}{1} & x^{[2]}_{2}  &  \dots  & x^{[2]}_{m}  \\
 \vdots  & \vdots & \ddots & \vdots \\
-x_{1}  &  x{2}  & \dots  &  x_{m}
+x^{[n]}_{1}  &  x^{[n]}_{2}  & \dots  &  x^{[n]}_{m}
 \end{bmatrix}
 $$
 
-
+Following ${}X{}$ above, the "rows" are a training example, and the subscript shows the feature
 
 
 
