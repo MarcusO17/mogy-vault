@@ -65,11 +65,15 @@ $$
 We can find out roughly  how much each variable, $x,y,z$ affects the final output, like in the previously mentioned cake analogy.
 
 1. $x$
-   If we take $\frac{ \partial f }{ \partial x }$ the differenciation rules, would then dictate,
+   If we take $\frac{ \partial f }{ \partial x }$ the differentiation rules, would then dictate,
    $$
-	\frac{df}{dx} = x
+\begin{align}
+\frac{df}{dx} &= x^{1-1}y \\
+ &= y
+\end{align}
    $$
-
+   But if we think about it, If we wanna nudge $x$ ,
+   
 
 
 
