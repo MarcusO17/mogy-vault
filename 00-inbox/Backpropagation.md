@@ -49,11 +49,14 @@ $$
 So we have to trace what has $w^{l}_{jk}$ touched before this till the output as they would have affected each other, like tugging a chain of buoys, (OO Chain Rule).  We can get how much did the neural network loss change by changing that weight. So that weight change, also affected the inputs of many other nodes along the way, which affected many more nodes along the way, 
 
 So for this case let's assume that the path of the nodes are $k \to p \to \dots \to m\to n$
-And the aforementioned inputs are the previous nodes activations (in simpler terms, their output) which is denoted as $z$ (similar to net input). The formula for net input:
+And the aforementioned inputs are the previous nodes activations (in simpler terms, incoming output from the previous nodes) which is denoted as $z$ (similar to net input). The formula for net input:
 $$
 	z = wx+b
 $$
-To see how much th
+To see how much the activations changed,
+$$
+	\frac{ \partial z }{ \partial w } =
+$$
 
 
 
