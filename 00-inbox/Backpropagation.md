@@ -57,9 +57,10 @@ where $wx+b$ is the net input denoted as z and $\sigma$ is the activation functi
 
 To see how much the activations changed,
 $$
-	\frac{ \partial a }{ \partial w } = \frac{ \partial  }{ \partial \sigma } \cdot \frac{ \partial \sigma }{ \partial x } 
+	\frac{ \partial a }{ \partial w } = \frac{ \partial a  }{ \partial z } \cdot \frac{ \partial z }{ \partial x } 
 $$
-
+BOOM Chain Rule! 
+Using differentiation 
 
 
 
