@@ -43,10 +43,10 @@ because ${}n{}$ is often used to refer to the number of examples in a dataset, l
 
 $$
 \mathbf{X} = \begin{bmatrix}
-x_{1}  &  x_{1,2}  & \dots  & x_{1,n} \\
-x_{2,1} & x_{2,2}  &  \dots  & x_{2,n}  \\
+x^{[n]}_{1}  &  x^{[1]}_{2}  & \dots  & x^{[1]}_{m} \\
+x^{[2]}{1} & x^{[2]}_{2}  &  \dots  & x^{[2]}_{m}  \\
 \vdots  & \vdots & \ddots & \vdots \\
-x_{m,1}  &  x{m,2}  & \dots  &  x_{m,n}
+x_{1}  &  x{2}  & \dots  &  x_{m}
 \end{bmatrix}
 $$
 
