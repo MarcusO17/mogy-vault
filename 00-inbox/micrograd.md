@@ -7,7 +7,13 @@ status: draft
 
 # micrograd
 
-Let's first understand what is a [[dervative]]
+Let's first understand what is a [[derivative]], It is the backbone of all of [[Backpropagation]].
+
+Assume 
+$$
+	f(x) = 2x^{2} + 3x + 2 
+$$Using `matplotlib` we can get a graph that looks like.
+
 
 
 
