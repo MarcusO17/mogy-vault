@@ -46,7 +46,9 @@ So that can be explained in mathematical terms:
 $$
 	\Delta \mathcal{L} = \frac{ \partial \mathcal{L} }{ \partial w^{l}_{jk} }\cdot \Delta w^{l}_{jk}
 $$
-So we have to trace what has $w^{l}_{jk}$ touched before this till the output as they would have affected each other, like tugging a chain of buoys, (OO Chain Rule).  We can get how much did the neural network loss change by changing that weight. So that weight change, also affected the inputs of many other 
+So we have to trace what has $w^{l}_{jk}$ touched before this till the output as they would have affected each other, like tugging a chain of buoys, (OO Chain Rule).  We can get how much did the neural network loss change by changing that weight. So that weight change, also affected the inputs of many other nodes along the way, which affected many more nodes along the way, 
+
+So for this case let's assume 
 
 
 
