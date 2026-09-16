@@ -74,7 +74,12 @@ Using differentiation rules, we would then get:
 $$\frac{ \partial a^{l}_{j} }{ \partial w^{l}_{jk} } = \sigma'(z^{l}_{j}) \cdot a^{l-1}_{k}$$
 
 Okay we are straying to far, let's circle back, to why this is backpropagating.
-Assume a linear node path : $j\to k\to\dots\to m\to p$
+Assume a linear node path : $$j\to k\to\dots\to m\to p \to \mathcal{L}$$
+
+
+
+
+
 
 
 
