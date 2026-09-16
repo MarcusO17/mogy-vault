@@ -16,7 +16,8 @@ aka rank-0 tensor,
 
 ### Vector
 a rank-1 tensor, like a container of real values
-
+* $\mathbf{x} \in \mathbb{R}^{n \times 1}$
+* The 
 
 
 
