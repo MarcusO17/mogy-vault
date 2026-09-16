@@ -54,10 +54,13 @@ Following ${}X{}$ above, each row corresponds to one training example, and the s
 
 
 ### 3D Tensor
-A rank-3 tensor
+A rank-3 tensor where,
 
+${}\mathbf{X} \in \mathbb{R}^{m \times n \times p}{}$
 
+![[Pasted image 20260916122620.png]]
 
+We often just refer to this as a 3d tensor. m and n are just regular/generic terms , they dont mean 
 
 
 
