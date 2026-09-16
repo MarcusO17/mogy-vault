@@ -21,7 +21,7 @@ This is a classic quadratic equation graph. There is always a local minima, whic
 But in this case we are more interested in calculating the slope of the graph. Why?? tbc..
 
 ## Measuring the Slope
-
+To measure the slope at a particular point, in this case $x_{0}$ 
 
 
 
