@@ -28,8 +28,8 @@ e.g.,
 
 $$
 \begin{align}
- y &= mx + c \\
- y  &= \
+
+
 \end{align}
 $$
 
