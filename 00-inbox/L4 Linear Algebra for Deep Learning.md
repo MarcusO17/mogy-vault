@@ -28,7 +28,7 @@ e.g.,
 
 $$
 \mathbf{X} = \begin{bmatrix}
-x_{1,1}
+x_{1,1} 
 \end{bmatrix}
 $$
 
