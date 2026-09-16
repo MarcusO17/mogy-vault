@@ -25,6 +25,8 @@ Backpropagation does not actually make the network learn but only provides the g
 
 So if we think about a Neural Network with 1 million nodes, there will be nearly 2 millions things to update, 1 million weights and 1 million biases. And since we can't just nudge it all at once, ( as mentioned in [[micrograd]], we will not know where to go). We will perform partial derivation on each node, to just understand how should we fix this particular node? That will take 2 million computations to know what to do next. Not even the final solution but what to do next. So we can imagine, how long will it take for us to achieve minimum loss?
 
+This is the beauty of Backpropagation. 
+
 
 
 
