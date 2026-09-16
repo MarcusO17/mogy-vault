@@ -60,7 +60,12 @@ $$
 	\frac{ \partial a }{ \partial w } = \frac{ \partial a  }{ \partial z } \cdot \frac{ \partial z }{ \partial x } 
 $$
 BOOM Chain Rule! 
-Using differentiation 
+Using differentiation rules, we would then get:
+$$
+\frac{ \partial a }{ \partial w } = \sigma'(z) + x
+$$
+
+Okay let's circle back, 
 
 
 
