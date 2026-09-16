@@ -14,7 +14,9 @@ $$
 	f(x) = 2x^{2} + 3x + 2 
 $$Using `matplotlib` we can get a graph that looks like.
 
-![[Pasted image 20260916150832.png|487]]
+![[Pasted image 20260916150832.png|385]]
+
+This is a classic quadratic equation graph. There is always a local minima, which is the slope's "valley".
 
 
 
