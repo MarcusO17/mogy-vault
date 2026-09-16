@@ -109,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,6 +233,7 @@
   },
   "active": "d93456f82064e7e3",
   "lastOpenFiles": [
+    "Untitled",
     "conflict-files-obsidian-git.md",
     "assets/templates/10-notes.md",
     "assets/templates/00-inbox.md",
@@ -267,7 +268,6 @@
     "10-notes/Softmax.md",
     "10-notes/Standard Deviation.md",
     "10-notes/Sigmoid Function.md",
-    "10-notes/Sequence Modelling.md",
     "10-notes",
     "00-inbox",
     "literature-notes/papers",
