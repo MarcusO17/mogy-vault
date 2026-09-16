@@ -11,7 +11,7 @@ status: draft
 ## Tensor
 A Tensor is a generalization of the concepts of scalar's, vector's and matrices
 - Scalar
-- $x \in \math$
+- $x \in \mathbb{R}$ , (X is )
 
 
 
