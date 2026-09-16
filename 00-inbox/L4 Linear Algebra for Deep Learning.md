@@ -39,7 +39,16 @@ We will often use ${}\mathbf{X}{}$ as a special convention to refer to the **des
 
 The dims of the design matrix will assume the structure ${}\mathbf{X} \in \mathbb{R}^{n \times m}{}$
 
-becaus
+because ${}n{}$ is often used to refer to the number of examples in a dataset, like number of rows. (Ironic as in the matrix it's a column)
+
+$$
+\mathbf{X} = \begin{bmatrix}
+x_{1}  &  x_{1,2}  & \dots  & x_{1,n} \\
+x_{2,1} & x_{2,2}  &  \dots  & x_{2,n}  \\
+\vdots  & \vdots & \ddots & \vdots \\
+x_{m,1}  &  x{m,2}  & \dots  &  x_{m,n}
+\end{bmatrix}
+$$
 
 
 
