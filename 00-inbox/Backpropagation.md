@@ -87,9 +87,14 @@ Let's solve this to see how messy it gets but intuitively easy it is.
 $$
 	\frac{ \partial \mathcal{L} }{ \partial j } 
 $$
-We start by figuring out it's linked nodes. 
+We start by figuring out it's linked nodes.
+Let's look at $p$ first.
 
-	1. par
+$$
+	p = \sigma(z_{m})
+$$
+
+
 
 
 
