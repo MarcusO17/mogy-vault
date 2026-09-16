@@ -55,7 +55,7 @@ Partial derivatives will come in very useful as we work with ML/DL, $x$ might re
 The formula to find out a specific variable in affecting the gradient of the slope.
 
 $$
-\frac{ \partial f }{ \partial x_{i} }(x_{1},x_{2},\dots,x_{n}) = \lim_{ h \to 0 } \frac{f(x_{1},\dots,x_{i}+)}{} 
+\frac{ \partial f }{ \partial x_{i} }(x_{1},x_{2},\dots,x_{n}) = \lim_{ h \to 0 } \frac{f(x_{1},\dots,x_{i}+h,\dots,x_{n})+f(x_{1},\dots,x_{i},\dots,x_{n})}{h} 
 $$
 
 
