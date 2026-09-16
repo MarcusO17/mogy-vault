@@ -23,8 +23,7 @@ Backpropagation does not actually make the network learn but only provides the g
 
 ## Beauty of Backprop
 
-So if we think about a Neural Network with 1 million nodes, there will be nearly 2 millions things to update, 1 million weights and 1 million biases. And since we can't just
-
+So if we think about a Neural Network with 1 million nodes, there will be nearly 2 millions things to update, 1 million weights and 1 million biases. And since we can't just nudge it all at once, ( as mentioned in [[micrograd]], we will not know where to go). We will perform partial derivation on each node.
 
 
 
