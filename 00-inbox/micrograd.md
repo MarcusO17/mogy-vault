@@ -62,7 +62,7 @@ Okay let's put this into picture, let's assume a function $f$,
 $$
 f(x,y,z) = xy + z
 $$
-We can find out roughly  how much each variable, $x,y,z$ affects the final output, like in the previously mentioned c
+We can find out roughly  how much each variable, $x,y,z$ affects the final output, like in the previously mentioned cake analogy,
 
 
 
