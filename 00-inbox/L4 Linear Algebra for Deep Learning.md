@@ -35,6 +35,8 @@ x_{m,1}  &  x{m,2}  & \dots  &  x_{m,n}
 \end{bmatrix}
 $$
 
+We will often use ${}\mathbf{X}{}$ as a special convention to refer to the **design matrix**. Which 
+
 
 
 
