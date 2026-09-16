@@ -67,7 +67,7 @@ We can find out roughly  how much each variable, $x,y,z$ affects the final outpu
 1. $x$
    If we take $\frac{ \partial f }{ \partial x }$ the differenciation rules, would then dictate,
    $$
-	\frac{dy}{dx} = 
+	\frac{df}{dx} = x
    $$
 
 
