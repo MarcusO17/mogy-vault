@@ -80,8 +80,13 @@ We want to find how much the starting node $j$ affects the final loss $\mathcal{
 $$\frac{\partial \mathcal{L}}{\partial j}$$
 
 Remember we stumbled across chain rule, every link along the path multiplies together:
+Reminder: we are k
 
 $$\frac{\partial \mathcal{L}}{\partial j} = \left( \frac{\partial \mathcal{L}}{\partial p} \right) \cdot \left( \frac{\partial p}{\partial m} \right) \dots \left( \frac{\partial k}{\partial j} \right)$$
+Let's subtitute this to see how messy it gets but intuitively easy it is.
+$$
+	\frac{ \partial \mathcal{L} }{ \partial  } 
+$$
 
 
 
