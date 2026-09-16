@@ -14,8 +14,10 @@ In order to compute this gradient, we utilize **Backpropagation**,
 
 This algorithm has only 1 job, which is based on the current parameters (weights and bias values) how much does the **current**  node affect how far the answer is from the truth value (loss).
 $$
-
+\frac{ \partial \mathcal{L} }{ \partial w }, \quad \frac{ \partial \mathcal{L} }{ \partial b }  
 $$
+>[!note]
+>If I were to nudge/adjust $w$ or  $b$ 
 
 
 
