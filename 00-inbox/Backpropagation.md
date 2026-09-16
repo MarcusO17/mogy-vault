@@ -69,17 +69,10 @@ For node $j$ at layer $l$, this incoming signal passes through two distinct stag
 
 This output $a_j^l$ then becomes the incoming input for the next layer down the chain.
 
-To see how much the activations changed,
-$$
-	\frac{ \partial a^{l}_{j} }{ \partial w^{l}_{jk} } = \frac{ \partial a  }{ \partial z } \cdot \frac{ \partial z }{ \partial x } 
-$$
-BOOM Chain Rule! 
+To see how much the activations changed,$$\frac{ \partial a^{l}_{j} }{ \partial w^{l}_{jk} } = \frac{ \partial a^{l}_{j} }{ \partial z^{l}_{j} } \cdot \frac{ \partial z^{l}_{j} }{ \partial w^{l}_{jk} }$$BOOM Chain Rule!
 Using differentiation rules, we would then get:
-$$
-\frac{ \partial a }{ \partial w } = \sigma'(z) + x
-$$
+$$\frac{ \partial a^{l}_{j} }{ \partial w^{l}_{jk} } = \sigma'(z^{l}_{j}) \cdot a^{l-1}_{k}$$
 
-Okay let's circle back, we 
 
 
 
