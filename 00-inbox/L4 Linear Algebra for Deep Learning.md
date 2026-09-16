@@ -68,7 +68,17 @@ We can encounter these 3D Tensors in the wild, such as IMAGES.
 
 
 ### 4D Tensors
-This will get c
+This will get confusing, let's look at CIFAR-10 dataset.
+
+![[Pasted image 20260916122827.png]]
+
+each of the training example is a RGB image, a 3D tensor.
+We can explain/describe the dimensionality of these 4D tensors using the NCHW.
+$$
+NCHWz
+$$
+
+
 
 
 
