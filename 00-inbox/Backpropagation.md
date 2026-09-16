@@ -52,9 +52,12 @@ So for this case let's assume that the path of the nodes are $k \to p \to \dots 
 And the aforementioned inputs are the previous nodes activations (in simpler terms, incoming output from the previous nodes) which is denoted as $z$ (similar to net input). The formula for net input:
 $$
 	z =\sigma( wx+b)
-$$To see how much the activations changed,
 $$
-	\frac{ \partial z }{ \partial w } =x
+where $wx+b$ is the computation and $\sigma$ is the activation function.
+
+To see how much the activations changed,
+$$
+	\frac{ \partial z }{ \partial w } = \frac{ \partial z }{ \partial \sigma } \cdot \frac{ \partial \sigma }{ \partial x } 
 $$
 
 
