@@ -50,10 +50,11 @@ x^{[n]}_{1}  &  x^{[n]}_{2}  & \dots  &  x^{[n]}_{m}
 \end{bmatrix}
 $$
 
-Following ${}X{}$ above, the "rows" are a training example, and the subscript shows the feature
+Following ${}X{}$ above, each row corresponds to one training example, and the subscript denotes the feature index/count.
 
 
-
+### 3D Tensor
+A rank-3 tensor
 
 
 
