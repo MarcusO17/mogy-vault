@@ -27,7 +27,10 @@ $$\mathbf{X} \in \mathbb{R}^{m \times n}$$
 e.g.,
 
 $$
-
+\begin{align}
+ y &= mx + c \\
+ y  &= \
+\end{align}
 $$
 
 
