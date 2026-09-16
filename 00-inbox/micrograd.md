@@ -80,7 +80,7 @@ We can find out roughly  how much each variable, $x,y,z$ affects the final outpu
    For z , no matter what we change $z$ to, its directly adding to the final output without any scaling factor, hence the $\frac{df}{dz}=1$
 
 
-
+##
    
 
 
