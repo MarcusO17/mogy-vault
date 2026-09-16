@@ -16,7 +16,12 @@ $$Using `matplotlib` we can get a graph that looks like.
 
 ![[Pasted image 20260916150832.png|385]]
 
-This is a classic quadratic equation graph. There is always a local minima, which is the slope's "valley".
+This is a classic quadratic equation graph. There is always a local minima, which is the "valley" of the graph.
+
+But in this case we are more interested in calculating the slope of the graph. Why?? tbc..
+
+## Measuring the Slope
+
 
 
 
