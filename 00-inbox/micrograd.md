@@ -82,8 +82,7 @@ We can find out roughly  how much each variable, $x,y,z$ affects the final outpu
 
 ## Understanding *Value*
 
-   Neural Networks, can be viewed as a bunch of perceptrons/ neurons, wired together, to produce an output, in which these neurons often are just mathematical expressions.
-   
+   Neural Networks, can be viewed as a bunch of perceptrons/ neurons, wired together, to produce an output, in which these neurons often are just mathematical expressions. And they learn through backpropagation, but what is learning, th
 
 
 
