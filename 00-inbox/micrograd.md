@@ -29,6 +29,8 @@ f'(x_{0}) = \lim_{ h \to 0 } \frac{f(x_{0}+h) - f(x_{0})}{h}
 $$
 
 
+In real mathematics, we will take the limit of $h \to 0$ but in code we shall just take a tiny tiny number, as it will give us a finite (real number) difference approximation.
+
 
 
 
