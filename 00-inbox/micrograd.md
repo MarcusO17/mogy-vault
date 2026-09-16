@@ -65,7 +65,7 @@ $$
 We can find out roughly  how much each variable, $x,y,z$ affects the final output, like in the previously mentioned cake analogy.
 
 1. $x$
-   If we take 
+   If we take $\frac{ \partial f }{ \partial x }$ the di
 
 
 
