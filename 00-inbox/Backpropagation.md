@@ -93,7 +93,8 @@ Let's look at $p$ first.
 $$
 	\begin{align}
 	p  &= \sigma(z_{m}) \\
-	p &=\sigma(w_{m}+z)
+	p &=\sigma(w_{p}\cdot z_{m} +b_{p}) \\
+	p &=\sigma(w_{p} \cdot (w))
 	\end{align}
 $$
 
