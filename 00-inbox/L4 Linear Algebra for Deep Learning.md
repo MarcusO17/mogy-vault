@@ -60,9 +60,15 @@ ${}\mathbf{X} \in \mathbb{R}^{m \times n \times p}{}$
 
 ![[Pasted image 20260916122620.png]]
 
-We often just refer to this as a 3d tensor. m and n are just regular/generic terms , they dont mean 
+We often just refer to this as a 3d tensor. m and n are just regular/generic terms , they don't mean  anything.
+
+We can encounter these 3D Tensors in the wild, such as IMAGES.
+
+![[Pasted image 20260916122741.png]]
 
 
+### 4D Tensors
+This will get c
 
 
 
